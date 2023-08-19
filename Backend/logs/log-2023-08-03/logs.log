@@ -1,0 +1,1319 @@
+2023-08-03 09:58:40,577 INFO Acquired Credentials
+2023-08-03 09:58:48,288 INFO Acquired Credentials
+2023-08-03 09:59:11,889 INFO Acquired Credentials
+2023-08-03 09:59:13,638 INFO Connection initialized
+2023-08-03 09:59:13,638 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unloc&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 09:59:13,723 INFO Connection initialized
+2023-08-03 09:59:13,723 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Ph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 09:59:13,747 INFO Connection initialized
+2023-08-03 09:59:13,747 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 128GB (Unlocked) Graph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 09:59:13,808 INFO Connection initialized
+2023-08-03 09:59:13,808 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unloc&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 09:59:14,968 INFO Successfully redirected to US store
+2023-08-03 09:59:14,980 INFO Successfully redirected to US store
+2023-08-03 09:59:14,992 INFO Successfully redirected to US store
+2023-08-03 09:59:15,002 INFO Successfully redirected to US store
+2023-08-03 09:59:20,889 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-03 09:59:21,129 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-03 09:59:21,760 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-128gb-unlocked-graphite/6516548?variant=A&skuId=6516548&sort=MOST_RECENT&page=1
+2023-08-03 09:59:21,854 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-128gb-unlocked-graphite/6516548?variant=A&skuId=6516548&sort=MOST_RECENT&page=1
+2023-08-03 09:59:27,273 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Graphite SM-F721UZAAXAA| initiated
+2023-08-03 09:59:27,279 INFO initialised search in update mode
+2023-08-03 09:59:27,448 INFO Acquisition of product |Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unlocked) Graphite IPH-12P-128-GRY| initiated
+2023-08-03 09:59:27,453 INFO initialised search in update mode
+2023-08-03 09:59:27,457 INFO Acquisition of product |Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unlocked) Graphite IPH-12P-128-GRY| initiated
+2023-08-03 09:59:27,460 INFO initialised search in update mode
+2023-08-03 09:59:27,582 INFO Acquisition of product |Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Phantom Black SM-F711UZKBXAASM-F711UZKAXAA| initiated
+2023-08-03 09:59:27,590 INFO initialised search in update mode
+2023-08-03 09:59:30,919 INFO Quit search after adding 0 reviews
+2023-08-03 09:59:31,191 INFO Quit search after adding 0 reviews
+2023-08-03 09:59:31,333 INFO Quit search after adding 0 reviews
+2023-08-03 09:59:31,667 INFO Quit search after adding 0 reviews
+2023-08-03 09:59:33,232 INFO Updated History.csv
+2023-08-03 09:59:33,233 INFO Success!
+2023-08-03 09:59:33,544 INFO Updated History.csv
+2023-08-03 09:59:33,544 INFO Success!
+2023-08-03 09:59:33,700 ERROR Thread Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unlocked) Pacific Blue IPH-12P-128-BLE failed!
+2023-08-03 10:02:15,936 INFO Acquired Credentials
+2023-08-03 10:02:23,020 INFO Acquired Credentials
+2023-08-03 10:02:28,802 INFO Acquired Credentials
+2023-08-03 10:02:30,679 INFO Connection initialized
+2023-08-03 10:02:30,680 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Ph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:02:30,720 INFO Connection initialized
+2023-08-03 10:02:30,721 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unloc&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:02:30,763 INFO Connection initialized
+2023-08-03 10:02:30,763 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 128GB (Unlocked) Graph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:02:30,764 INFO Connection initialized
+2023-08-03 10:02:30,764 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unloc&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:02:32,070 INFO Successfully redirected to US store
+2023-08-03 10:02:32,101 INFO Successfully redirected to US store
+2023-08-03 10:02:32,110 INFO Successfully redirected to US store
+2023-08-03 10:02:32,117 INFO Successfully redirected to US store
+2023-08-03 10:02:37,241 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-128gb-unlocked-graphite/6516548?variant=A&skuId=6516548&sort=MOST_RECENT&page=1
+2023-08-03 10:02:37,369 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-128gb-unlocked-graphite/6516548?variant=A&skuId=6516548&sort=MOST_RECENT&page=1
+2023-08-03 10:02:37,999 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-03 10:02:38,430 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-03 10:02:41,872 INFO Acquisition of product |Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unlocked) Graphite IPH-12P-128-GRY| initiated
+2023-08-03 10:02:41,875 INFO initialised search in update mode
+2023-08-03 10:02:42,812 INFO Acquisition of product |Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unlocked) Graphite IPH-12P-128-GRY| initiated
+2023-08-03 10:02:42,815 INFO initialised search in update mode
+2023-08-03 10:02:44,709 INFO Acquisition of product |Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Phantom Black SM-F711UZKBXAASM-F711UZKAXAA| initiated
+2023-08-03 10:02:44,715 INFO initialised search in update mode
+2023-08-03 10:02:44,776 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Graphite SM-F721UZAAXAA| initiated
+2023-08-03 10:02:44,781 INFO initialised search in update mode
+2023-08-03 10:02:44,973 INFO Quit search after adding 0 reviews
+2023-08-03 10:02:47,592 INFO Quit search after adding 0 reviews
+2023-08-03 10:02:47,603 INFO Updated History.csv
+2023-08-03 10:02:47,603 INFO Success!
+2023-08-03 10:02:48,166 INFO Quit search after adding 0 reviews
+2023-08-03 10:02:48,361 INFO Quit search after adding 0 reviews
+2023-08-03 10:02:49,901 ERROR Thread Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unlocked) Pacific Blue IPH-12P-128-BLE failed!
+2023-08-03 10:03:48,833 INFO Acquired Credentials
+2023-08-03 10:03:58,336 INFO Acquired Credentials
+2023-08-03 10:04:00,108 INFO Connection initialized
+2023-08-03 10:04:00,108 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Ph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:04:00,177 INFO Connection initialized
+2023-08-03 10:04:00,178 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 128GB (Unlocked) Graph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:04:00,179 INFO Connection initialized
+2023-08-03 10:04:00,179 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unloc&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:04:00,224 INFO Connection initialized
+2023-08-03 10:04:00,224 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unloc&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:04:01,351 INFO Successfully redirected to US store
+2023-08-03 10:04:01,357 INFO Successfully redirected to US store
+2023-08-03 10:04:01,362 INFO Successfully redirected to US store
+2023-08-03 10:04:01,369 INFO Successfully redirected to US store
+2023-08-03 10:04:06,148 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-03 10:04:06,327 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-03 10:04:06,691 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-128gb-unlocked-graphite/6516548?variant=A&skuId=6516548&sort=MOST_RECENT&page=1
+2023-08-03 10:04:07,409 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-128gb-unlocked-graphite/6516548?variant=A&skuId=6516548&sort=MOST_RECENT&page=1
+2023-08-03 10:04:11,006 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Graphite SM-F721UZAAXAA| initiated
+2023-08-03 10:04:11,010 INFO initialised search in update mode
+2023-08-03 10:04:11,707 INFO Acquisition of product |Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unlocked) Graphite IPH-12P-128-GRY| initiated
+2023-08-03 10:04:11,709 INFO initialised search in update mode
+2023-08-03 10:04:11,898 INFO Acquisition of product |Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Phantom Black SM-F711UZKBXAASM-F711UZKAXAA| initiated
+2023-08-03 10:04:11,903 INFO initialised search in update mode
+2023-08-03 10:04:13,793 INFO Quit search after adding 0 reviews
+2023-08-03 10:04:14,695 INFO Acquisition of product |Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unlocked) Graphite IPH-12P-128-GRY| initiated
+2023-08-03 10:04:14,698 INFO initialised search in update mode
+2023-08-03 10:04:14,812 INFO Quit search after adding 0 reviews
+2023-08-03 10:04:15,498 INFO Quit search after adding 0 reviews
+2023-08-03 10:04:16,145 INFO Updated History.csv
+2023-08-03 10:04:16,145 INFO Success!
+2023-08-03 10:04:17,086 INFO Updated History.csv
+2023-08-03 10:04:17,086 INFO Success!
+2023-08-03 10:04:17,370 INFO Quit search after adding 0 reviews
+2023-08-03 10:04:17,741 INFO Updated History.csv
+2023-08-03 10:04:17,741 INFO Success!
+2023-08-03 10:04:19,608 ERROR Thread Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unlocked) Pacific Blue IPH-12P-128-BLE failed!
+2023-08-03 10:04:19,717 INFO Analysed data from BestBuy
+2023-08-03 10:04:20,827 ERROR Google Trends: Error while acquiring dataframe
+2023-08-03 10:04:21,554 INFO Connected to Reddit
+2023-08-03 10:04:23,077 INFO Acquired data from Reddit
+2023-08-03 10:04:23,509 INFO Updated entire database
+2023-08-03 10:04:31,001 INFO Completed Operation
+2023-08-03 10:05:42,637 INFO Acquired Credentials
+2023-08-03 10:05:49,689 INFO Acquired Credentials
+2023-08-03 10:05:56,505 INFO Acquired Credentials
+2023-08-03 10:05:58,343 INFO Connection initialized
+2023-08-03 10:05:58,344 INFO Connection initialized
+2023-08-03 10:05:58,344 INFO Connection initialized
+2023-08-03 10:05:58,344 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unloc&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:05:58,345 INFO Connection initialized
+2023-08-03 10:05:58,345 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Ph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:05:58,345 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unloc&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:05:58,345 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 128GB (Unlocked) Graph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:05:59,406 INFO Successfully redirected to US store
+2023-08-03 10:05:59,414 INFO Successfully redirected to US store
+2023-08-03 10:05:59,420 INFO Successfully redirected to US store
+2023-08-03 10:05:59,453 INFO Successfully redirected to US store
+2023-08-03 10:06:03,821 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-03 10:06:04,811 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-128gb-unlocked-graphite/6516548?variant=A&skuId=6516548&sort=MOST_RECENT&page=1
+2023-08-03 10:06:04,939 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-128gb-unlocked-graphite/6516548?variant=A&skuId=6516548&sort=MOST_RECENT&page=1
+2023-08-03 10:06:05,512 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-03 10:06:08,848 INFO Acquisition of product |Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Phantom Black SM-F711UZKBXAASM-F711UZKAXAA| initiated
+2023-08-03 10:06:08,853 INFO initialised search in update mode
+2023-08-03 10:06:09,805 INFO Acquisition of product |Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unlocked) Graphite IPH-12P-128-GRY| initiated
+2023-08-03 10:06:09,808 INFO initialised search in update mode
+2023-08-03 10:06:10,362 INFO Acquisition of product |Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unlocked) Graphite IPH-12P-128-GRY| initiated
+2023-08-03 10:06:10,364 INFO initialised search in update mode
+2023-08-03 10:06:11,503 INFO Quit search after adding 0 reviews
+2023-08-03 10:06:11,710 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Graphite SM-F721UZAAXAA| initiated
+2023-08-03 10:06:11,713 INFO initialised search in update mode
+2023-08-03 10:06:12,791 INFO Quit search after adding 0 reviews
+2023-08-03 10:06:13,124 INFO Quit search after adding 0 reviews
+2023-08-03 10:06:13,845 INFO Updated History.csv
+2023-08-03 10:06:13,846 INFO Success!
+2023-08-03 10:06:14,302 INFO Quit search after adding 0 reviews
+2023-08-03 10:06:15,062 INFO Updated History.csv
+2023-08-03 10:06:15,062 INFO Success!
+2023-08-03 10:06:15,386 ERROR Thread Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unlocked) Graphite IPH-12P-128-GRY failed!
+2023-08-03 10:06:15,386 ERROR Error: [WinError 2] The system cannot find the file specified: 'Backend/Data/BestBuyAll-Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unlocked) Graphite IPH-12P-128-GRY-Thu-Aug-3-10-04-19-2023.csv'
+2023-08-03 10:09:35,684 INFO Acquired Credentials
+2023-08-03 10:09:53,720 INFO Acquired Credentials
+2023-08-03 10:10:00,471 INFO Acquired Credentials
+2023-08-03 10:10:06,609 INFO Acquired Credentials
+2023-08-03 10:10:08,364 INFO Connection initialized
+2023-08-03 10:10:08,364 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 128GB (Unlocked) Graph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:10:08,425 INFO Connection initialized
+2023-08-03 10:10:08,425 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unloc&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:10:08,425 INFO Connection initialized
+2023-08-03 10:10:08,426 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unloc&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:10:08,552 INFO Connection initialized
+2023-08-03 10:10:08,552 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Ph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:10:09,706 INFO Successfully redirected to US store
+2023-08-03 10:10:09,748 INFO Successfully redirected to US store
+2023-08-03 10:10:09,823 INFO Successfully redirected to US store
+2023-08-03 10:10:10,770 INFO Successfully redirected to US store
+2023-08-03 10:10:16,226 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-03 10:10:16,888 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-128gb-unlocked-graphite/6516548?variant=A&skuId=6516548&sort=MOST_RECENT&page=1
+2023-08-03 10:10:17,486 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-128gb-unlocked-graphite/6516548?variant=A&skuId=6516548&sort=MOST_RECENT&page=1
+2023-08-03 10:10:18,958 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-03 10:10:22,650 INFO Acquisition of product |Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unlocked) Graphite IPH-12P-128-GRY| initiated
+2023-08-03 10:10:22,654 INFO initialised search in update mode
+2023-08-03 10:10:23,705 INFO Acquisition of product |Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unlocked) Graphite IPH-12P-128-GRY| initiated
+2023-08-03 10:10:23,709 INFO initialised search in update mode
+2023-08-03 10:10:24,137 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Graphite SM-F721UZAAXAA| initiated
+2023-08-03 10:10:24,142 INFO initialised search in update mode
+2023-08-03 10:10:25,646 INFO Quit search after adding 0 reviews
+2023-08-03 10:10:25,781 INFO Acquisition of product |Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Phantom Black SM-F711UZKBXAASM-F711UZKAXAA| initiated
+2023-08-03 10:10:25,786 INFO initialised search in update mode
+2023-08-03 10:10:27,344 INFO Quit search after adding 0 reviews
+2023-08-03 10:10:27,713 INFO Quit search after adding 0 reviews
+2023-08-03 10:10:27,913 INFO Updated History.csv
+2023-08-03 10:10:27,913 INFO Success!
+2023-08-03 10:10:28,743 INFO Quit search after adding 0 reviews
+2023-08-03 10:10:29,602 ERROR Thread Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unlocked) Pacific Blue IPH-12P-128-BLE failed!
+2023-08-03 10:10:29,603 ERROR Error: [WinError 2] The system cannot find the file specified: 'Backend/Data/BestBuyAll-Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unlocked) Graphite IPH-12P-128-GRY-Thu-Aug-3-10-06-15-2023.csv'
+2023-08-03 10:11:33,985 INFO Acquired Credentials
+2023-08-03 10:11:41,034 INFO Acquired Credentials
+2023-08-03 10:12:24,544 INFO Acquired Credentials
+2023-08-03 10:12:25,818 INFO Connection initialized
+2023-08-03 10:12:25,818 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=hyperX haste 2 mouse&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:12:26,866 INFO Successfully redirected to US store
+2023-08-03 10:12:32,078 INFO Found product review link https://www.bestbuy.com/site/reviews/hyperx-pulsefire-haste-2-lightweight-wireless-optical-gaming-mouse-with-rgb-lighting-black/6537573?variant=A&skuId=6537573&sort=MOST_RECENT&page=1
+2023-08-03 10:12:38,447 INFO Acquisition of product |HyperX Pulsefire Haste 2 Lightweight Wireless Optical Gaming Mouse with RGB Lighting Black 6N0B0AA| initiated
+2023-08-03 10:12:38,448 INFO initialised fresh search
+2023-08-03 10:12:43,391 INFO Quit search after adding 15 reviews
+2023-08-03 10:12:45,627 INFO Updated History.csv
+2023-08-03 10:12:45,627 INFO Success!
+2023-08-03 10:12:45,701 INFO Analysed data from BestBuy
+2023-08-03 10:12:46,783 INFO Connected to Reddit
+2023-08-03 10:12:51,366 INFO Acquired data from Reddit
+2023-08-03 10:12:51,909 INFO Updated entire database
+2023-08-03 10:12:58,981 INFO Completed Operation
+2023-08-03 10:13:21,269 INFO Acquired Credentials
+2023-08-03 10:13:21,344 INFO Deleted all tables and reset History
+2023-08-03 10:13:21,457 INFO Dropped all tables
+2023-08-03 10:13:22,772 INFO Connection initialized
+2023-08-03 10:13:22,772 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Ph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:13:22,903 INFO Connection initialized
+2023-08-03 10:13:22,903 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 128GB (Unlocked) Graph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:13:23,896 INFO Successfully redirected to US store
+2023-08-03 10:13:24,063 INFO Successfully redirected to US store
+2023-08-03 10:13:28,618 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-03 10:13:28,771 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-03 10:13:33,681 INFO Acquisition of product |Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Phantom Black SM-F711UZKBXAASM-F711UZKAXAA| initiated
+2023-08-03 10:13:33,681 INFO initialised fresh search
+2023-08-03 10:13:33,976 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Graphite SM-F721UZAAXAA| initiated
+2023-08-03 10:13:33,976 INFO initialised fresh search
+2023-08-03 10:13:58,294 INFO Quit search after adding 167 reviews
+2023-08-03 10:14:00,532 INFO Updated History.csv
+2023-08-03 10:14:00,532 INFO Success!
+2023-08-03 10:14:17,301 INFO Quit search after adding 308 reviews
+2023-08-03 10:14:19,534 INFO Updated History.csv
+2023-08-03 10:14:19,534 INFO Success!
+2023-08-03 10:14:19,540 INFO Analysed data from BestBuy
+2023-08-03 10:14:20,509 ERROR Google Trends: Error while acquiring dataframe
+2023-08-03 10:14:20,585 INFO Connected to Reddit
+2023-08-03 10:14:21,833 INFO Acquired data from Reddit
+2023-08-03 10:14:21,920 INFO Dropped all tables
+2023-08-03 10:14:22,390 INFO Updated entire database
+2023-08-03 10:14:26,795 INFO Completed Operation
+2023-08-03 10:14:35,743 INFO Acquired Credentials
+2023-08-03 10:14:37,185 INFO Connection initialized
+2023-08-03 10:14:37,185 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 128GB (Unlocked) Graph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:14:37,204 INFO Connection initialized
+2023-08-03 10:14:37,205 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Ph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:14:38,249 INFO Successfully redirected to US store
+2023-08-03 10:14:38,411 INFO Successfully redirected to US store
+2023-08-03 10:14:42,505 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-03 10:14:43,827 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-03 10:14:47,472 INFO Acquisition of product |Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Phantom Black SM-F711UZKBXAASM-F711UZKAXAA| initiated
+2023-08-03 10:14:47,476 INFO initialised search in update mode
+2023-08-03 10:14:49,941 INFO Quit search after adding 0 reviews
+2023-08-03 10:14:50,133 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Graphite SM-F721UZAAXAA| initiated
+2023-08-03 10:14:50,137 INFO initialised search in update mode
+2023-08-03 10:14:52,206 INFO Updated History.csv
+2023-08-03 10:14:52,206 INFO Success!
+2023-08-03 10:14:53,191 INFO Quit search after adding 0 reviews
+2023-08-03 10:14:55,392 INFO Updated History.csv
+2023-08-03 10:14:55,392 INFO Success!
+2023-08-03 10:14:55,463 INFO Analysed data from BestBuy
+2023-08-03 10:14:56,327 ERROR Google Trends: Error while acquiring dataframe
+2023-08-03 10:14:56,384 INFO Connected to Reddit
+2023-08-03 10:14:57,579 INFO Acquired data from Reddit
+2023-08-03 10:14:57,980 INFO Updated entire database
+2023-08-03 10:15:02,778 INFO Completed Operation
+2023-08-03 10:16:03,525 INFO Acquired Credentials
+2023-08-03 10:16:04,825 INFO Connection initialized
+2023-08-03 10:16:04,825 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 12 pro&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:16:06,275 INFO Successfully redirected to US store
+2023-08-03 10:16:13,340 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-256gb-unlocked-graphite/6516535?variant=A&skuId=6516535&sort=MOST_RECENT&page=1
+2023-08-03 10:16:21,037 INFO Acquisition of product |Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unlocked) Graphite IPH-12P-256-GRY| initiated
+2023-08-03 10:16:21,037 INFO initialised fresh search
+2023-08-03 10:16:27,694 INFO Quit search after adding 27 reviews
+2023-08-03 10:16:29,941 INFO Updated History.csv
+2023-08-03 10:16:29,941 INFO Success!
+2023-08-03 10:16:30,029 INFO Analysed data from BestBuy
+2023-08-03 10:16:30,899 INFO Connected to Reddit
+2023-08-03 10:16:42,887 INFO Acquired data from Reddit
+2023-08-03 10:16:43,586 INFO Updated entire database
+2023-08-03 10:16:50,087 INFO Completed Operation
+2023-08-03 10:16:56,102 INFO Acquired Credentials
+2023-08-03 10:16:57,592 INFO Connection initialized
+2023-08-03 10:16:57,593 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Ph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:16:57,643 INFO Connection initialized
+2023-08-03 10:16:57,643 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 128GB (Unlocked) Graph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:16:57,658 INFO Connection initialized
+2023-08-03 10:16:57,658 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unloc&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:16:58,658 INFO Successfully redirected to US store
+2023-08-03 10:16:58,702 INFO Successfully redirected to US store
+2023-08-03 10:16:58,760 INFO Successfully redirected to US store
+2023-08-03 10:17:03,338 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-03 10:17:03,538 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-03 10:17:03,836 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-256gb-unlocked-graphite/6516535?variant=A&skuId=6516535&sort=MOST_RECENT&page=1
+2023-08-03 10:17:08,409 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Graphite SM-F721UZAAXAA| initiated
+2023-08-03 10:17:08,413 INFO initialised search in update mode
+2023-08-03 10:17:09,225 INFO Acquisition of product |Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Phantom Black SM-F711UZKBXAASM-F711UZKAXAA| initiated
+2023-08-03 10:17:09,232 INFO initialised search in update mode
+2023-08-03 10:17:09,343 INFO Acquisition of product |Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unlocked) Graphite IPH-12P-256-GRY| initiated
+2023-08-03 10:17:09,345 INFO initialised search in update mode
+2023-08-03 10:17:11,216 INFO Quit search after adding 0 reviews
+2023-08-03 10:17:12,340 INFO Quit search after adding 0 reviews
+2023-08-03 10:17:12,618 INFO Quit search after adding 0 reviews
+2023-08-03 10:17:13,637 INFO Updated History.csv
+2023-08-03 10:17:13,637 INFO Success!
+2023-08-03 10:17:14,642 INFO Updated History.csv
+2023-08-03 10:17:14,642 INFO Success!
+2023-08-03 10:17:14,875 INFO Updated History.csv
+2023-08-03 10:17:14,875 INFO Success!
+2023-08-03 10:17:14,946 INFO Analysed data from BestBuy
+2023-08-03 10:17:15,580 ERROR Google Trends: Error while acquiring dataframe
+2023-08-03 10:17:15,654 INFO Connected to Reddit
+2023-08-03 10:17:16,946 INFO Acquired data from Reddit
+2023-08-03 10:17:17,330 INFO Updated entire database
+2023-08-03 10:17:23,717 INFO Completed Operation
+2023-08-03 10:18:34,934 INFO Acquired Credentials
+2023-08-03 10:19:00,632 INFO Acquired Credentials
+2023-08-03 10:19:02,194 INFO Connection initialized
+2023-08-03 10:19:02,194 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 128GB (Unlocked) Graph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:19:02,222 INFO Connection initialized
+2023-08-03 10:19:02,222 INFO Connection initialized
+2023-08-03 10:19:02,223 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Ph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:19:02,223 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unloc&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:19:03,244 INFO Successfully redirected to US store
+2023-08-03 10:19:03,288 INFO Successfully redirected to US store
+2023-08-03 10:19:03,427 INFO Successfully redirected to US store
+2023-08-03 10:19:08,082 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-03 10:19:08,417 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-03 10:19:09,042 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-256gb-unlocked-graphite/6516535?variant=A&skuId=6516535&sort=MOST_RECENT&page=1
+2023-08-03 10:19:13,048 INFO Acquisition of product |Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Phantom Black SM-F711UZKBXAASM-F711UZKAXAA| initiated
+2023-08-03 10:19:13,054 INFO initialised search in update mode
+2023-08-03 10:19:13,524 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Graphite SM-F721UZAAXAA| initiated
+2023-08-03 10:19:13,526 INFO initialised search in update mode
+2023-08-03 10:19:15,542 INFO Acquisition of product |Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unlocked) Graphite IPH-12P-256-GRY| initiated
+2023-08-03 10:19:15,544 INFO initialised search in update mode
+2023-08-03 10:19:15,955 INFO Quit search after adding 0 reviews
+2023-08-03 10:19:16,524 INFO Quit search after adding 0 reviews
+2023-08-03 10:19:18,199 INFO Quit search after adding 0 reviews
+2023-08-03 10:19:18,222 INFO Updated History.csv
+2023-08-03 10:19:18,223 INFO Success!
+2023-08-03 10:19:18,769 INFO Updated History.csv
+2023-08-03 10:19:18,769 INFO Success!
+2023-08-03 10:19:20,456 INFO Updated History.csv
+2023-08-03 10:19:20,456 INFO Success!
+2023-08-03 10:19:20,529 INFO Analysed data from BestBuy
+2023-08-03 10:19:21,379 ERROR Google Trends: Error while acquiring dataframe
+2023-08-03 10:19:21,455 INFO Connected to Reddit
+2023-08-03 10:19:22,799 INFO Acquired data from Reddit
+2023-08-03 10:19:23,177 INFO Updated entire database
+2023-08-03 10:19:29,886 INFO Completed Operation
+2023-08-03 10:20:11,709 INFO Acquired Credentials
+2023-08-03 10:20:13,019 INFO Connection initialized
+2023-08-03 10:20:13,020 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 14 pro max purple&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:20:14,309 INFO Successfully redirected to US store
+2023-08-03 10:20:31,121 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-128gb-deep-purple-t-mobile/6487481?variant=A&skuId=6487481&sort=MOST_RECENT&page=1
+2023-08-03 10:20:39,450 INFO Acquisition of product |Apple iPhone 14 Pro Max 128GB Deep Purple (T-Mobile) MQ8R3LLA| initiated
+2023-08-03 10:20:39,450 INFO initialised fresh search
+2023-08-03 10:21:42,646 INFO Quit search after adding 243 reviews
+2023-08-03 10:21:44,903 INFO Updated History.csv
+2023-08-03 10:21:44,903 INFO Success!
+2023-08-03 10:21:45,029 INFO Analysed data from BestBuy
+2023-08-03 10:21:45,959 INFO Connected to Reddit
+2023-08-03 10:21:50,345 INFO Acquired data from Reddit
+2023-08-03 10:21:50,850 INFO Updated entire database
+2023-08-03 10:21:59,559 INFO Completed Operation
+2023-08-03 10:23:11,408 INFO Acquired Credentials
+2023-08-03 10:23:12,730 INFO Connection initialized
+2023-08-03 10:23:12,730 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 12 blue&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:23:13,976 INFO Successfully redirected to US store
+2023-08-03 10:23:22,769 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-5g-64gb-unlocked-blue/6510035?variant=A&skuId=6510035&sort=MOST_RECENT&page=1
+2023-08-03 10:23:28,310 INFO Acquisition of product |Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) Blue IPH-12-64-BLE| initiated
+2023-08-03 10:23:28,310 INFO initialised fresh search
+2023-08-03 10:23:45,832 INFO Quit search after adding 108 reviews
+2023-08-03 10:23:48,070 INFO Updated History.csv
+2023-08-03 10:23:48,070 INFO Success!
+2023-08-03 10:23:48,144 INFO Analysed data from BestBuy
+2023-08-03 10:23:49,122 INFO Connected to Reddit
+2023-08-03 10:23:51,441 INFO Acquired data from Reddit
+2023-08-03 10:23:52,037 INFO Updated entire database
+2023-08-03 10:24:03,179 INFO Completed Operation
+2023-08-03 10:24:18,788 INFO Acquired Credentials
+2023-08-03 10:24:24,594 INFO Acquired Credentials
+2023-08-03 10:24:26,438 INFO Connection initialized
+2023-08-03 10:24:26,439 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unloc&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:24:26,601 INFO Connection initialized
+2023-08-03 10:24:26,601 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Ph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:24:26,754 INFO Connection initialized
+2023-08-03 10:24:26,754 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 128GB (Unlocked) Graph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:24:26,997 INFO Connection initialized
+2023-08-03 10:24:26,997 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) &_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:24:27,041 INFO Connection initialized
+2023-08-03 10:24:27,041 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple iPhone 14 Pro Max 128GB Deep Purple (T-&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:24:27,876 INFO Successfully redirected to US store
+2023-08-03 10:24:27,941 INFO Successfully redirected to US store
+2023-08-03 10:24:28,045 INFO Successfully redirected to US store
+2023-08-03 10:24:28,137 INFO Successfully redirected to US store
+2023-08-03 10:24:28,213 INFO Successfully redirected to US store
+2023-08-03 10:24:33,014 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-03 10:24:33,583 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-256gb-unlocked-graphite/6516535?variant=A&skuId=6516535&sort=MOST_RECENT&page=1
+2023-08-03 10:24:33,757 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-03 10:24:34,844 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-128gb-deep-purple-t-mobile/6487481?variant=A&skuId=6487481&sort=MOST_RECENT&page=1
+2023-08-03 10:24:36,811 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-5g-64gb-unlocked-black/6530509?variant=A&skuId=6530509&sort=MOST_RECENT&page=1
+2023-08-03 10:24:37,625 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Graphite SM-F721UZAAXAA| initiated
+2023-08-03 10:24:37,628 INFO initialised search in update mode
+2023-08-03 10:24:38,885 INFO Acquisition of product |Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Phantom Black SM-F711UZKBXAASM-F711UZKAXAA| initiated
+2023-08-03 10:24:38,891 INFO initialised search in update mode
+2023-08-03 10:24:39,697 INFO Acquisition of product |Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unlocked) Graphite IPH-12P-256-GRY| initiated
+2023-08-03 10:24:39,699 INFO initialised search in update mode
+2023-08-03 10:24:40,696 INFO Quit search after adding 0 reviews
+2023-08-03 10:24:41,023 INFO Acquisition of product |Apple iPhone 14 Pro Max 128GB Deep Purple (T-Mobile) MQ8R3LLA| initiated
+2023-08-03 10:24:41,028 INFO initialised search in update mode
+2023-08-03 10:24:42,622 INFO Quit search after adding 0 reviews
+2023-08-03 10:24:42,988 INFO Quit search after adding 0 reviews
+2023-08-03 10:24:43,000 INFO Updated History.csv
+2023-08-03 10:24:43,000 INFO Success!
+2023-08-03 10:24:43,775 INFO Acquisition of product |Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) Black A2172| initiated
+2023-08-03 10:24:43,775 INFO initialised fresh search
+2023-08-03 10:24:44,728 INFO Quit search after adding 0 reviews
+2023-08-03 10:24:44,901 INFO Updated History.csv
+2023-08-03 10:24:44,902 INFO Success!
+2023-08-03 10:24:45,300 INFO Updated History.csv
+2023-08-03 10:24:45,301 INFO Success!
+2023-08-03 10:24:47,044 INFO Updated History.csv
+2023-08-03 10:24:47,045 INFO Success!
+2023-08-03 10:25:03,517 INFO Quit search after adding 108 reviews
+2023-08-03 10:25:05,770 INFO Updated History.csv
+2023-08-03 10:25:05,770 INFO Success!
+2023-08-03 10:25:05,852 INFO Analysed data from BestBuy
+2023-08-03 10:25:06,698 ERROR Google Trends: Error while acquiring dataframe
+2023-08-03 10:25:06,946 INFO Connected to Reddit
+2023-08-03 10:25:08,357 INFO Acquired data from Reddit
+2023-08-03 10:25:08,860 INFO Updated entire database
+2023-08-03 10:25:20,002 INFO Completed Operation
+2023-08-03 10:31:32,173 INFO Acquired Credentials
+2023-08-03 10:31:39,148 INFO Acquired Credentials
+2023-08-03 10:32:49,436 INFO Acquired Credentials
+2023-08-03 10:32:51,529 INFO Connection initialized
+2023-08-03 10:32:51,530 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) &_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:32:51,798 INFO Connection initialized
+2023-08-03 10:32:51,798 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Ph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:32:51,799 INFO Connection initialized
+2023-08-03 10:32:51,800 INFO Connection initialized
+2023-08-03 10:32:51,800 INFO Connection initialized
+2023-08-03 10:32:51,800 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unloc&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:32:51,800 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 128GB (Unlocked) Graph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:32:51,800 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple iPhone 14 Pro Max 128GB Deep Purple (T-&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:32:51,802 INFO Connection initialized
+2023-08-03 10:32:51,803 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) &_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:32:52,970 INFO Successfully redirected to US store
+2023-08-03 10:32:53,037 INFO Successfully redirected to US store
+2023-08-03 10:32:53,136 INFO Successfully redirected to US store
+2023-08-03 10:32:53,187 INFO Successfully redirected to US store
+2023-08-03 10:32:53,238 INFO Successfully redirected to US store
+2023-08-03 10:32:53,371 INFO Successfully redirected to US store
+2023-08-03 10:32:59,291 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-03 10:32:59,660 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-128gb-deep-purple-t-mobile/6487481?variant=A&skuId=6487481&sort=MOST_RECENT&page=1
+2023-08-03 10:32:59,917 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-5g-64gb-unlocked-black/6530509?variant=A&skuId=6530509&sort=MOST_RECENT&page=1
+2023-08-03 10:33:00,074 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-5g-64gb-unlocked-black/6530509?variant=A&skuId=6530509&sort=MOST_RECENT&page=1
+2023-08-03 10:33:00,555 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-256gb-unlocked-graphite/6516535?variant=A&skuId=6516535&sort=MOST_RECENT&page=1
+2023-08-03 10:33:02,602 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-03 10:33:05,907 INFO Acquisition of product |Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) Black A2172| initiated
+2023-08-03 10:33:05,911 INFO initialised search in update mode
+2023-08-03 10:33:06,473 INFO Acquisition of product |Apple iPhone 14 Pro Max 128GB Deep Purple (T-Mobile) MQ8R3LLA| initiated
+2023-08-03 10:33:06,478 INFO initialised search in update mode
+2023-08-03 10:33:06,743 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Graphite SM-F721UZAAXAA| initiated
+2023-08-03 10:33:06,747 INFO initialised search in update mode
+2023-08-03 10:33:06,928 INFO Acquisition of product |Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) Black A2172| initiated
+2023-08-03 10:33:06,930 INFO initialised search in update mode
+2023-08-03 10:33:07,359 INFO Acquisition of product |Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unlocked) Graphite IPH-12P-256-GRY| initiated
+2023-08-03 10:33:07,361 INFO initialised search in update mode
+2023-08-03 10:33:08,362 INFO Acquisition of product |Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Phantom Black SM-F711UZKBXAASM-F711UZKAXAA| initiated
+2023-08-03 10:33:08,367 INFO initialised search in update mode
+2023-08-03 10:33:10,019 INFO Quit search after adding 0 reviews
+2023-08-03 10:33:11,277 INFO Quit search after adding 0 reviews
+2023-08-03 10:33:11,421 INFO Quit search after adding 0 reviews
+2023-08-03 10:33:11,446 INFO Quit search after adding 0 reviews
+2023-08-03 10:33:12,320 INFO Quit search after adding 0 reviews
+2023-08-03 10:33:12,454 INFO Updated History.csv
+2023-08-03 10:33:12,454 INFO Success!
+2023-08-03 10:33:12,806 INFO Quit search after adding 0 reviews
+2023-08-03 10:33:13,837 INFO Updated History.csv
+2023-08-03 10:33:13,837 INFO Success!
+2023-08-03 10:33:14,191 ERROR Thread Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) Blue IPH-12-64-BLE failed!
+2023-08-03 10:37:37,782 INFO Acquired Credentials
+2023-08-03 10:37:44,867 INFO Acquired Credentials
+2023-08-03 10:37:52,543 INFO Acquired Credentials
+2023-08-03 10:37:55,127 INFO Connection initialized
+2023-08-03 10:37:55,127 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) &_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:37:55,128 INFO Connection initialized
+2023-08-03 10:37:55,128 INFO Connection initialized
+2023-08-03 10:37:55,129 INFO Connection initialized
+2023-08-03 10:37:55,129 INFO Connection initialized
+2023-08-03 10:37:55,130 INFO Connection initialized
+2023-08-03 10:37:55,130 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Ph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:37:55,130 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) &_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:37:55,130 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple iPhone 14 Pro Max 128GB Deep Purple (T-&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:37:55,130 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unloc&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:37:55,130 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 128GB (Unlocked) Graph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:37:56,247 INFO Successfully redirected to US store
+2023-08-03 10:37:56,315 INFO Successfully redirected to US store
+2023-08-03 10:37:56,323 INFO Successfully redirected to US store
+2023-08-03 10:37:56,335 INFO Successfully redirected to US store
+2023-08-03 10:37:56,376 INFO Successfully redirected to US store
+2023-08-03 10:37:56,726 INFO Successfully redirected to US store
+2023-08-03 10:38:01,265 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-5g-64gb-unlocked-black/6530509?variant=A&skuId=6530509&sort=MOST_RECENT&page=1
+2023-08-03 10:38:01,322 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-5g-64gb-unlocked-black/6530509?variant=A&skuId=6530509&sort=MOST_RECENT&page=1
+2023-08-03 10:38:01,666 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-128gb-deep-purple-t-mobile/6487481?variant=A&skuId=6487481&sort=MOST_RECENT&page=1
+2023-08-03 10:38:01,687 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-03 10:38:01,880 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-256gb-unlocked-graphite/6516535?variant=A&skuId=6516535&sort=MOST_RECENT&page=1
+2023-08-03 10:38:02,341 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-03 10:38:07,368 INFO Acquisition of product |Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) Black A2172| initiated
+2023-08-03 10:38:07,372 INFO initialised search in update mode
+2023-08-03 10:38:07,456 INFO Acquisition of product |Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) Black A2172| initiated
+2023-08-03 10:38:07,460 INFO initialised search in update mode
+2023-08-03 10:38:08,178 INFO Acquisition of product |Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unlocked) Graphite IPH-12P-256-GRY| initiated
+2023-08-03 10:38:08,181 INFO initialised search in update mode
+2023-08-03 10:38:08,220 INFO Acquisition of product |Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Phantom Black SM-F711UZKBXAASM-F711UZKAXAA| initiated
+2023-08-03 10:38:08,225 INFO initialised search in update mode
+2023-08-03 10:38:08,493 INFO Acquisition of product |Apple iPhone 14 Pro Max 128GB Deep Purple (T-Mobile) MQ8R3LLA| initiated
+2023-08-03 10:38:08,498 INFO initialised search in update mode
+2023-08-03 10:38:08,970 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Graphite SM-F721UZAAXAA| initiated
+2023-08-03 10:38:08,973 INFO initialised search in update mode
+2023-08-03 10:38:11,539 INFO Quit search after adding 0 reviews
+2023-08-03 10:38:11,881 INFO Quit search after adding 0 reviews
+2023-08-03 10:38:12,283 INFO Quit search after adding 0 reviews
+2023-08-03 10:38:12,774 INFO Quit search after adding 0 reviews
+2023-08-03 10:38:13,161 INFO Quit search after adding 0 reviews
+2023-08-03 10:38:13,805 INFO Quit search after adding 0 reviews
+2023-08-03 10:38:13,921 INFO Updated History.csv
+2023-08-03 10:38:13,921 INFO Success!
+2023-08-03 10:38:14,169 ERROR Thread Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) Black A2172 failed!
+2023-08-03 10:38:56,361 INFO Acquired Credentials
+2023-08-03 10:39:20,516 INFO Acquired Credentials
+2023-08-03 10:39:27,495 INFO Acquired Credentials
+2023-08-03 10:39:32,294 INFO Acquired Credentials
+2023-08-03 10:39:34,589 INFO Connection initialized
+2023-08-03 10:39:34,589 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 128GB (Unlocked) Graph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:39:34,765 INFO Connection initialized
+2023-08-03 10:39:34,765 INFO Connection initialized
+2023-08-03 10:39:34,765 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple iPhone 14 Pro Max 128GB Deep Purple (T-&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:39:34,766 INFO Connection initialized
+2023-08-03 10:39:34,766 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Ph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:39:34,766 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unloc&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:39:34,767 INFO Connection initialized
+2023-08-03 10:39:34,768 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) &_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:39:35,839 INFO Successfully redirected to US store
+2023-08-03 10:39:35,955 INFO Successfully redirected to US store
+2023-08-03 10:39:35,974 INFO Successfully redirected to US store
+2023-08-03 10:39:36,043 INFO Successfully redirected to US store
+2023-08-03 10:39:36,294 INFO Successfully redirected to US store
+2023-08-03 10:39:36,993 ERROR Couldn't connect to driver
+2023-08-03 10:39:41,932 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-256gb-unlocked-graphite/6516535?variant=A&skuId=6516535&sort=MOST_RECENT&page=1
+2023-08-03 10:39:41,974 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-03 10:39:42,188 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-5g-64gb-unlocked-black/6530509?variant=A&skuId=6530509&sort=MOST_RECENT&page=1
+2023-08-03 10:39:42,293 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-128gb-deep-purple-t-mobile/6487481?variant=A&skuId=6487481&sort=MOST_RECENT&page=1
+2023-08-03 10:39:43,797 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-03 10:39:46,924 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Graphite SM-F721UZAAXAA| initiated
+2023-08-03 10:39:46,929 INFO initialised search in update mode
+2023-08-03 10:39:48,786 INFO Acquisition of product |Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unlocked) Graphite IPH-12P-256-GRY| initiated
+2023-08-03 10:39:48,789 INFO initialised search in update mode
+2023-08-03 10:39:48,810 INFO Acquisition of product |Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Phantom Black SM-F711UZKBXAASM-F711UZKAXAA| initiated
+2023-08-03 10:39:48,816 INFO initialised search in update mode
+2023-08-03 10:39:49,352 INFO Acquisition of product |Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) Black A2172| initiated
+2023-08-03 10:39:49,356 INFO initialised search in update mode
+2023-08-03 10:39:49,647 INFO Acquisition of product |Apple iPhone 14 Pro Max 128GB Deep Purple (T-Mobile) MQ8R3LLA| initiated
+2023-08-03 10:39:49,652 INFO initialised search in update mode
+2023-08-03 10:39:50,163 INFO Quit search after adding 0 reviews
+2023-08-03 10:39:52,118 INFO Quit search after adding 0 reviews
+2023-08-03 10:39:52,464 INFO Updated History.csv
+2023-08-03 10:39:52,465 INFO Success!
+2023-08-03 10:39:52,875 INFO Quit search after adding 0 reviews
+2023-08-03 10:39:53,742 INFO Quit search after adding 0 reviews
+2023-08-03 10:39:54,026 INFO Quit search after adding 0 reviews
+2023-08-03 10:39:54,398 INFO Updated History.csv
+2023-08-03 10:39:54,398 INFO Success!
+2023-08-03 10:39:55,207 INFO Updated History.csv
+2023-08-03 10:39:55,207 INFO Success!
+2023-08-03 10:39:56,049 INFO Updated History.csv
+2023-08-03 10:39:56,049 INFO Success!
+2023-08-03 10:39:56,276 INFO Updated History.csv
+2023-08-03 10:39:56,277 INFO Success!
+2023-08-03 10:39:56,353 INFO Analysed data from BestBuy
+2023-08-03 10:39:57,278 ERROR Google Trends: Error while acquiring dataframe
+2023-08-03 10:39:57,694 INFO Connected to Reddit
+2023-08-03 10:39:59,137 INFO Acquired data from Reddit
+2023-08-03 10:39:59,559 INFO Updated entire database
+2023-08-03 10:40:10,741 INFO Completed Operation
+2023-08-03 10:40:31,602 INFO Acquired Credentials
+2023-08-03 10:40:33,928 INFO Connection initialized
+2023-08-03 10:40:33,928 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Ph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:40:33,945 INFO Connection initialized
+2023-08-03 10:40:33,945 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) &_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:40:34,058 INFO Connection initialized
+2023-08-03 10:40:34,058 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) &_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:40:34,059 INFO Connection initialized
+2023-08-03 10:40:34,059 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple iPhone 14 Pro Max 128GB Deep Purple (T-&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:40:34,118 INFO Connection initialized
+2023-08-03 10:40:34,119 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unloc&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:40:34,236 INFO Connection initialized
+2023-08-03 10:40:34,236 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 128GB (Unlocked) Graph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:40:35,055 INFO Successfully redirected to US store
+2023-08-03 10:40:35,096 INFO Successfully redirected to US store
+2023-08-03 10:40:35,124 INFO Successfully redirected to US store
+2023-08-03 10:40:35,168 INFO Successfully redirected to US store
+2023-08-03 10:40:35,214 INFO Successfully redirected to US store
+2023-08-03 10:40:35,367 INFO Successfully redirected to US store
+2023-08-03 10:40:39,789 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-03 10:40:40,026 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-03 10:40:40,420 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-5g-64gb-unlocked-black/6530509?variant=A&skuId=6530509&sort=MOST_RECENT&page=1
+2023-08-03 10:40:40,423 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-256gb-unlocked-graphite/6516535?variant=A&skuId=6516535&sort=MOST_RECENT&page=1
+2023-08-03 10:40:40,615 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-5g-64gb-unlocked-black/6530509?variant=A&skuId=6530509&sort=MOST_RECENT&page=1
+2023-08-03 10:40:42,057 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-128gb-deep-purple-t-mobile/6487481?variant=A&skuId=6487481&sort=MOST_RECENT&page=1
+2023-08-03 10:40:45,608 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Graphite SM-F721UZAAXAA| initiated
+2023-08-03 10:40:45,613 INFO initialised search in update mode
+2023-08-03 10:40:46,392 INFO Acquisition of product |Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Phantom Black SM-F711UZKBXAASM-F711UZKAXAA| initiated
+2023-08-03 10:40:46,407 INFO initialised search in update mode
+2023-08-03 10:40:47,337 INFO Acquisition of product |Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) Black A2172| initiated
+2023-08-03 10:40:47,341 INFO initialised search in update mode
+2023-08-03 10:40:47,426 INFO Acquisition of product |Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unlocked) Graphite IPH-12P-256-GRY| initiated
+2023-08-03 10:40:47,429 INFO initialised search in update mode
+2023-08-03 10:40:47,655 INFO Acquisition of product |Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) Black A2172| initiated
+2023-08-03 10:40:47,660 INFO initialised search in update mode
+2023-08-03 10:40:48,123 INFO Acquisition of product |Apple iPhone 14 Pro Max 128GB Deep Purple (T-Mobile) MQ8R3LLA| initiated
+2023-08-03 10:40:48,131 INFO initialised search in update mode
+2023-08-03 10:40:49,316 INFO Quit search after adding 0 reviews
+2023-08-03 10:40:50,787 INFO Quit search after adding 0 reviews
+2023-08-03 10:40:51,876 INFO Quit search after adding 0 reviews
+2023-08-03 10:40:51,919 INFO Quit search after adding 0 reviews
+2023-08-03 10:40:51,928 INFO Updated History.csv
+2023-08-03 10:40:51,929 INFO Success!
+2023-08-03 10:40:52,096 INFO Quit search after adding 0 reviews
+2023-08-03 10:40:52,785 INFO Quit search after adding 0 reviews
+2023-08-03 10:40:53,107 INFO Updated History.csv
+2023-08-03 10:40:53,107 INFO Success!
+2023-08-03 10:40:54,413 INFO Updated History.csv
+2023-08-03 10:40:54,413 INFO Success!
+2023-08-03 10:40:54,416 INFO Updated History.csv
+2023-08-03 10:40:54,416 INFO Success!
+2023-08-03 10:40:54,494 INFO Updated History.csv
+2023-08-03 10:40:54,494 INFO Success!
+2023-08-03 10:40:55,325 INFO Analysed data from BestBuy
+2023-08-03 10:40:56,011 ERROR Google Trends: Error while acquiring dataframe
+2023-08-03 10:40:56,369 INFO Connected to Reddit
+2023-08-03 10:40:57,700 INFO Acquired data from Reddit
+2023-08-03 10:40:58,102 INFO Updated entire database
+2023-08-03 10:41:08,856 INFO Completed Operation
+2023-08-03 10:44:24,723 INFO Acquired Credentials
+2023-08-03 10:44:31,573 INFO Acquired Credentials
+2023-08-03 10:45:01,773 INFO Acquired Credentials
+2023-08-03 10:45:04,238 INFO Connection initialized
+2023-08-03 10:45:04,238 INFO Connection initialized
+2023-08-03 10:45:04,238 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple iPhone 14 Pro Max 128GB Deep Purple (T-&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:45:04,239 INFO Connection initialized
+2023-08-03 10:45:04,239 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unloc&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:45:04,239 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) &_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:45:04,245 INFO Connection initialized
+2023-08-03 10:45:04,245 INFO Connection initialized
+2023-08-03 10:45:04,257 INFO Connection initialized
+2023-08-03 10:45:04,258 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) &_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:45:04,258 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Ph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:45:04,258 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 128GB (Unlocked) Graph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:45:05,388 INFO Successfully redirected to US store
+2023-08-03 10:45:05,403 INFO Successfully redirected to US store
+2023-08-03 10:45:05,437 INFO Successfully redirected to US store
+2023-08-03 10:45:05,456 INFO Successfully redirected to US store
+2023-08-03 10:45:05,596 INFO Successfully redirected to US store
+2023-08-03 10:45:05,683 INFO Successfully redirected to US store
+2023-08-03 10:45:10,338 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-128gb-deep-purple-t-mobile/6487481?variant=A&skuId=6487481&sort=MOST_RECENT&page=1
+2023-08-03 10:45:10,512 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-5g-64gb-unlocked-black/6530509?variant=A&skuId=6530509&sort=MOST_RECENT&page=1
+2023-08-03 10:45:10,732 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-03 10:45:10,896 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-256gb-unlocked-graphite/6516535?variant=A&skuId=6516535&sort=MOST_RECENT&page=1
+2023-08-03 10:45:11,068 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-5g-64gb-unlocked-black/6530509?variant=A&skuId=6530509&sort=MOST_RECENT&page=1
+2023-08-03 10:45:11,511 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-03 10:45:16,670 INFO Acquisition of product |Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unlocked) Graphite IPH-12P-256-GRY| initiated
+2023-08-03 10:45:16,673 INFO initialised search in update mode
+2023-08-03 10:45:16,677 INFO Acquisition of product |Apple iPhone 14 Pro Max 128GB Deep Purple (T-Mobile) MQ8R3LLA| initiated
+2023-08-03 10:45:16,681 INFO initialised search in update mode
+2023-08-03 10:45:16,843 INFO Acquisition of product |Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) Black A2172| initiated
+2023-08-03 10:45:16,847 INFO initialised search in update mode
+2023-08-03 10:45:16,986 INFO Acquisition of product |Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) Black A2172| initiated
+2023-08-03 10:45:16,989 INFO initialised search in update mode
+2023-08-03 10:45:17,784 INFO Acquisition of product |Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Phantom Black SM-F711UZKBXAASM-F711UZKAXAA| initiated
+2023-08-03 10:45:17,791 INFO initialised search in update mode
+2023-08-03 10:45:18,342 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Graphite SM-F721UZAAXAA| initiated
+2023-08-03 10:45:18,346 INFO initialised search in update mode
+2023-08-03 10:45:20,762 INFO Quit search after adding 0 reviews
+2023-08-03 10:45:21,523 INFO Quit search after adding 0 reviews
+2023-08-03 10:45:21,645 INFO Quit search after adding 0 reviews
+2023-08-03 10:45:21,770 INFO Quit search after adding 0 reviews
+2023-08-03 10:45:22,719 INFO Quit search after adding 0 reviews
+2023-08-03 10:45:22,789 INFO Quit search after adding 0 reviews
+2023-08-03 10:45:23,931 INFO Updated History.csv
+2023-08-03 10:45:23,931 INFO Success!
+2023-08-03 10:45:24,073 INFO Updated History.csv
+2023-08-03 10:45:24,074 INFO Success!
+2023-08-03 10:45:24,102 INFO Updated History.csv
+2023-08-03 10:45:24,102 INFO Success!
+2023-08-03 10:45:24,194 INFO Updated History.csv
+2023-08-03 10:45:24,194 INFO Success!
+2023-08-03 10:45:25,066 INFO Updated History.csv
+2023-08-03 10:45:25,066 INFO Success!
+2023-08-03 10:45:25,084 INFO Updated History.csv
+2023-08-03 10:45:25,084 INFO Success!
+2023-08-03 10:45:25,158 INFO Analysed data from BestBuy
+2023-08-03 10:45:26,206 ERROR Google Trends: Error while acquiring dataframe
+2023-08-03 10:45:26,507 INFO Connected to Reddit
+2023-08-03 10:45:28,053 INFO Acquired data from Reddit
+2023-08-03 10:45:28,454 INFO Updated entire database
+2023-08-03 10:45:31,369 INFO Completed Operation
+2023-08-03 10:45:39,476 INFO Acquired Credentials
+2023-08-03 10:45:41,986 INFO Connection initialized
+2023-08-03 10:45:41,986 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) &_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:45:41,987 INFO Connection initialized
+2023-08-03 10:45:41,987 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Ph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:45:42,012 INFO Connection initialized
+2023-08-03 10:45:42,012 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unloc&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:45:42,014 INFO Connection initialized
+2023-08-03 10:45:42,014 INFO Connection initialized
+2023-08-03 10:45:42,015 INFO Connection initialized
+2023-08-03 10:45:42,015 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 128GB (Unlocked) Graph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:45:42,016 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple iPhone 14 Pro Max 128GB Deep Purple (T-&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:45:42,016 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) &_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:45:43,276 INFO Successfully redirected to US store
+2023-08-03 10:45:43,330 INFO Successfully redirected to US store
+2023-08-03 10:45:43,502 INFO Successfully redirected to US store
+2023-08-03 10:45:43,575 INFO Successfully redirected to US store
+2023-08-03 10:45:43,697 INFO Successfully redirected to US store
+2023-08-03 10:45:43,705 INFO Successfully redirected to US store
+2023-08-03 10:45:47,858 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-03 10:45:49,153 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-03 10:45:49,404 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-5g-64gb-unlocked-black/6530509?variant=A&skuId=6530509&sort=MOST_RECENT&page=1
+2023-08-03 10:45:49,486 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-256gb-unlocked-graphite/6516535?variant=A&skuId=6516535&sort=MOST_RECENT&page=1
+2023-08-03 10:45:49,554 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-128gb-deep-purple-t-mobile/6487481?variant=A&skuId=6487481&sort=MOST_RECENT&page=1
+2023-08-03 10:45:49,794 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-5g-64gb-unlocked-black/6530509?variant=A&skuId=6530509&sort=MOST_RECENT&page=1
+2023-08-03 10:45:53,423 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Graphite SM-F721UZAAXAA| initiated
+2023-08-03 10:45:53,427 INFO initialised search in update mode
+2023-08-03 10:45:55,807 INFO Acquisition of product |Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Phantom Black SM-F711UZKBXAASM-F711UZKAXAA| initiated
+2023-08-03 10:45:55,813 INFO initialised search in update mode
+2023-08-03 10:45:55,890 INFO Acquisition of product |Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unlocked) Graphite IPH-12P-256-GRY| initiated
+2023-08-03 10:45:55,893 INFO initialised search in update mode
+2023-08-03 10:45:56,474 INFO Acquisition of product |Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) Black A2172| initiated
+2023-08-03 10:45:56,478 INFO initialised search in update mode
+2023-08-03 10:45:56,578 INFO Acquisition of product |Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) Black A2172| initiated
+2023-08-03 10:45:56,582 INFO initialised search in update mode
+2023-08-03 10:45:56,876 INFO Acquisition of product |Apple iPhone 14 Pro Max 128GB Deep Purple (T-Mobile) MQ8R3LLA| initiated
+2023-08-03 10:45:56,881 INFO initialised search in update mode
+2023-08-03 10:45:57,090 INFO Quit search after adding 0 reviews
+2023-08-03 10:45:59,365 INFO Quit search after adding 0 reviews
+2023-08-03 10:45:59,404 INFO Updated History.csv
+2023-08-03 10:45:59,404 INFO Success!
+2023-08-03 10:46:00,230 INFO Quit search after adding 0 reviews
+2023-08-03 10:46:00,329 INFO Quit search after adding 0 reviews
+2023-08-03 10:46:01,013 INFO Quit search after adding 0 reviews
+2023-08-03 10:46:01,725 INFO Updated History.csv
+2023-08-03 10:46:01,725 INFO Success!
+2023-08-03 10:46:01,942 INFO Quit search after adding 0 reviews
+2023-08-03 10:46:02,685 INFO Updated History.csv
+2023-08-03 10:46:02,685 INFO Success!
+2023-08-03 10:46:02,688 INFO Updated History.csv
+2023-08-03 10:46:02,688 INFO Success!
+2023-08-03 10:46:03,308 INFO Updated History.csv
+2023-08-03 10:46:03,308 INFO Success!
+2023-08-03 10:46:04,218 INFO Updated History.csv
+2023-08-03 10:46:04,218 INFO Success!
+2023-08-03 10:46:04,302 INFO Analysed data from BestBuy
+2023-08-03 10:46:05,063 ERROR Google Trends: Error while acquiring dataframe
+2023-08-03 10:46:05,368 INFO Connected to Reddit
+2023-08-03 10:46:06,527 INFO Acquired data from Reddit
+2023-08-03 10:46:06,921 INFO Updated entire database
+2023-08-03 10:46:15,455 INFO Completed Operation
+2023-08-03 10:49:42,179 INFO Acquired Credentials
+2023-08-03 10:49:53,999 INFO Acquired Credentials
+2023-08-03 10:49:54,078 INFO Deleted all tables and reset History
+2023-08-03 10:49:54,145 INFO Dropped all tables
+2023-08-03 10:49:56,604 INFO Connection initialized
+2023-08-03 10:49:56,605 INFO Connection initialized
+2023-08-03 10:49:56,605 INFO Connection initialized
+2023-08-03 10:49:56,605 INFO Connection initialized
+2023-08-03 10:49:56,605 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) &_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:49:56,606 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 128GB (Unlocked) Graph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:49:56,606 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple iPhone 14 Pro Max 128GB Deep Purple (T-&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:49:56,606 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unloc&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:49:56,669 INFO Connection initialized
+2023-08-03 10:49:56,669 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) &_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:49:56,670 INFO Connection initialized
+2023-08-03 10:49:56,670 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Ph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:49:57,711 INFO Successfully redirected to US store
+2023-08-03 10:49:57,971 INFO Successfully redirected to US store
+2023-08-03 10:49:57,996 INFO Successfully redirected to US store
+2023-08-03 10:49:58,021 INFO Successfully redirected to US store
+2023-08-03 10:49:58,217 INFO Successfully redirected to US store
+2023-08-03 10:49:58,229 INFO Successfully redirected to US store
+2023-08-03 10:50:16,551 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-256gb-unlocked-graphite/6516535?variant=A&skuId=6516535&sort=MOST_RECENT&page=1
+2023-08-03 10:50:16,714 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-03 10:50:17,070 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-5g-64gb-unlocked-black/6530509?variant=A&skuId=6530509&sort=MOST_RECENT&page=1
+2023-08-03 10:50:17,101 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-5g-64gb-unlocked-black/6530509?variant=A&skuId=6530509&sort=MOST_RECENT&page=1
+2023-08-03 10:50:17,193 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-03 10:50:17,266 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-128gb-deep-purple-t-mobile/6487481?variant=A&skuId=6487481&sort=MOST_RECENT&page=1
+2023-08-03 10:50:22,606 INFO Acquisition of product |Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unlocked) Graphite IPH-12P-256-GRY| initiated
+2023-08-03 10:50:22,606 INFO initialised fresh search
+2023-08-03 10:50:22,726 INFO Acquisition of product |Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) Black A2172| initiated
+2023-08-03 10:50:22,726 INFO initialised fresh search
+2023-08-03 10:50:23,374 INFO Acquisition of product |Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) Black A2172| initiated
+2023-08-03 10:50:23,374 INFO initialised fresh search
+2023-08-03 10:50:23,729 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Graphite SM-F721UZAAXAA| initiated
+2023-08-03 10:50:23,729 INFO initialised fresh search
+2023-08-03 10:50:24,159 INFO Acquisition of product |Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Phantom Black SM-F711UZKBXAASM-F711UZKAXAA| initiated
+2023-08-03 10:50:24,159 INFO initialised fresh search
+2023-08-03 10:50:24,919 INFO Acquisition of product |Apple iPhone 14 Pro Max 128GB Deep Purple (T-Mobile) MQ8R3LLA| initiated
+2023-08-03 10:50:24,920 INFO initialised fresh search
+2023-08-03 10:50:32,359 INFO Quit search after adding 27 reviews
+2023-08-03 10:50:34,922 INFO Updated History.csv
+2023-08-03 10:50:34,922 INFO Success!
+2023-08-03 10:50:45,419 INFO Quit search after adding 108 reviews
+2023-08-03 10:50:46,013 INFO Quit search after adding 108 reviews
+2023-08-03 10:50:47,947 INFO Updated History.csv
+2023-08-03 10:50:47,947 INFO Success!
+2023-08-03 10:50:48,306 INFO Updated History.csv
+2023-08-03 10:50:48,306 INFO Success!
+2023-08-03 10:50:54,938 INFO Quit search after adding 167 reviews
+2023-08-03 10:50:57,200 INFO Updated History.csv
+2023-08-03 10:50:57,200 INFO Success!
+2023-08-03 10:51:19,037 INFO Quit search after adding 308 reviews
+2023-08-03 10:51:21,310 INFO Updated History.csv
+2023-08-03 10:51:21,310 INFO Success!
+2023-08-03 10:51:30,433 INFO Quit search after adding 243 reviews
+2023-08-03 10:51:32,797 INFO Updated History.csv
+2023-08-03 10:51:32,797 INFO Success!
+2023-08-03 10:51:32,808 INFO Analysed data from BestBuy
+2023-08-03 10:51:33,922 ERROR Google Trends: Error while acquiring dataframe
+2023-08-03 10:51:34,141 INFO Connected to Reddit
+2023-08-03 10:51:35,619 INFO Acquired data from Reddit
+2023-08-03 10:51:35,693 INFO Dropped all tables
+2023-08-03 10:51:36,143 INFO Updated entire database
+2023-08-03 10:51:47,857 INFO Completed Operation
+2023-08-03 10:52:20,807 INFO Acquired Credentials
+2023-08-03 10:53:02,105 INFO Acquired Credentials
+2023-08-03 10:53:04,094 INFO Connection initialized
+2023-08-03 10:53:04,094 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple iPhone 14 Pro Max 128GB Deep Purple (T-&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:53:04,286 INFO Connection initialized
+2023-08-03 10:53:04,286 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unloc&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:53:04,286 INFO Connection initialized
+2023-08-03 10:53:04,287 INFO Connection initialized
+2023-08-03 10:53:04,287 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 128GB (Unlocked) Graph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:53:04,287 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) &_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:53:04,326 INFO Connection initialized
+2023-08-03 10:53:04,326 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Ph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:53:05,309 INFO Successfully redirected to US store
+2023-08-03 10:53:05,318 INFO Successfully redirected to US store
+2023-08-03 10:53:05,325 INFO Successfully redirected to US store
+2023-08-03 10:53:05,355 INFO Successfully redirected to US store
+2023-08-03 10:53:05,628 INFO Successfully redirected to US store
+2023-08-03 10:53:09,754 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-256gb-unlocked-graphite/6516535?variant=A&skuId=6516535&sort=MOST_RECENT&page=1
+2023-08-03 10:53:10,512 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-03 10:53:11,446 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-128gb-deep-purple-t-mobile/6487481?variant=A&skuId=6487481&sort=MOST_RECENT&page=1
+2023-08-03 10:53:11,802 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-03 10:53:13,160 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-5g-64gb-unlocked-black/6530509?variant=A&skuId=6530509&sort=MOST_RECENT&page=1
+2023-08-03 10:53:15,580 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Graphite SM-F721UZAAXAA| initiated
+2023-08-03 10:53:15,585 INFO initialised search in update mode
+2023-08-03 10:53:15,832 INFO Acquisition of product |Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unlocked) Graphite IPH-12P-256-GRY| initiated
+2023-08-03 10:53:15,834 INFO initialised search in update mode
+2023-08-03 10:53:17,245 INFO Acquisition of product |Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) Black A2172| initiated
+2023-08-03 10:53:17,249 INFO initialised search in update mode
+2023-08-03 10:53:18,344 INFO Acquisition of product |Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Phantom Black SM-F711UZKBXAASM-F711UZKAXAA| initiated
+2023-08-03 10:53:18,350 INFO initialised search in update mode
+2023-08-03 10:53:19,060 INFO Quit search after adding 0 reviews
+2023-08-03 10:53:20,472 INFO Quit search after adding 0 reviews
+2023-08-03 10:53:21,071 INFO Quit search after adding 0 reviews
+2023-08-03 10:53:21,745 INFO Quit search after adding 0 reviews
+2023-08-03 10:53:21,990 INFO Updated History.csv
+2023-08-03 10:53:21,990 INFO Success!
+2023-08-03 10:53:22,330 INFO Acquisition of product |Apple iPhone 14 Pro Max 128GB Deep Purple (T-Mobile) MQ8R3LLA| initiated
+2023-08-03 10:53:22,335 INFO initialised search in update mode
+2023-08-03 10:53:23,103 INFO Updated History.csv
+2023-08-03 10:53:23,103 INFO Success!
+2023-08-03 10:53:24,101 INFO Updated History.csv
+2023-08-03 10:53:24,102 INFO Success!
+2023-08-03 10:53:24,704 INFO Quit search after adding 0 reviews
+2023-08-03 10:53:24,860 INFO Updated History.csv
+2023-08-03 10:53:24,861 INFO Success!
+2023-08-03 10:53:26,923 INFO Updated History.csv
+2023-08-03 10:53:26,923 INFO Success!
+2023-08-03 10:53:26,998 INFO Analysed data from BestBuy
+2023-08-03 10:53:27,798 ERROR Google Trends: Error while acquiring dataframe
+2023-08-03 10:53:27,984 INFO Connected to Reddit
+2023-08-03 10:53:29,377 INFO Acquired data from Reddit
+2023-08-03 10:53:29,786 INFO Updated entire database
+2023-08-03 10:53:40,778 INFO Completed Operation
+2023-08-03 10:53:59,088 INFO Acquired Credentials
+2023-08-03 10:54:00,371 INFO Connection initialized
+2023-08-03 10:54:00,371 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=samsung z fold 4&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:54:01,476 INFO Successfully redirected to US store
+2023-08-03 10:54:06,733 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-fold4-256gb-phantom-black-verizon/6512838?variant=A&skuId=6512838&sort=MOST_RECENT&page=1
+2023-08-03 10:54:12,557 INFO Acquisition of product |Samsung Galaxy Z Fold4 256GB Phantom Black (Verizon) SM-F936UZKAVZW| initiated
+2023-08-03 10:54:12,557 INFO initialised fresh search
+2023-08-03 10:54:27,749 INFO Quit search after adding 84 reviews
+2023-08-03 10:54:29,996 INFO Updated History.csv
+2023-08-03 10:54:29,996 INFO Success!
+2023-08-03 10:54:30,071 INFO Analysed data from BestBuy
+2023-08-03 10:54:31,053 INFO Connected to Reddit
+2023-08-03 10:54:40,900 INFO Acquired data from Reddit
+2023-08-03 10:54:41,388 INFO Updated entire database
+2023-08-03 10:54:54,046 INFO Completed Operation
+2023-08-03 10:55:04,030 INFO Acquired Credentials
+2023-08-03 10:55:06,474 INFO Connection initialized
+2023-08-03 10:55:06,474 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) &_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:55:06,476 INFO Connection initialized
+2023-08-03 10:55:06,476 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Ph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:55:06,492 INFO Connection initialized
+2023-08-03 10:55:06,492 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unloc&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:55:06,752 INFO Connection initialized
+2023-08-03 10:55:06,752 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple iPhone 14 Pro Max 128GB Deep Purple (T-&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:55:06,763 INFO Connection initialized
+2023-08-03 10:55:06,763 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Fold4 256GB Phantom Black (V&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:55:06,848 INFO Connection initialized
+2023-08-03 10:55:06,848 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 128GB (Unlocked) Graph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:55:07,744 INFO Successfully redirected to US store
+2023-08-03 10:55:07,752 INFO Successfully redirected to US store
+2023-08-03 10:55:07,772 INFO Successfully redirected to US store
+2023-08-03 10:55:07,804 INFO Successfully redirected to US store
+2023-08-03 10:55:07,831 INFO Successfully redirected to US store
+2023-08-03 10:55:07,928 INFO Successfully redirected to US store
+2023-08-03 10:55:12,402 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-fold5-256gb-phantom-black-verizon/6548853?variant=A&skuId=6548853&sort=MOST_RECENT&page=1
+2023-08-03 10:55:12,504 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-03 10:55:12,558 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-256gb-unlocked-graphite/6516535?variant=A&skuId=6516535&sort=MOST_RECENT&page=1
+2023-08-03 10:55:12,689 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-5g-64gb-unlocked-black/6530509?variant=A&skuId=6530509&sort=MOST_RECENT&page=1
+2023-08-03 10:55:13,172 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-03 10:55:13,404 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-128gb-deep-purple-t-mobile/6487481?variant=A&skuId=6487481&sort=MOST_RECENT&page=1
+2023-08-03 10:55:18,518 INFO Acquisition of product |Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) Black A2172| initiated
+2023-08-03 10:55:18,522 INFO initialised search in update mode
+2023-08-03 10:55:19,050 INFO Acquisition of product |Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unlocked) Graphite IPH-12P-256-GRY| initiated
+2023-08-03 10:55:19,051 INFO Acquisition of product |Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Phantom Black SM-F711UZKBXAASM-F711UZKAXAA| initiated
+2023-08-03 10:55:19,054 INFO initialised search in update mode
+2023-08-03 10:55:19,058 INFO initialised search in update mode
+2023-08-03 10:55:19,621 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Graphite SM-F721UZAAXAA| initiated
+2023-08-03 10:55:19,625 INFO initialised search in update mode
+2023-08-03 10:55:19,918 INFO Acquisition of product |Apple iPhone 14 Pro Max 128GB Deep Purple (T-Mobile) MQ8R3LLA| initiated
+2023-08-03 10:55:19,922 INFO initialised search in update mode
+2023-08-03 10:55:22,167 INFO Quit search after adding 0 reviews
+2023-08-03 10:55:23,050 INFO Quit search after adding 0 reviews
+2023-08-03 10:55:23,495 INFO Quit search after adding 0 reviews
+2023-08-03 10:55:23,521 INFO Quit search after adding 0 reviews
+2023-08-03 10:55:24,531 INFO Quit search after adding 0 reviews
+2023-08-03 10:55:24,602 INFO Updated History.csv
+2023-08-03 10:55:24,602 INFO Success!
+2023-08-03 10:55:25,556 INFO Updated History.csv
+2023-08-03 10:55:25,557 INFO Success!
+2023-08-03 10:55:25,859 INFO Updated History.csv
+2023-08-03 10:55:25,859 INFO Success!
+2023-08-03 10:55:25,871 INFO Updated History.csv
+2023-08-03 10:55:25,872 INFO Success!
+2023-08-03 10:55:26,753 INFO Updated History.csv
+2023-08-03 10:55:26,754 INFO Success!
+2023-08-03 10:55:26,832 INFO Analysed data from BestBuy
+2023-08-03 10:55:27,590 ERROR Google Trends: Error while acquiring dataframe
+2023-08-03 10:55:27,914 INFO Connected to Reddit
+2023-08-03 10:55:29,169 INFO Acquired data from Reddit
+2023-08-03 10:55:29,673 INFO Updated entire database
+2023-08-03 10:55:42,430 INFO Completed Operation
+2023-08-03 10:57:29,118 INFO Acquired Credentials
+2023-08-03 10:57:36,048 INFO Acquired Credentials
+2023-08-03 10:57:48,719 INFO Acquired Credentials
+2023-08-03 10:57:48,802 INFO Deleted all tables and reset History
+2023-08-03 10:57:48,862 INFO Dropped all tables
+2023-08-03 10:57:50,980 INFO Connection initialized
+2023-08-03 10:57:50,980 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unloc&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:57:51,140 INFO Connection initialized
+2023-08-03 10:57:51,141 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Ph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:57:51,143 INFO Connection initialized
+2023-08-03 10:57:51,143 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Fold4 256GB Phantom Black (V&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:57:51,143 INFO Connection initialized
+2023-08-03 10:57:51,145 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 128GB (Unlocked) Graph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:57:51,358 INFO Connection initialized
+2023-08-03 10:57:51,358 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) &_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:57:51,596 INFO Connection initialized
+2023-08-03 10:57:51,596 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple iPhone 14 Pro Max 128GB Deep Purple (T-&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 10:57:52,405 INFO Successfully redirected to US store
+2023-08-03 10:57:52,498 INFO Successfully redirected to US store
+2023-08-03 10:57:52,509 INFO Successfully redirected to US store
+2023-08-03 10:57:52,533 INFO Successfully redirected to US store
+2023-08-03 10:57:52,655 INFO Successfully redirected to US store
+2023-08-03 10:57:52,697 INFO Successfully redirected to US store
+2023-08-03 10:57:58,455 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-03 10:57:58,494 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-fold5-256gb-phantom-black-verizon/6548853?variant=A&skuId=6548853&sort=MOST_RECENT&page=1
+2023-08-03 10:57:58,608 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-03 10:57:58,722 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-256gb-unlocked-graphite/6516535?variant=A&skuId=6516535&sort=MOST_RECENT&page=1
+2023-08-03 10:57:58,950 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-128gb-deep-purple-t-mobile/6487481?variant=A&skuId=6487481&sort=MOST_RECENT&page=1
+2023-08-03 10:57:59,324 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-5g-64gb-unlocked-black/6530509?variant=A&skuId=6530509&sort=MOST_RECENT&page=1
+2023-08-03 10:58:05,627 INFO Acquisition of product |Apple Pre-Owned iPhone 12 Pro 5G 256GB (Unlocked) Graphite IPH-12P-256-GRY| initiated
+2023-08-03 10:58:05,628 INFO initialised fresh search
+2023-08-03 10:58:05,817 INFO Acquisition of product |Apple iPhone 14 Pro Max 128GB Deep Purple (T-Mobile) MQ8R3LLA| initiated
+2023-08-03 10:58:05,817 INFO initialised fresh search
+2023-08-03 10:58:05,818 INFO Acquisition of product |Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Phantom Black SM-F711UZKBXAASM-F711UZKAXAA| initiated
+2023-08-03 10:58:05,818 INFO initialised fresh search
+2023-08-03 10:58:05,975 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Graphite SM-F721UZAAXAA| initiated
+2023-08-03 10:58:05,975 INFO initialised fresh search
+2023-08-03 10:58:06,354 INFO Acquisition of product |Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) Black A2172| initiated
+2023-08-03 10:58:06,354 INFO initialised fresh search
+2023-08-03 10:58:06,631 ERROR Sign in required for Samsung Galaxy Z Fold4 256GB Phantom Black (V
+2023-08-03 10:58:06,631 INFO Acquisition of product |Sign In to Best Buy| initiated
+2023-08-03 10:58:06,631 INFO initialised fresh search
+2023-08-03 10:58:15,994 CRITICAL Couldn't connect to https://www.bestbuy.com/site/reviews/samsung-galaxy-z-fold5-256gb-phantom-black-verizon/6548853?variant=A&skuId=6548853&sort=MOST_RECENT&page=1, terminating search
+2023-08-03 10:58:17,486 INFO Quit search after adding 27 reviews
+2023-08-03 10:58:19,864 INFO Updated History.csv
+2023-08-03 10:58:19,865 INFO Success!
+2023-08-03 10:58:28,099 INFO Quit search after adding 108 reviews
+2023-08-03 10:58:30,434 INFO Updated History.csv
+2023-08-03 10:58:30,434 INFO Success!
+2023-08-03 10:58:40,596 INFO Quit search after adding 167 reviews
+2023-08-03 10:58:42,929 INFO Updated History.csv
+2023-08-03 10:58:42,929 INFO Success!
+2023-08-03 10:59:00,875 INFO Quit search after adding 308 reviews
+2023-08-03 10:59:03,140 INFO Updated History.csv
+2023-08-03 10:59:03,140 INFO Success!
+2023-08-03 10:59:05,764 INFO Quit search after adding 243 reviews
+2023-08-03 10:59:08,058 INFO Analysed data from BestBuy
+2023-08-03 10:59:08,976 ERROR Google Trends: Error while acquiring dataframe
+2023-08-03 10:59:09,249 INFO Connected to Reddit
+2023-08-03 10:59:10,609 INFO Acquired data from Reddit
+2023-08-03 10:59:10,672 INFO Dropped all tables
+2023-08-03 10:59:11,106 INFO Updated entire database
+2023-08-03 10:59:11,804 INFO Completed Operation
+2023-08-03 11:00:29,873 INFO Acquired Credentials
+2023-08-03 11:01:02,477 INFO Acquired Credentials
+2023-08-03 11:01:09,352 INFO Acquired Credentials
+2023-08-03 11:01:24,769 INFO Acquired Credentials
+2023-08-03 11:01:24,831 INFO no file to remove
+2023-08-03 11:01:24,831 INFO Deleted all tables and reset History
+2023-08-03 11:01:24,887 INFO Dropped all tables
+2023-08-03 11:01:26,395 INFO Connection initialized
+2023-08-03 11:01:26,395 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Ph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:01:26,472 INFO Connection initialized
+2023-08-03 11:01:26,472 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 128GB (Unlocked) Graph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:01:27,676 INFO Successfully redirected to US store
+2023-08-03 11:01:27,694 INFO Successfully redirected to US store
+2023-08-03 11:01:32,794 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-03 11:01:33,574 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-03 11:01:37,920 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Graphite SM-F721UZAAXAA| initiated
+2023-08-03 11:01:37,920 INFO initialised fresh search
+2023-08-03 11:01:38,413 INFO Acquisition of product |Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Phantom Black SM-F711UZKBXAASM-F711UZKAXAA| initiated
+2023-08-03 11:01:38,413 INFO initialised fresh search
+2023-08-03 11:02:02,655 INFO Quit search after adding 167 reviews
+2023-08-03 11:02:04,880 INFO Updated History.csv
+2023-08-03 11:02:04,880 INFO Success!
+2023-08-03 11:02:22,113 INFO Quit search after adding 308 reviews
+2023-08-03 11:02:24,373 INFO Updated History.csv
+2023-08-03 11:02:24,373 INFO Success!
+2023-08-03 11:02:24,379 INFO Analysed data from BestBuy
+2023-08-03 11:02:25,106 ERROR Google Trends: Error while acquiring dataframe
+2023-08-03 11:02:25,168 INFO Connected to Reddit
+2023-08-03 11:02:26,400 INFO Acquired data from Reddit
+2023-08-03 11:02:26,470 INFO Dropped all tables
+2023-08-03 11:02:26,874 INFO Updated entire database
+2023-08-03 11:02:31,652 INFO Completed Operation
+2023-08-03 11:02:40,637 INFO Acquired Credentials
+2023-08-03 11:02:41,925 INFO Connection initialized
+2023-08-03 11:02:41,925 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 128GB (Unlocked) Graph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:02:41,986 INFO Connection initialized
+2023-08-03 11:02:41,986 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Ph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:02:43,125 INFO Successfully redirected to US store
+2023-08-03 11:02:43,176 INFO Successfully redirected to US store
+2023-08-03 11:02:48,209 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-03 11:02:48,575 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-03 11:02:53,582 INFO Acquisition of product |Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Phantom Black SM-F711UZKBXAASM-F711UZKAXAA| initiated
+2023-08-03 11:02:53,587 INFO initialised search in update mode
+2023-08-03 11:02:54,022 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Graphite SM-F721UZAAXAA| initiated
+2023-08-03 11:02:54,025 INFO initialised search in update mode
+2023-08-03 11:02:55,611 INFO Quit search after adding 0 reviews
+2023-08-03 11:02:56,910 INFO Quit search after adding 0 reviews
+2023-08-03 11:02:57,911 INFO Updated History.csv
+2023-08-03 11:02:57,911 INFO Success!
+2023-08-03 11:02:59,175 INFO Updated History.csv
+2023-08-03 11:02:59,175 INFO Success!
+2023-08-03 11:02:59,252 INFO Analysed data from BestBuy
+2023-08-03 11:03:00,108 ERROR Google Trends: Error while acquiring dataframe
+2023-08-03 11:03:00,164 INFO Connected to Reddit
+2023-08-03 11:03:01,299 INFO Acquired data from Reddit
+2023-08-03 11:03:01,705 INFO Updated entire database
+2023-08-03 11:03:06,165 INFO Completed Operation
+2023-08-03 11:03:41,154 INFO Acquired Credentials
+2023-08-03 11:03:42,465 INFO Connection initialized
+2023-08-03 11:03:42,466 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 12&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:03:43,554 INFO Successfully redirected to US store
+2023-08-03 11:03:51,549 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-5g-64gb-unlocked-black/6530509?variant=A&skuId=6530509&sort=MOST_RECENT&page=1
+2023-08-03 11:03:56,271 INFO Acquisition of product |Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) Black A2172| initiated
+2023-08-03 11:03:56,272 INFO initialised fresh search
+2023-08-03 11:04:13,807 INFO Quit search after adding 108 reviews
+2023-08-03 11:04:16,060 INFO Updated History.csv
+2023-08-03 11:04:16,060 INFO Success!
+2023-08-03 11:04:16,133 INFO Analysed data from BestBuy
+2023-08-03 11:04:17,112 INFO Connected to Reddit
+2023-08-03 11:04:27,761 INFO Acquired data from Reddit
+2023-08-03 11:04:28,261 INFO Updated entire database
+2023-08-03 11:04:34,592 INFO Completed Operation
+2023-08-03 11:04:57,317 INFO Acquired Credentials
+2023-08-03 11:04:58,729 INFO Connection initialized
+2023-08-03 11:04:58,730 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) &_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:04:58,858 INFO Connection initialized
+2023-08-03 11:04:58,858 INFO Connection initialized
+2023-08-03 11:04:58,858 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 128GB (Unlocked) Graph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:04:58,859 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Ph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:05:00,170 INFO Successfully redirected to US store
+2023-08-03 11:05:00,283 INFO Successfully redirected to US store
+2023-08-03 11:05:00,430 INFO Successfully redirected to US store
+2023-08-03 11:05:03,464 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-03 11:05:06,523 INFO Acquisition of product |Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Phantom Black SM-F711UZKBXAASM-F711UZKAXAA| initiated
+2023-08-03 11:05:06,527 INFO initialised search in update mode
+2023-08-03 11:05:06,831 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-03 11:05:07,670 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-5g-64gb-unlocked-black/6530509?variant=A&skuId=6530509&sort=MOST_RECENT&page=1
+2023-08-03 11:05:09,736 INFO Quit search after adding 0 reviews
+2023-08-03 11:05:12,048 INFO Updated History.csv
+2023-08-03 11:05:12,049 INFO Success!
+2023-08-03 11:05:12,741 INFO Acquisition of product |Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) Black A2172| initiated
+2023-08-03 11:05:12,744 INFO initialised search in update mode
+2023-08-03 11:05:13,270 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Graphite SM-F721UZAAXAA| initiated
+2023-08-03 11:05:13,274 INFO initialised search in update mode
+2023-08-03 11:05:15,068 INFO Quit search after adding 0 reviews
+2023-08-03 11:05:15,879 INFO Quit search after adding 0 reviews
+2023-08-03 11:05:17,345 INFO Updated History.csv
+2023-08-03 11:05:17,346 INFO Success!
+2023-08-03 11:05:18,177 INFO Updated History.csv
+2023-08-03 11:05:18,177 INFO Success!
+2023-08-03 11:05:18,262 INFO Analysed data from BestBuy
+2023-08-03 11:05:19,011 ERROR Google Trends: Error while acquiring dataframe
+2023-08-03 11:05:19,116 INFO Connected to Reddit
+2023-08-03 11:05:20,546 INFO Acquired data from Reddit
+2023-08-03 11:05:20,942 INFO Updated entire database
+2023-08-03 11:05:27,322 INFO Completed Operation
+2023-08-03 11:05:41,987 INFO Acquired Credentials
+2023-08-03 11:05:43,299 INFO Connection initialized
+2023-08-03 11:05:43,299 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=z fold 5&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:05:44,585 INFO Successfully redirected to US store
+2023-08-03 11:05:53,793 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-fold5-512gb-phantom-black-verizon/6548865?variant=A&skuId=6548865&sort=MOST_RECENT&page=1
+2023-08-03 11:05:57,399 WARNING Remove last entry of z fold 5
+2023-08-03 11:05:59,741 ERROR Sign in required for z fold 5
+2023-08-03 11:05:59,741 INFO Acquisition of product |Sign In to Best Buy| initiated
+2023-08-03 11:05:59,741 INFO initialised fresh search
+2023-08-03 11:06:07,882 CRITICAL Couldn't connect to https://www.bestbuy.com/site/reviews/samsung-galaxy-z-fold5-512gb-phantom-black-verizon/6548865?variant=A&skuId=6548865&sort=MOST_RECENT&page=1, terminating search
+2023-08-03 11:06:16,062 ERROR All objects passed were None
+2023-08-03 11:06:16,063 WARNING restoring database to previous state
+2023-08-03 11:06:55,919 INFO Acquired Credentials
+2023-08-03 11:06:57,681 INFO Connection initialized
+2023-08-03 11:06:57,682 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=razer&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:06:57,685 INFO Connection initialized
+2023-08-03 11:06:57,685 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=z flip 4 256&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:06:57,769 INFO Connection initialized
+2023-08-03 11:06:57,769 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=z flip 5&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:06:57,788 INFO Connection initialized
+2023-08-03 11:06:57,788 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=z fold 5&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:06:58,903 INFO Successfully redirected to US store
+2023-08-03 11:06:58,908 INFO Successfully redirected to US store
+2023-08-03 11:06:58,931 INFO Successfully redirected to US store
+2023-08-03 11:06:59,144 INFO Successfully redirected to US store
+2023-08-03 11:07:05,543 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-fold5-512gb-phantom-black-verizon/6548865?variant=A&skuId=6548865&sort=MOST_RECENT&page=1
+2023-08-03 11:07:08,352 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-256gb-unlocked-blue/6512626?variant=A&skuId=6512626&sort=MOST_RECENT&page=1
+2023-08-03 11:07:08,492 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip5-512gb-unlocked-graphite/6548839?variant=A&skuId=6548839&sort=MOST_RECENT&page=1
+2023-08-03 11:07:10,467 WARNING Remove last entry of z fold 5
+2023-08-03 11:07:12,720 ERROR Sign in required for z fold 5
+2023-08-03 11:07:12,720 INFO Acquisition of product |Sign In to Best Buy| initiated
+2023-08-03 11:07:12,721 INFO initialised fresh search
+2023-08-03 11:07:12,963 WARNING Remove last entry of z flip 5
+2023-08-03 11:07:15,222 ERROR Sign in required for z flip 5
+2023-08-03 11:07:15,222 INFO Acquisition of product |Sign In to Best Buy| initiated
+2023-08-03 11:07:15,222 INFO initialised fresh search
+2023-08-03 11:07:16,112 INFO Acquisition of product |Samsung Galaxy Z Flip4 256GB (Unlocked) Blue SM-F721ULBEXAA| initiated
+2023-08-03 11:07:16,112 INFO initialised fresh search
+2023-08-03 11:07:20,907 CRITICAL Couldn't connect to https://www.bestbuy.com/site/reviews/samsung-galaxy-z-fold5-512gb-phantom-black-verizon/6548865?variant=A&skuId=6548865&sort=MOST_RECENT&page=1, terminating search
+2023-08-03 11:07:23,392 CRITICAL Couldn't connect to https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip5-512gb-unlocked-graphite/6548839?variant=A&skuId=6548839&sort=MOST_RECENT&page=1, terminating search
+2023-08-03 11:07:32,956 INFO Quit search after adding 91 reviews
+2023-08-03 11:07:35,202 INFO Updated History.csv
+2023-08-03 11:07:35,202 INFO Success!
+2023-08-03 11:07:35,275 INFO Analysed data from BestBuy
+2023-08-03 11:07:38,045 INFO Connected to Reddit
+2023-08-03 11:07:47,047 INFO Acquired data from Reddit
+2023-08-03 11:07:47,571 INFO Updated entire database
+2023-08-03 11:07:58,806 INFO Completed Operation
+2023-08-03 11:09:51,173 INFO Acquired Credentials
+2023-08-03 11:09:52,465 INFO Connection initialized
+2023-08-03 11:09:52,465 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=afdfsdfsdf&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:09:53,730 INFO Successfully redirected to US store
+2023-08-03 11:09:57,936 ERROR All objects passed were None
+2023-08-03 11:09:57,936 WARNING restoring database to previous state
+2023-08-03 11:11:59,258 INFO Acquired Credentials
+2023-08-03 11:12:17,539 INFO Acquired Credentials
+2023-08-03 11:12:24,678 INFO Acquired Credentials
+2023-08-03 11:12:32,057 INFO Acquired Credentials
+2023-08-03 11:12:33,337 INFO Connection initialized
+2023-08-03 11:12:33,337 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iusdfgoiy&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:12:34,417 INFO Successfully redirected to US store
+2023-08-03 11:12:39,432 ERROR Couldnt find product link!
+2023-08-03 11:12:39,432 ERROR Failed to find product title
+2023-08-03 11:12:41,649 WARNING Remove last entry of iusdfgoiy
+2023-08-03 11:12:49,806 ERROR All objects passed were None
+2023-08-03 11:12:49,807 WARNING restoring database to previous state
+2023-08-03 11:13:45,702 INFO Acquired Credentials
+2023-08-03 11:14:22,264 INFO Acquired Credentials
+2023-08-03 11:14:23,550 INFO Connection initialized
+2023-08-03 11:14:23,551 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=wfersre&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:14:24,794 INFO Successfully redirected to US store
+2023-08-03 11:14:30,357 ERROR Couldnt find product link!
+2023-08-03 11:14:30,357 ERROR Failed to find product title
+2023-08-03 11:14:32,603 WARNING Remove last entry of wfersre
+2023-08-03 11:14:40,728 INFO Acquisition of product |False| initiated
+2023-08-03 11:14:40,735 ERROR All objects passed were None
+2023-08-03 11:14:40,735 WARNING restoring database to previous state
+2023-08-03 11:16:03,657 INFO Acquired Credentials
+2023-08-03 11:16:11,389 INFO Acquired Credentials
+2023-08-03 11:16:12,732 INFO Connection initialized
+2023-08-03 11:16:12,732 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=4fwfwfefe4wfe&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:16:14,588 INFO Successfully redirected to US store
+2023-08-03 11:16:21,440 INFO Found product review link https://www.bestbuy.com/site/reviews/whirlpool-3-0-cu-ft-freestanding-electric-range-stainless-steel/6273906?variant=A&skuId=6273906&sort=MOST_RECENT&page=1
+2023-08-03 11:16:26,256 WARNING Remove last entry of 4fwfwfefe4wfe
+2023-08-03 11:16:28,512 ERROR Sign in required for 4fwfwfefe4wfe
+2023-08-03 11:16:28,512 INFO Acquisition of product |Sign In to Best Buy| initiated
+2023-08-03 11:16:28,512 INFO initialised fresh search
+2023-08-03 11:16:36,675 CRITICAL Couldn't connect to https://www.bestbuy.com/site/reviews/whirlpool-3-0-cu-ft-freestanding-electric-range-stainless-steel/6273906?variant=A&skuId=6273906&sort=MOST_RECENT&page=1, terminating search
+2023-08-03 11:16:44,846 ERROR All objects passed were None
+2023-08-03 11:16:44,846 WARNING restoring database to previous state
+2023-08-03 11:16:58,585 INFO Acquired Credentials
+2023-08-03 11:17:00,375 INFO Connection initialized
+2023-08-03 11:17:00,375 INFO Connection initialized
+2023-08-03 11:17:00,375 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) &_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:17:00,375 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 128GB (Unlocked) Graph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:17:00,378 INFO Connection initialized
+2023-08-03 11:17:00,378 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Ph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:17:00,487 INFO Connection initialized
+2023-08-03 11:17:00,487 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 256GB (Unlocked) Blue &_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:17:01,501 INFO Successfully redirected to US store
+2023-08-03 11:17:01,579 INFO Successfully redirected to US store
+2023-08-03 11:17:01,619 INFO Successfully redirected to US store
+2023-08-03 11:17:01,978 INFO Successfully redirected to US store
+2023-08-03 11:17:06,504 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-03 11:17:07,286 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-256gb-unlocked-blue/6512626?variant=A&skuId=6512626&sort=MOST_RECENT&page=1
+2023-08-03 11:17:07,489 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-5g-64gb-unlocked-black/6530509?variant=A&skuId=6530509&sort=MOST_RECENT&page=1
+2023-08-03 11:17:08,393 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-03 11:17:11,207 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Graphite SM-F721UZAAXAA| initiated
+2023-08-03 11:17:11,212 INFO initialised search in update mode
+2023-08-03 11:17:13,107 INFO Acquisition of product |Samsung Galaxy Z Flip4 256GB (Unlocked) Blue SM-F721ULBEXAA| initiated
+2023-08-03 11:17:13,110 INFO initialised search in update mode
+2023-08-03 11:17:13,434 INFO Acquisition of product |Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) Black A2172| initiated
+2023-08-03 11:17:13,437 INFO initialised search in update mode
+2023-08-03 11:17:13,690 INFO Acquisition of product |Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Phantom Black SM-F711UZKBXAASM-F711UZKAXAA| initiated
+2023-08-03 11:17:13,695 INFO initialised search in update mode
+2023-08-03 11:17:14,375 INFO Quit search after adding 0 reviews
+2023-08-03 11:17:15,899 INFO Quit search after adding 0 reviews
+2023-08-03 11:17:16,038 INFO Quit search after adding 0 reviews
+2023-08-03 11:17:16,718 INFO Updated History.csv
+2023-08-03 11:17:16,718 INFO Success!
+2023-08-03 11:17:16,892 INFO Quit search after adding 0 reviews
+2023-08-03 11:17:18,567 INFO Updated History.csv
+2023-08-03 11:17:18,567 INFO Success!
+2023-08-03 11:17:18,613 INFO Updated History.csv
+2023-08-03 11:17:18,613 INFO Success!
+2023-08-03 11:17:19,260 INFO Updated History.csv
+2023-08-03 11:17:19,260 INFO Success!
+2023-08-03 11:17:19,335 INFO Analysed data from BestBuy
+2023-08-03 11:17:20,442 ERROR Google Trends: Error while acquiring dataframe
+2023-08-03 11:17:20,892 INFO Connected to Reddit
+2023-08-03 11:17:22,338 INFO Acquired data from Reddit
+2023-08-03 11:17:22,741 INFO Updated entire database
+2023-08-03 11:17:31,116 INFO Completed Operation
+2023-08-03 11:17:59,516 INFO Acquired Credentials
+2023-08-03 11:18:00,844 INFO Connection initialized
+2023-08-03 11:18:00,844 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=haste 2 hyper x mouse&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:18:01,959 INFO Successfully redirected to US store
+2023-08-03 11:18:06,596 INFO Found product review link https://www.bestbuy.com/site/reviews/hyperx-pulsefire-haste-2-lightweight-wireless-optical-gaming-mouse-with-rgb-lighting-black/6537573?variant=A&skuId=6537573&sort=MOST_RECENT&page=1
+2023-08-03 11:18:13,159 INFO Acquisition of product |HyperX Pulsefire Haste 2 Lightweight Wireless Optical Gaming Mouse with RGB Lighting Black 6N0B0AA| initiated
+2023-08-03 11:18:13,159 INFO initialised fresh search
+2023-08-03 11:18:17,843 INFO Quit search after adding 15 reviews
+2023-08-03 11:18:20,061 INFO Updated History.csv
+2023-08-03 11:18:20,061 INFO Success!
+2023-08-03 11:18:20,134 INFO Analysed data from BestBuy
+2023-08-03 11:18:21,008 ERROR Google Trends: Error while acquiring dataframe
+2023-08-03 11:18:21,043 INFO Connected to Reddit
+2023-08-03 11:18:25,686 INFO Acquired data from Reddit
+2023-08-03 11:18:26,213 INFO Updated entire database
+2023-08-03 11:18:36,626 INFO Completed Operation
+2023-08-03 11:19:15,092 INFO Acquired Credentials
+2023-08-03 11:19:17,068 INFO Connection initialized
+2023-08-03 11:19:17,068 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Ph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:19:17,199 INFO Connection initialized
+2023-08-03 11:19:17,199 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 256GB (Unlocked) Blue &_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:19:17,200 INFO Connection initialized
+2023-08-03 11:19:17,201 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=HyperX Pulsefire Haste 2 Lightweight Wireless&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:19:17,203 INFO Connection initialized
+2023-08-03 11:19:17,203 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 128GB (Unlocked) Graph&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:19:17,408 INFO Connection initialized
+2023-08-03 11:19:17,408 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) &_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-03 11:19:18,274 INFO Successfully redirected to US store
+2023-08-03 11:19:18,280 INFO Successfully redirected to US store
+2023-08-03 11:19:18,314 INFO Successfully redirected to US store
+2023-08-03 11:19:18,428 INFO Successfully redirected to US store
+2023-08-03 11:19:18,575 INFO Successfully redirected to US store
+2023-08-03 11:19:22,577 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-03 11:19:23,305 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-03 11:19:23,574 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-5g-64gb-unlocked-black/6530509?variant=A&skuId=6530509&sort=MOST_RECENT&page=1
+2023-08-03 11:19:23,635 INFO Found product review link https://www.bestbuy.com/site/reviews/hyperx-pulsefire-haste-2-lightweight-wireless-optical-gaming-mouse-with-rgb-lighting-black/6537573?variant=A&skuId=6537573&sort=MOST_RECENT&page=1
+2023-08-03 11:19:23,806 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-256gb-unlocked-blue/6512626?variant=A&skuId=6512626&sort=MOST_RECENT&page=1
+2023-08-03 11:19:28,278 INFO Acquisition of product |Samsung Galaxy Z Flip3 5G 128GB (Unlocked) Phantom Black SM-F711UZKBXAASM-F711UZKAXAA| initiated
+2023-08-03 11:19:28,285 INFO initialised search in update mode
+2023-08-03 11:19:28,423 INFO Acquisition of product |Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) Black A2172| initiated
+2023-08-03 11:19:28,427 INFO initialised search in update mode
+2023-08-03 11:19:28,952 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Graphite SM-F721UZAAXAA| initiated
+2023-08-03 11:19:28,955 INFO initialised search in update mode
+2023-08-03 11:19:29,618 INFO Acquisition of product |HyperX Pulsefire Haste 2 Lightweight Wireless Optical Gaming Mouse with RGB Lighting Black 6N0B0AA| initiated
+2023-08-03 11:19:29,621 INFO initialised search in update mode
+2023-08-03 11:19:29,951 INFO Acquisition of product |Samsung Galaxy Z Flip4 256GB (Unlocked) Blue SM-F721ULBEXAA| initiated
+2023-08-03 11:19:29,954 INFO initialised search in update mode
+2023-08-03 11:19:32,190 INFO Quit search after adding 0 reviews
+2023-08-03 11:19:32,373 INFO Quit search after adding 0 reviews
+2023-08-03 11:19:33,200 INFO Quit search after adding 0 reviews
+2023-08-03 11:19:33,306 INFO Quit search after adding 0 reviews
+2023-08-03 11:19:34,031 INFO Quit search after adding 0 reviews
+2023-08-03 11:19:34,868 INFO Updated History.csv
+2023-08-03 11:19:34,868 INFO Success!
+2023-08-03 11:19:34,872 INFO Updated History.csv
+2023-08-03 11:19:34,872 INFO Success!
+2023-08-03 11:19:35,593 INFO Updated History.csv
+2023-08-03 11:19:35,593 INFO Success!
+2023-08-03 11:19:35,702 INFO Updated History.csv
+2023-08-03 11:19:35,702 INFO Success!
+2023-08-03 11:19:36,259 INFO Updated History.csv
+2023-08-03 11:19:36,260 INFO Success!
+2023-08-03 11:19:36,345 INFO Analysed data from BestBuy
+2023-08-03 11:19:37,052 ERROR Google Trends: Error while acquiring dataframe
+2023-08-03 11:19:37,274 INFO Connected to Reddit
+2023-08-03 11:19:39,283 INFO Acquired data from Reddit
+2023-08-03 11:19:39,676 INFO Updated entire database
+2023-08-03 11:19:50,170 INFO Completed Operation

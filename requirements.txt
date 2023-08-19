@@ -1,0 +1,14 @@
+beautifulsoup4==4.12.2
+cryptography==39.0.1
+fake_headers==1.0.2
+Flask==2.3.2
+Flask_Limiter==3.3.1
+langchain==0.0.257
+matplotlib==3.7.1
+pandas==1.5.3
+praw==7.7.1
+psycopg2==2.9.6
+pytrends==4.9.2
+selenium==3.141.0
+sentence_transformers==2.2.2
+SQLAlchemy==1.4.39

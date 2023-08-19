@@ -1,0 +1,101 @@
+2023-08-01 17:18:33,715 INFO Acquired Credentials
+2023-08-01 17:18:33,774 INFO Deleted all tables and reset History
+2023-08-01 17:18:35,236 INFO Connection initialized
+2023-08-01 17:18:35,236 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=samsung z flip 4 purple&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-01 17:18:35,249 INFO Connection initialized
+2023-08-01 17:18:35,249 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=hyper x haste 2&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-01 17:18:35,265 INFO Connection initialized
+2023-08-01 17:18:35,265 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 12 pro&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-01 17:18:36,517 INFO Successfully redirected to US store
+2023-08-01 17:18:36,611 INFO Successfully redirected to US store
+2023-08-01 17:18:36,698 INFO Successfully redirected to US store
+2023-08-01 17:18:41,413 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-128gb-unlocked-pacific-blue/6516546?variant=A&skuId=6516546&sort=MOST_RECENT&page=1
+2023-08-01 17:18:41,894 INFO Found product review link https://www.bestbuy.com/site/reviews/hyperx-pulsefire-haste-2-lightweight-wireless-optical-gaming-mouse-with-rgb-lighting-black/6537573?variant=A&skuId=6537573&sort=MOST_RECENT&page=1
+2023-08-01 17:18:42,921 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-bora-purple/6512612?variant=A&skuId=6512612&sort=MOST_RECENT&page=1
+2023-08-01 17:18:45,804 INFO Acquisition of product |Apple Pre-Owned iPhone 12 Pro 5G 128GB (Unlocked) Pacific Blue IPH-12P-128-BLE| initiated
+2023-08-01 17:18:45,804 INFO initialised fresh search
+2023-08-01 17:18:47,248 INFO Acquisition of product |HyperX Pulsefire Haste 2 Lightweight Wireless Optical Gaming Mouse with RGB Lighting Black 6N0B0AA| initiated
+2023-08-01 17:18:47,248 INFO initialised fresh search
+2023-08-01 17:18:48,902 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Bora Purple SM-F721ULVAXAA| initiated
+2023-08-01 17:18:48,902 INFO initialised fresh search
+2023-08-01 17:18:52,192 INFO Quit search after adding 15 reviews
+2023-08-01 17:18:54,548 INFO Updated History.csv
+2023-08-01 17:18:54,548 INFO Success!
+2023-08-01 17:18:56,408 INFO Quit search after adding 56 reviews
+2023-08-01 17:18:58,640 INFO Updated History.csv
+2023-08-01 17:18:58,640 INFO Success!
+2023-08-01 17:19:13,851 INFO Quit search after adding 167 reviews
+2023-08-01 17:19:16,092 INFO Updated History.csv
+2023-08-01 17:19:16,092 INFO Success!
+2023-08-01 17:19:16,099 INFO Analysed data from BestBuy
+2023-08-01 17:19:19,072 INFO Connected to Reddit
+2023-08-01 17:19:26,854 INFO Acquired data from Reddit
+2023-08-01 17:19:26,920 WARNING Cant insert data into tables in update mode since no data is present!, switching to fullRefresh mode
+2023-08-01 17:19:27,384 INFO Updated entire database
+2023-08-01 17:32:10,323 INFO Acquired Credentials
+2023-08-01 17:32:10,388 INFO Deleted all tables and reset History
+2023-08-01 17:32:11,672 INFO Connection initialized
+2023-08-01 17:32:11,672 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=samsung z flip 4 purple&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-01 17:32:11,685 INFO Connection initialized
+2023-08-01 17:32:11,685 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=hyper x haste 2&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-01 17:32:13,044 INFO Successfully redirected to US store
+2023-08-01 17:32:13,051 INFO Successfully redirected to US store
+2023-08-01 17:32:18,404 INFO Found product review link https://www.bestbuy.com/site/reviews/hyperx-pulsefire-haste-2-lightweight-wireless-optical-gaming-mouse-with-rgb-lighting-black/6537573?variant=A&skuId=6537573&sort=MOST_RECENT&page=1
+2023-08-01 17:32:20,209 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-bora-purple/6512612?variant=A&skuId=6512612&sort=MOST_RECENT&page=1
+2023-08-01 17:32:23,867 INFO Acquisition of product |HyperX Pulsefire Haste 2 Lightweight Wireless Optical Gaming Mouse with RGB Lighting Black 6N0B0AA| initiated
+2023-08-01 17:32:23,867 INFO initialised fresh search
+2023-08-01 17:32:26,623 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Bora Purple SM-F721ULVAXAA| initiated
+2023-08-01 17:32:26,623 INFO initialised fresh search
+2023-08-01 17:32:28,288 INFO Quit search after adding 15 reviews
+2023-08-01 17:32:30,527 INFO Updated History.csv
+2023-08-01 17:32:30,527 INFO Success!
+2023-08-01 17:32:51,203 INFO Quit search after adding 167 reviews
+2023-08-01 17:32:53,434 INFO Updated History.csv
+2023-08-01 17:32:53,434 INFO Success!
+2023-08-01 17:32:53,439 INFO Analysed data from BestBuy
+2023-08-01 17:33:40,395 INFO Acquired Credentials
+2023-08-01 17:33:40,458 INFO Deleted all tables and reset History
+2023-08-01 17:33:41,813 INFO Connection initialized
+2023-08-01 17:33:41,813 INFO Connection initialized
+2023-08-01 17:33:41,813 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=hyper x haste 2&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-01 17:33:41,813 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=samsung z flip 4 purple&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-01 17:33:43,020 INFO Successfully redirected to US store
+2023-08-01 17:33:43,504 INFO Successfully redirected to US store
+2023-08-01 17:33:47,959 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-bora-purple/6512612?variant=A&skuId=6512612&sort=MOST_RECENT&page=1
+2023-08-01 17:33:48,600 INFO Found product review link https://www.bestbuy.com/site/reviews/hyperx-pulsefire-haste-2-lightweight-wireless-optical-gaming-mouse-with-rgb-lighting-black/6537573?variant=A&skuId=6537573&sort=MOST_RECENT&page=1
+2023-08-01 17:33:52,582 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Bora Purple SM-F721ULVAXAA| initiated
+2023-08-01 17:33:52,582 INFO initialised fresh search
+2023-08-01 17:33:53,758 INFO Acquisition of product |HyperX Pulsefire Haste 2 Lightweight Wireless Optical Gaming Mouse with RGB Lighting Black 6N0B0AA| initiated
+2023-08-01 17:33:53,758 INFO initialised fresh search
+2023-08-01 17:33:59,451 INFO Quit search after adding 15 reviews
+2023-08-01 17:34:01,681 INFO Updated History.csv
+2023-08-01 17:34:01,681 INFO Success!
+2023-08-01 17:34:15,700 INFO Quit search after adding 167 reviews
+2023-08-01 17:34:17,934 INFO Updated History.csv
+2023-08-01 17:34:17,934 INFO Success!
+2023-08-01 17:34:17,939 INFO Analysed data from BestBuy
+2023-08-01 17:35:21,997 INFO Acquired Credentials
+2023-08-01 17:35:22,059 INFO Deleted all tables and reset History
+2023-08-01 17:35:23,341 INFO Connection initialized
+2023-08-01 17:35:23,341 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=samsung z flip 4 purple&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-01 17:35:23,375 INFO Connection initialized
+2023-08-01 17:35:23,376 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=hyper x haste 2&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-01 17:35:24,625 INFO Successfully redirected to US store
+2023-08-01 17:35:24,747 INFO Successfully redirected to US store
+2023-08-01 17:35:30,383 INFO Found product review link https://www.bestbuy.com/site/reviews/hyperx-pulsefire-haste-2-lightweight-wireless-optical-gaming-mouse-with-rgb-lighting-black/6537573?variant=A&skuId=6537573&sort=MOST_RECENT&page=1
+2023-08-01 17:35:31,249 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-bora-purple/6512612?variant=A&skuId=6512612&sort=MOST_RECENT&page=1
+2023-08-01 17:35:36,303 INFO Acquisition of product |HyperX Pulsefire Haste 2 Lightweight Wireless Optical Gaming Mouse with RGB Lighting Black 6N0B0AA| initiated
+2023-08-01 17:35:36,303 INFO initialised fresh search
+2023-08-01 17:35:37,215 INFO Acquisition of product |Samsung Galaxy Z Flip4 128GB (Unlocked) Bora Purple SM-F721ULVAXAA| initiated
+2023-08-01 17:35:37,215 INFO initialised fresh search
+2023-08-01 17:35:40,796 INFO Quit search after adding 15 reviews
+2023-08-01 17:35:43,024 INFO Updated History.csv
+2023-08-01 17:35:43,024 INFO Success!
+2023-08-01 17:36:02,552 INFO Quit search after adding 167 reviews
+2023-08-01 17:36:04,792 INFO Updated History.csv
+2023-08-01 17:36:04,792 INFO Success!
+2023-08-01 17:36:04,798 INFO Analysed data from BestBuy
+2023-08-01 17:36:06,362 INFO Connected to Reddit
+2023-08-01 17:36:12,135 INFO Acquired data from Reddit
+2023-08-01 17:36:12,203 WARNING Cant insert data into tables in update mode since no data is present!, switching to fullRefresh mode
+2023-08-01 17:36:12,661 INFO Updated entire database

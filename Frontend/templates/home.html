@@ -1,0 +1,93 @@
+{% extends "base.html" %} {% block content %}
+
+<div class="LeftDiv">
+<div class="historyList">
+  <h1>Product Analyser</h1>
+  <div class="descriptionDiv">
+    <p class="description">
+      Welcome to Product Analyser, the ultimate platform for sentiment analysis.
+      We scrape Reddit and Best Buy to gather real user feedback and opinions on
+      products. Our powerful data analysis and storage capabilities offer
+      real-time updates, in-depth insights, and a user-friendly interface.
+      Whether you're a savvy shopper or a business seeking product intelligence,
+      Product Analyser empowers you to make informed decisions with confidence.
+    </p>
+  </div>
+</div>
+
+<form action="/" method="post">
+  <div class="entry">
+    <div class="input-container">
+      <input
+        autocomplete="off"
+        type="text"
+        name="item"
+        placeholder="Enter list of items, separated by a comma..."
+      />
+    </div>
+  </div>
+
+  <div class="entry">
+    <button type="submit" class="rounded-button" name="action" value="refresh">
+      Refresh All
+    </button>
+    <button type="submit" class="rounded-button" name="action" value="append">
+      Append Mode
+    </button>
+    <button type="submit" class="rounded-button" name="action" value="custom">
+      Only selected
+    </button>
+  </div>
+
+  <div class="historyList">
+    <h3>Current products</h3>
+    <ul>
+      {% for product in history %}
+      <input
+        type="checkbox"
+        id="{{ 'item' ~ history.index(product) }}"
+        name="selected_items"
+        value="{{ product }}"
+      />
+      <label for="{{ 'item' ~ history.index(product) }}">{{ product }}</label
+      ><br />
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+<div class="RightDiv">
+  <div class="RDContent">
+    <h3 style="color: darkgray; font-size: 1.3em; margin: 10px">Currently supports</h3>
+    <a href="https://www.reddit.com" target="_blank">
+      <img
+        src="/static/images/reddit.png"
+        alt="reddit"
+        width="100"
+        height="100"
+        style="margin-left: 20px"
+      />
+    </a>
+    <a href="https://www.bestbuy.com" target="_blank">
+      <img
+        src="/static/images/bestbuy.png"
+        alt="bestbuy"
+        width="125"
+        height="100"
+        style="margin-left: 20px"
+      />
+    </a>
+    <a href="https://trends.google.com/trends/" target="_blank">
+      <img
+        src="/static/images/trends.png"
+        alt="Google trends"
+        width="150"
+        height="150"
+        style="margin-left: 10px"
+      />
+    </a>
+  </div>
+</div>
+
+  {% endblock %}
+</form>

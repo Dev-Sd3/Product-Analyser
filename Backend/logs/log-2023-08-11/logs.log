@@ -1,0 +1,1232 @@
+2023-08-11 09:44:55,916 CRITICAL Couldn't find Credentials
+2023-08-11 09:45:31,971 INFO Acquired Credentials
+2023-08-11 09:45:39,066 INFO Acquired Credentials
+2023-08-11 09:46:08,137 INFO Acquired Credentials
+2023-08-11 09:46:10,539 INFO Connection initialized
+2023-08-11 09:46:10,539 INFO product provided
+2023-08-11 09:46:10,539 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 11&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 09:46:11,990 INFO Successfully redirected to US store
+2023-08-11 09:46:17,992 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-11-64gb-unlocked-black/6510048?variant=A&skuId=6510048&sort=MOST_RECENT&page=1
+2023-08-11 09:46:21,376 INFO Acquisition of product |iphone 11| initiated
+2023-08-11 09:46:21,376 INFO initialised fresh search
+2023-08-11 09:47:04,371 INFO Quit search after adding 332 reviews
+2023-08-11 09:47:06,763 INFO Analysed data from BestBuy
+2023-08-11 09:47:08,474 INFO Connected to Reddit
+2023-08-11 09:47:18,385 INFO Acquired data from Reddit
+2023-08-11 09:47:19,287 INFO Updated entire database
+2023-08-11 09:47:29,361 INFO Completed Operation
+2023-08-11 09:56:41,902 INFO Acquired Credentials
+2023-08-11 09:56:41,972 INFO Deleted all tables and reset History
+2023-08-11 09:56:42,075 INFO Dropped all tables
+2023-08-11 09:56:43,787 INFO Connection initialized
+2023-08-11 09:56:43,787 INFO product provided
+2023-08-11 09:56:43,787 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=samsung z fold 4&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 09:56:43,910 INFO Connection initialized
+2023-08-11 09:56:43,910 INFO product provided
+2023-08-11 09:56:43,910 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=samsung z flip 3&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 09:56:43,913 INFO Connection initialized
+2023-08-11 09:56:43,913 INFO product provided
+2023-08-11 09:56:43,913 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=samsung z flip 4&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 09:56:43,917 INFO Connection initialized
+2023-08-11 09:56:43,918 INFO product provided
+2023-08-11 09:56:43,918 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=samsung z fold 3&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 09:56:45,286 INFO Successfully redirected to US store
+2023-08-11 09:56:45,294 INFO Successfully redirected to US store
+2023-08-11 09:56:45,336 INFO Successfully redirected to US store
+2023-08-11 09:56:45,366 INFO Successfully redirected to US store
+2023-08-11 09:56:53,279 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-fold3-5g-256gb-unlocked-phantom-silver/6466008?variant=A&skuId=6466008&sort=MOST_RECENT&page=1
+2023-08-11 09:56:53,639 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-fold4-256gb-phantom-black-verizon/6512838?variant=A&skuId=6512838&sort=MOST_RECENT&page=1
+2023-08-11 09:56:55,066 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1
+2023-08-11 09:56:57,952 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1
+2023-08-11 09:57:00,163 INFO Acquisition of product |samsung z fold 3| initiated
+2023-08-11 09:57:00,163 INFO initialised fresh search
+2023-08-11 09:57:00,694 INFO Acquisition of product |samsung z fold 4| initiated
+2023-08-11 09:57:00,694 INFO initialised fresh search
+2023-08-11 09:57:01,986 INFO Acquisition of product |samsung z flip 4| initiated
+2023-08-11 09:57:01,986 INFO initialised fresh search
+2023-08-11 09:57:05,095 INFO Acquisition of product |samsung z flip 3| initiated
+2023-08-11 09:57:05,095 INFO initialised fresh search
+2023-08-11 09:57:17,961 INFO Quit search after adding 84 reviews
+2023-08-11 09:57:32,616 INFO Quit search after adding 156 reviews
+2023-08-11 09:57:50,954 INFO Quit search after adding 315 reviews
+2023-08-11 09:57:53,742 INFO Quit search after adding 290 reviews
+2023-08-11 09:57:56,015 INFO Analysed data from BestBuy
+2023-08-11 09:57:59,317 INFO Connected to Reddit
+2023-08-11 09:58:19,857 INFO Acquired data from Reddit
+2023-08-11 09:58:19,936 INFO Dropped all tables
+2023-08-11 09:58:20,481 INFO Updated entire database
+2023-08-11 09:58:29,674 INFO Completed Operation
+2023-08-11 10:28:32,679 INFO Acquired Credentials
+2023-08-11 10:29:57,560 INFO Acquired Credentials
+2023-08-11 10:31:25,849 INFO Acquired Credentials
+2023-08-11 10:37:41,198 INFO Acquired Credentials
+2023-08-11 10:37:48,314 INFO Acquired Credentials
+2023-08-11 10:38:58,568 INFO Acquired Credentials
+2023-08-11 10:39:04,190 INFO Acquired Credentials
+2023-08-11 10:39:04,240 ERROR [Errno 2] No such file or directory: 'entries.txt'
+2023-08-11 10:39:04,240 WARNING restoring database to previous state
+2023-08-11 10:40:06,193 INFO Acquired Credentials
+2023-08-11 10:40:22,487 INFO Acquired Credentials
+2023-08-11 10:40:22,541 INFO Starting Operation with products: []
+2023-08-11 10:40:24,206 INFO Connection initialized
+2023-08-11 10:40:24,206 INFO url provided
+2023-08-11 10:40:24,216 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/samsung-galaxy-z-fold4-256gb-phantom-black-verizon/6512838?variant=A&skuId=6512838&sort=MOST_RECENT&page=1| initiated
+2023-08-11 10:40:24,216 INFO initialised search in update mode
+2023-08-11 10:40:24,472 INFO Connection initialized
+2023-08-11 10:40:24,472 INFO url provided
+2023-08-11 10:40:24,479 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1| initiated
+2023-08-11 10:40:24,479 INFO initialised search in update mode
+2023-08-11 10:40:24,581 INFO Connection initialized
+2023-08-11 10:40:24,582 INFO url provided
+2023-08-11 10:40:24,592 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/samsung-galaxy-z-fold3-5g-256gb-unlocked-phantom-silver/6466008?variant=A&skuId=6466008&sort=MOST_RECENT&page=1| initiated
+2023-08-11 10:40:24,592 INFO initialised search in update mode
+2023-08-11 10:40:24,595 INFO Connection initialized
+2023-08-11 10:40:24,596 INFO url provided
+2023-08-11 10:40:24,609 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1| initiated
+2023-08-11 10:40:24,609 INFO initialised search in update mode
+2023-08-11 10:40:32,264 INFO Quit search after adding 0 reviews
+2023-08-11 10:40:32,793 INFO Quit search after adding 0 reviews
+2023-08-11 10:40:34,831 INFO Quit search after adding 0 reviews
+2023-08-11 10:40:36,683 INFO Quit search after adding 0 reviews
+2023-08-11 10:40:39,153 INFO Analysed data from BestBuy
+2023-08-11 10:40:39,547 ERROR Google Trends: Error while acquiring dataframe
+2023-08-11 10:40:39,550 INFO Connected to Reddit
+2023-08-11 10:40:39,550 INFO Acquired data from Reddit
+2023-08-11 10:40:39,550 ERROR No objects to concatenate
+2023-08-11 10:40:39,550 WARNING restoring database to previous state
+2023-08-11 10:41:19,539 INFO Acquired Credentials
+2023-08-11 10:41:39,221 INFO Acquired Credentials
+2023-08-11 10:41:39,272 INFO Starting Operation with products: []
+2023-08-11 10:41:40,940 INFO Connection initialized
+2023-08-11 10:41:40,940 INFO url provided
+2023-08-11 10:41:40,950 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/samsung-galaxy-z-fold4-256gb-phantom-black-verizon/6512838?variant=A&skuId=6512838&sort=MOST_RECENT&page=1| initiated
+2023-08-11 10:41:40,950 INFO initialised search in update mode
+2023-08-11 10:41:41,018 INFO Connection initialized
+2023-08-11 10:41:41,018 INFO url provided
+2023-08-11 10:41:41,018 INFO Connection initialized
+2023-08-11 10:41:41,019 INFO url provided
+2023-08-11 10:41:41,034 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1| initiated
+2023-08-11 10:41:41,035 INFO initialised search in update mode
+2023-08-11 10:41:41,038 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1| initiated
+2023-08-11 10:41:41,038 INFO initialised search in update mode
+2023-08-11 10:41:41,279 INFO Connection initialized
+2023-08-11 10:41:41,279 INFO url provided
+2023-08-11 10:41:41,288 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/samsung-galaxy-z-fold3-5g-256gb-unlocked-phantom-silver/6466008?variant=A&skuId=6466008&sort=MOST_RECENT&page=1| initiated
+2023-08-11 10:41:41,288 INFO initialised search in update mode
+2023-08-11 10:41:47,832 INFO Quit search after adding 0 reviews
+2023-08-11 10:41:49,100 INFO Quit search after adding 0 reviews
+2023-08-11 10:41:50,798 INFO Quit search after adding 0 reviews
+2023-08-11 10:41:52,646 INFO Quit search after adding 0 reviews
+2023-08-11 10:41:55,078 INFO Analysed data from BestBuy
+2023-08-11 10:41:55,308 ERROR Google Trends: Error while acquiring dataframe
+2023-08-11 10:41:55,311 INFO Connected to Reddit
+2023-08-11 10:41:55,311 INFO Acquired data from Reddit
+2023-08-11 10:41:55,311 ERROR No objects to concatenate
+2023-08-11 10:41:55,311 WARNING restoring database to previous state
+2023-08-11 10:43:40,627 INFO Acquired Credentials
+2023-08-11 10:43:48,180 INFO Acquired Credentials
+2023-08-11 10:43:49,278 INFO Acquired Credentials
+2023-08-11 10:43:49,331 INFO Starting Operation with products: []
+2023-08-11 10:43:50,999 INFO Connection initialized
+2023-08-11 10:43:50,999 INFO url provided
+2023-08-11 10:43:51,011 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1| initiated
+2023-08-11 10:43:51,011 INFO initialised search in update mode
+2023-08-11 10:43:51,018 INFO Connection initialized
+2023-08-11 10:43:51,018 INFO url provided
+2023-08-11 10:43:51,031 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/samsung-galaxy-z-fold3-5g-256gb-unlocked-phantom-silver/6466008?variant=A&skuId=6466008&sort=MOST_RECENT&page=1| initiated
+2023-08-11 10:43:51,032 INFO initialised search in update mode
+2023-08-11 10:43:51,061 INFO Connection initialized
+2023-08-11 10:43:51,062 INFO Connection initialized
+2023-08-11 10:43:51,062 INFO url provided
+2023-08-11 10:43:51,062 INFO url provided
+2023-08-11 10:43:51,070 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/samsung-galaxy-z-fold4-256gb-phantom-black-verizon/6512838?variant=A&skuId=6512838&sort=MOST_RECENT&page=1| initiated
+2023-08-11 10:43:51,070 INFO initialised search in update mode
+2023-08-11 10:43:51,076 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1| initiated
+2023-08-11 10:43:51,076 INFO initialised search in update mode
+2023-08-11 10:43:58,641 INFO Quit search after adding 0 reviews
+2023-08-11 10:43:58,690 INFO Quit search after adding 0 reviews
+2023-08-11 10:44:00,507 INFO Quit search after adding 0 reviews
+2023-08-11 10:44:01,871 INFO Quit search after adding 0 reviews
+2023-08-11 10:44:04,226 INFO Analysed data from BestBuy
+2023-08-11 10:44:04,546 ERROR Google Trends: Error while acquiring dataframe
+2023-08-11 10:44:04,548 INFO Connected to Reddit
+2023-08-11 10:44:04,549 INFO Acquired data from Reddit
+2023-08-11 10:44:04,549 ERROR No objects to concatenate
+2023-08-11 10:44:04,549 WARNING restoring database to previous state
+2023-08-11 10:44:52,170 INFO Acquired Credentials
+2023-08-11 10:46:06,164 INFO Acquired Credentials
+2023-08-11 10:46:20,300 INFO Acquired Credentials
+2023-08-11 10:46:20,352 INFO Getting Entries
+2023-08-11 10:46:20,353 INFO Starting Operation with products: []
+2023-08-11 10:46:21,955 INFO Connection initialized
+2023-08-11 10:46:21,956 INFO url provided
+2023-08-11 10:46:21,964 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/samsung-galaxy-z-fold4-256gb-phantom-black-verizon/6512838?variant=A&skuId=6512838&sort=MOST_RECENT&page=1| initiated
+2023-08-11 10:46:21,964 INFO initialised search in update mode
+2023-08-11 10:46:22,128 INFO Connection initialized
+2023-08-11 10:46:22,128 INFO url provided
+2023-08-11 10:46:22,135 INFO Connection initialized
+2023-08-11 10:46:22,135 INFO url provided
+2023-08-11 10:46:22,136 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-128gb-unlocked-graphite/6512618?variant=A&skuId=6512618&sort=MOST_RECENT&page=1| initiated
+2023-08-11 10:46:22,136 INFO initialised search in update mode
+2023-08-11 10:46:22,148 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/samsung-galaxy-z-fold3-5g-256gb-unlocked-phantom-silver/6466008?variant=A&skuId=6466008&sort=MOST_RECENT&page=1| initiated
+2023-08-11 10:46:22,148 INFO initialised search in update mode
+2023-08-11 10:46:22,167 INFO Connection initialized
+2023-08-11 10:46:22,167 INFO url provided
+2023-08-11 10:46:22,176 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip3-5g-128gb-unlocked-phantom-black/6466010?variant=A&skuId=6466010&sort=MOST_RECENT&page=1| initiated
+2023-08-11 10:46:22,176 INFO initialised search in update mode
+2023-08-11 10:46:28,839 INFO Quit search after adding 0 reviews
+2023-08-11 10:46:29,100 INFO Quit search after adding 0 reviews
+2023-08-11 10:46:31,439 INFO Quit search after adding 0 reviews
+2023-08-11 10:46:33,029 INFO Quit search after adding 0 reviews
+2023-08-11 10:46:35,386 INFO Analysed data from BestBuy
+2023-08-11 10:46:35,775 ERROR Google Trends: Error while acquiring dataframe
+2023-08-11 10:46:35,778 INFO Connected to Reddit
+2023-08-11 10:46:35,778 INFO Acquired data from Reddit
+2023-08-11 10:46:35,778 ERROR No objects to concatenate
+2023-08-11 10:46:35,778 WARNING restoring database to previous state
+2023-08-11 10:46:57,222 INFO Acquired Credentials
+2023-08-11 10:47:02,822 INFO Acquired Credentials
+2023-08-11 10:47:02,870 INFO Getting Entries
+2023-08-11 10:47:51,134 INFO Acquired Credentials
+2023-08-11 10:47:58,542 INFO Acquired Credentials
+2023-08-11 10:48:06,305 INFO Acquired Credentials
+2023-08-11 10:48:06,356 INFO Getting Entries
+2023-08-11 10:48:33,892 INFO Acquired Credentials
+2023-08-11 10:48:41,239 INFO Acquired Credentials
+2023-08-11 10:49:09,510 INFO Acquired Credentials
+2023-08-11 10:49:09,585 INFO Deleted all tables and reset History
+2023-08-11 10:49:09,789 INFO Dropped all tables
+2023-08-11 10:49:09,789 INFO Adding Entries
+2023-08-11 10:49:09,789 INFO Starting Operation with products: ['iphone 12', 'iphone 13', 'iphone 14']
+2023-08-11 10:49:11,347 INFO Connection initialized
+2023-08-11 10:49:11,348 INFO product provided
+2023-08-11 10:49:11,348 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 12&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 10:49:11,381 INFO Connection initialized
+2023-08-11 10:49:11,381 INFO product provided
+2023-08-11 10:49:11,382 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 14&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 10:49:11,421 INFO Connection initialized
+2023-08-11 10:49:11,421 INFO product provided
+2023-08-11 10:49:11,421 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 13&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 10:49:12,384 INFO Successfully redirected to US store
+2023-08-11 10:49:12,425 INFO Successfully redirected to US store
+2023-08-11 10:49:12,616 INFO Successfully redirected to US store
+2023-08-11 10:49:24,260 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-13-5g-128gb-unlocked-midnight/6417788?variant=A&skuId=6417788&sort=MOST_RECENT&page=1
+2023-08-11 10:49:25,925 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-256gb-deep-purple-at-t/6487263?variant=A&skuId=6487263&sort=MOST_RECENT&page=1
+2023-08-11 10:49:26,199 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-12-5g-64gb-unlocked-black/6417831?variant=A&skuId=6417831&sort=MOST_RECENT&page=1
+2023-08-11 10:49:29,082 INFO Acquisition of product |iphone 13| initiated
+2023-08-11 10:49:29,082 INFO initialised fresh search
+2023-08-11 10:49:30,875 INFO Acquisition of product |iphone 12| initiated
+2023-08-11 10:49:30,875 INFO initialised fresh search
+2023-08-11 10:49:31,751 INFO Acquisition of product |iphone 14| initiated
+2023-08-11 10:49:31,751 INFO initialised fresh search
+2023-08-11 10:49:42,689 INFO Quit search after adding 63 reviews
+2023-08-11 10:50:07,791 INFO Quit search after adding 270 reviews
+2023-08-11 10:50:40,961 INFO Quit search after adding 326 reviews
+2023-08-11 10:50:43,212 INFO Analysed data from BestBuy
+2023-08-11 10:50:46,027 INFO Connected to Reddit
+2023-08-11 10:51:17,879 INFO Acquired data from Reddit
+2023-08-11 10:51:17,943 INFO Dropped all tables
+2023-08-11 10:51:18,569 INFO Updated entire database
+2023-08-11 10:51:25,931 INFO Completed Operation
+2023-08-11 10:52:40,344 INFO Acquired Credentials
+2023-08-11 10:53:14,129 INFO Acquired Credentials
+2023-08-11 10:55:29,955 INFO Acquired Credentials
+2023-08-11 11:02:11,150 INFO Acquired Credentials
+2023-08-11 11:03:07,295 INFO Acquired Credentials
+2023-08-11 11:05:54,595 INFO Acquired Credentials
+2023-08-11 11:06:01,887 INFO Acquired Credentials
+2023-08-11 11:06:11,190 INFO Acquired Credentials
+2023-08-11 11:06:11,241 INFO Getting Entries
+2023-08-11 11:06:11,241 INFO Starting Operation with products: ['iphone 12', 'iphone 13', 'iphone 14']
+2023-08-11 11:06:12,768 INFO Connection initialized
+2023-08-11 11:06:12,768 INFO url provided
+2023-08-11 11:06:12,777 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-256gb-deep-purple-at-t/6487263?variant=A&skuId=6487263&sort=MOST_RECENT&page=1| initiated
+2023-08-11 11:06:12,778 INFO initialised search in update mode
+2023-08-11 11:06:12,805 INFO Connection initialized
+2023-08-11 11:06:12,806 INFO url provided
+2023-08-11 11:06:12,816 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/apple-iphone-12-5g-64gb-unlocked-black/6417831?variant=A&skuId=6417831&sort=MOST_RECENT&page=1| initiated
+2023-08-11 11:06:12,816 INFO initialised search in update mode
+2023-08-11 11:06:12,969 INFO Connection initialized
+2023-08-11 11:06:12,969 INFO url provided
+2023-08-11 11:06:12,978 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/apple-iphone-13-5g-128gb-unlocked-midnight/6417788?variant=A&skuId=6417788&sort=MOST_RECENT&page=1| initiated
+2023-08-11 11:06:12,979 INFO initialised search in update mode
+2023-08-11 11:06:20,083 INFO Quit search after adding 0 reviews
+2023-08-11 11:06:20,884 INFO Quit search after adding 0 reviews
+2023-08-11 11:06:21,155 INFO Quit search after adding 0 reviews
+2023-08-11 11:06:23,443 INFO Analysed data from BestBuy
+2023-08-11 11:06:25,791 INFO Connected to Reddit
+2023-08-11 11:06:52,347 INFO Acquired data from Reddit
+2023-08-11 11:06:52,845 INFO Updated entire database
+2023-08-11 11:06:59,620 INFO Completed Operation
+2023-08-11 11:08:18,586 INFO Acquired Credentials
+2023-08-11 11:08:18,638 INFO Adding Entries
+2023-08-11 11:08:18,639 INFO Starting Operation with products: ['iphone 11']
+2023-08-11 11:08:19,891 INFO Connection initialized
+2023-08-11 11:08:19,891 INFO product provided
+2023-08-11 11:08:19,891 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 11&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 11:08:21,288 INFO Successfully redirected to US store
+2023-08-11 11:08:30,504 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-11-64gb-unlocked-black/6510048?variant=A&skuId=6510048&sort=MOST_RECENT&page=1
+2023-08-11 11:08:35,742 INFO Acquisition of product |iphone 11| initiated
+2023-08-11 11:08:35,742 INFO initialised fresh search
+2023-08-11 11:09:21,692 INFO Quit search after adding 332 reviews
+2023-08-11 11:09:23,997 INFO Analysed data from BestBuy
+2023-08-11 11:09:24,883 INFO Connected to Reddit
+2023-08-11 11:09:34,082 INFO Acquired data from Reddit
+2023-08-11 11:09:34,638 INFO Updated entire database
+2023-08-11 11:09:43,263 INFO Completed Operation
+2023-08-11 11:13:56,876 INFO Acquired Credentials
+2023-08-11 11:14:06,310 INFO Acquired Credentials
+2023-08-11 11:14:06,362 INFO Getting Entries
+2023-08-11 11:14:06,362 INFO Starting Operation with products: ['iphone 12', 'iphone 13', 'iphone 14', 'iphone 11']
+2023-08-11 11:14:08,191 INFO Connection initialized
+2023-08-11 11:14:08,191 INFO Connection initialized
+2023-08-11 11:14:08,191 INFO url provided
+2023-08-11 11:14:08,192 INFO Connection initialized
+2023-08-11 11:14:08,192 INFO Connection initialized
+2023-08-11 11:14:08,192 INFO url provided
+2023-08-11 11:14:08,192 INFO url provided
+2023-08-11 11:14:08,192 INFO url provided
+2023-08-11 11:14:08,210 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/apple-iphone-12-5g-64gb-unlocked-black/6417831?variant=A&skuId=6417831&sort=MOST_RECENT&page=1| initiated
+2023-08-11 11:14:08,210 INFO initialised search in update mode
+2023-08-11 11:14:08,217 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-11-64gb-unlocked-black/6510048?variant=A&skuId=6510048&sort=MOST_RECENT&page=1| initiated
+2023-08-11 11:14:08,217 INFO initialised search in update mode
+2023-08-11 11:14:08,217 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-256gb-deep-purple-at-t/6487263?variant=A&skuId=6487263&sort=MOST_RECENT&page=1| initiated
+2023-08-11 11:14:08,217 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/apple-iphone-13-5g-128gb-unlocked-midnight/6417788?variant=A&skuId=6417788&sort=MOST_RECENT&page=1| initiated
+2023-08-11 11:14:08,218 INFO initialised search in update mode
+2023-08-11 11:14:08,219 INFO initialised search in update mode
+2023-08-11 11:14:14,865 INFO Quit search after adding 0 reviews
+2023-08-11 11:14:15,215 INFO Quit search after adding 0 reviews
+2023-08-11 11:14:15,593 INFO Quit search after adding 0 reviews
+2023-08-11 11:14:16,309 INFO Quit search after adding 0 reviews
+2023-08-11 11:14:18,612 INFO Analysed data from BestBuy
+2023-08-11 11:14:21,114 INFO Connected to Reddit
+2023-08-11 11:14:48,780 INFO Acquired data from Reddit
+2023-08-11 11:14:49,303 INFO Updated entire database
+2023-08-11 11:14:59,574 INFO Completed Operation
+2023-08-11 11:15:13,488 INFO Acquired Credentials
+2023-08-11 11:15:13,540 INFO Adding Entries
+2023-08-11 11:15:13,540 INFO Getting Entries
+2023-08-11 11:15:13,540 INFO Starting Operation with products: ['iphone 12', 'iphone 13', 'iphone 14', 'iphone 11', 'iphone 12 mini']
+2023-08-11 11:15:15,508 INFO Connection initialized
+2023-08-11 11:15:15,508 INFO product provided
+2023-08-11 11:15:15,509 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 12 mini&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 11:15:15,589 INFO Connection initialized
+2023-08-11 11:15:15,589 INFO product provided
+2023-08-11 11:15:15,589 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 13&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 11:15:15,665 INFO Connection initialized
+2023-08-11 11:15:15,665 INFO Connection initialized
+2023-08-11 11:15:15,665 INFO Connection initialized
+2023-08-11 11:15:15,665 INFO product provided
+2023-08-11 11:15:15,665 INFO product provided
+2023-08-11 11:15:15,665 INFO product provided
+2023-08-11 11:15:15,666 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 14&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 11:15:15,666 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 11&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 11:15:15,666 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 12&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 11:15:16,889 INFO Successfully redirected to US store
+2023-08-11 11:15:16,973 INFO Successfully redirected to US store
+2023-08-11 11:15:16,987 INFO Successfully redirected to US store
+2023-08-11 11:15:17,053 INFO Successfully redirected to US store
+2023-08-11 11:15:17,096 INFO Successfully redirected to US store
+2023-08-11 11:15:25,684 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-256gb-deep-purple-at-t/6487263?variant=A&skuId=6487263&sort=MOST_RECENT&page=1
+2023-08-11 11:15:26,801 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-12-5g-64gb-unlocked-black/6417831?variant=A&skuId=6417831&sort=MOST_RECENT&page=1
+2023-08-11 11:15:27,108 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-11-64gb-unlocked-black/6510048?variant=A&skuId=6510048&sort=MOST_RECENT&page=1
+2023-08-11 11:15:29,716 ERROR Thread iphone 14 failed!
+2023-08-11 11:15:29,716 ERROR Product already exists in database
+2023-08-11 11:15:31,343 ERROR Thread iphone 11 failed!
+2023-08-11 11:15:31,343 ERROR Product already exists in database
+2023-08-11 11:15:31,988 ERROR Thread iphone 12 failed!
+2023-08-11 11:15:31,988 ERROR Product already exists in database
+2023-08-11 11:15:47,065 INFO Acquired Credentials
+2023-08-11 11:17:15,101 INFO Acquired Credentials
+2023-08-11 11:17:45,069 INFO Acquired Credentials
+2023-08-11 11:17:45,143 INFO Deleted all tables and reset History
+2023-08-11 11:17:45,205 INFO Dropped all tables
+2023-08-11 11:17:45,205 INFO Adding Entries
+2023-08-11 11:17:45,206 INFO Starting Operation with products: ['iphone 12 mini', 'iphone 13 mini', 'iphone 14 plus']
+2023-08-11 11:17:46,580 INFO Connection initialized
+2023-08-11 11:17:46,580 INFO product provided
+2023-08-11 11:17:46,580 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 13 mini&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 11:17:46,661 INFO Connection initialized
+2023-08-11 11:17:46,661 INFO Connection initialized
+2023-08-11 11:17:46,661 INFO product provided
+2023-08-11 11:17:46,661 INFO product provided
+2023-08-11 11:17:46,662 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 12 mini&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 11:17:46,662 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 14 plus&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 11:17:47,709 INFO Successfully redirected to US store
+2023-08-11 11:17:47,737 INFO Successfully redirected to US store
+2023-08-11 11:17:48,223 INFO Successfully redirected to US store
+2023-08-11 11:17:56,709 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-13-mini-5g-128gb-unlocked-midnight/6417809?variant=A&skuId=6417809&sort=MOST_RECENT&page=1
+2023-08-11 11:17:56,800 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-5g-64gb-unlocked-black/6530509?variant=A&skuId=6530509&sort=MOST_RECENT&page=1
+2023-08-11 11:18:01,026 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-plus-128gb-midnight-verizon/6505124?variant=A&skuId=6505124&sort=MOST_RECENT&page=1
+2023-08-11 11:18:01,180 INFO Acquisition of product |iphone 13 mini| initiated
+2023-08-11 11:18:01,181 INFO initialised fresh search
+2023-08-11 11:18:01,362 INFO Acquisition of product |iphone 12 mini| initiated
+2023-08-11 11:18:01,362 INFO initialised fresh search
+2023-08-11 11:18:05,753 INFO Acquisition of product |iphone 14 plus| initiated
+2023-08-11 11:18:05,753 INFO initialised fresh search
+2023-08-11 11:18:17,881 INFO Quit search after adding 1 reviews
+2023-08-11 11:18:18,934 INFO Quit search after adding 95 reviews
+2023-08-11 11:18:20,583 INFO Quit search after adding 96 reviews
+2023-08-11 11:18:22,885 INFO Analysed data from BestBuy
+2023-08-11 11:18:22,885 ERROR local variable 'all_products' referenced before assignment
+2023-08-11 11:18:22,885 WARNING restoring database to previous state
+2023-08-11 11:18:56,033 INFO Acquired Credentials
+2023-08-11 11:19:13,305 INFO Acquired Credentials
+2023-08-11 11:19:13,374 INFO Deleted all tables and reset History
+2023-08-11 11:19:13,427 INFO Dropped all tables
+2023-08-11 11:19:13,427 INFO Adding Entries
+2023-08-11 11:19:13,428 INFO Getting Entries
+2023-08-11 11:19:13,428 INFO Starting Operation with products: ['iphone 12 mini', 'iphone 13 mini', 'iphone 14 plus']
+2023-08-11 11:19:14,863 INFO Connection initialized
+2023-08-11 11:19:14,863 INFO product provided
+2023-08-11 11:19:14,863 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 13 mini&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 11:19:14,900 INFO Connection initialized
+2023-08-11 11:19:14,900 INFO Connection initialized
+2023-08-11 11:19:14,900 INFO product provided
+2023-08-11 11:19:14,900 INFO product provided
+2023-08-11 11:19:14,900 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 14 plus&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 11:19:14,900 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 12 mini&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 11:19:15,910 INFO Successfully redirected to US store
+2023-08-11 11:19:16,060 INFO Successfully redirected to US store
+2023-08-11 11:19:16,077 INFO Successfully redirected to US store
+2023-08-11 11:19:26,106 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-plus-128gb-midnight-verizon/6505124?variant=A&skuId=6505124&sort=MOST_RECENT&page=1
+2023-08-11 11:19:26,193 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-13-mini-5g-128gb-unlocked-midnight/6417809?variant=A&skuId=6417809&sort=MOST_RECENT&page=1
+2023-08-11 11:19:26,354 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-5g-64gb-unlocked-black/6530509?variant=A&skuId=6530509&sort=MOST_RECENT&page=1
+2023-08-11 11:19:31,053 INFO Acquisition of product |iphone 13 mini| initiated
+2023-08-11 11:19:31,053 INFO initialised fresh search
+2023-08-11 11:19:31,269 INFO Acquisition of product |iphone 12 mini| initiated
+2023-08-11 11:19:31,269 INFO initialised fresh search
+2023-08-11 11:19:31,315 INFO Acquisition of product |iphone 14 plus| initiated
+2023-08-11 11:19:31,315 INFO initialised fresh search
+2023-08-11 11:19:47,934 INFO Quit search after adding 96 reviews
+2023-08-11 11:19:48,294 INFO Quit search after adding 1 reviews
+2023-08-11 11:19:50,124 INFO Quit search after adding 95 reviews
+2023-08-11 11:19:52,384 INFO Analysed data from BestBuy
+2023-08-11 11:19:54,937 INFO Connected to Reddit
+2023-08-11 11:20:16,310 INFO Acquired data from Reddit
+2023-08-11 11:20:16,403 INFO Dropped all tables
+2023-08-11 11:20:17,302 INFO Updated entire database
+2023-08-11 11:20:24,111 INFO Completed Operation
+2023-08-11 11:20:38,570 INFO Acquired Credentials
+2023-08-11 11:20:38,621 INFO Getting Entries
+2023-08-11 11:20:38,622 INFO Starting Operation with products: ['Apple Pre-Owned iPhone 12 5G 64GB (Unlocked) Black A2172', 'Apple iPhone 13 mini 5G 128GB (Unlocked) Midnight MMJ23LLA', 'Apple iPhone 14 Plus 128GB Midnight (Verizon) MQ3R3LLA']
+2023-08-11 11:20:40,016 INFO Connection initialized
+2023-08-11 11:20:40,016 INFO Connection initialized
+2023-08-11 11:20:40,016 INFO url provided
+2023-08-11 11:20:40,016 INFO url provided
+2023-08-11 11:20:40,025 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-5g-64gb-unlocked-black/6530509?variant=A&skuId=6530509&sort=MOST_RECENT&page=1| initiated
+2023-08-11 11:20:40,027 INFO initialised search in update mode
+2023-08-11 11:20:40,029 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/apple-iphone-14-plus-128gb-midnight-verizon/6505124?variant=A&skuId=6505124&sort=MOST_RECENT&page=1| initiated
+2023-08-11 11:20:40,030 INFO initialised search in update mode
+2023-08-11 11:20:40,086 INFO Connection initialized
+2023-08-11 11:20:40,086 INFO url provided
+2023-08-11 11:20:40,093 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/apple-iphone-13-mini-5g-128gb-unlocked-midnight/6417809?variant=A&skuId=6417809&sort=MOST_RECENT&page=1| initiated
+2023-08-11 11:20:40,094 INFO initialised search in update mode
+2023-08-11 11:20:46,644 INFO Quit search after adding 0 reviews
+2023-08-11 11:20:50,356 INFO Quit search after adding 0 reviews
+2023-08-11 11:20:56,538 INFO Quit search after adding 0 reviews
+2023-08-11 11:20:59,130 INFO Analysed data from BestBuy
+2023-08-11 11:21:01,168 INFO Connected to Reddit
+2023-08-11 11:21:11,927 INFO Acquired data from Reddit
+2023-08-11 11:21:12,535 INFO Updated entire database
+2023-08-11 11:21:19,178 INFO Completed Operation
+2023-08-11 11:21:45,146 INFO Acquired Credentials
+2023-08-11 11:21:45,213 INFO Deleted all tables and reset History
+2023-08-11 11:21:45,356 INFO Dropped all tables
+2023-08-11 11:21:45,356 INFO Adding Entries
+2023-08-11 11:21:45,357 INFO Getting Entries
+2023-08-11 11:21:45,358 INFO Starting Operation with products: ['iphone 14 pro max', 'iphone 14 pro', 'iphone 14', 'iphone 14']
+2023-08-11 11:21:46,901 INFO Connection initialized
+2023-08-11 11:21:46,902 INFO product provided
+2023-08-11 11:21:46,902 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 14 pro&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 11:21:46,946 INFO Connection initialized
+2023-08-11 11:21:46,946 INFO product provided
+2023-08-11 11:21:46,946 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 14 pro max&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 11:21:47,085 INFO Connection initialized
+2023-08-11 11:21:47,085 INFO product provided
+2023-08-11 11:21:47,086 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 14&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 11:21:47,109 INFO Connection initialized
+2023-08-11 11:21:47,110 INFO product provided
+2023-08-11 11:21:47,110 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 14&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 11:21:47,970 INFO Successfully redirected to US store
+2023-08-11 11:21:48,117 INFO Successfully redirected to US store
+2023-08-11 11:21:48,138 INFO Successfully redirected to US store
+2023-08-11 11:21:48,150 INFO Successfully redirected to US store
+2023-08-11 11:21:57,740 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-256gb-deep-purple-at-t/6487263?variant=A&skuId=6487263&sort=MOST_RECENT&page=1
+2023-08-11 11:21:58,379 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-256gb-deep-purple-at-t/6487263?variant=A&skuId=6487263&sort=MOST_RECENT&page=1
+2023-08-11 11:21:58,907 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-128gb-space-black-at-t/6487239?variant=A&skuId=6487239&sort=MOST_RECENT&page=1
+2023-08-11 11:21:59,403 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-256gb-deep-purple-at-t/6487263?variant=A&skuId=6487263&sort=MOST_RECENT&page=1
+2023-08-11 11:22:02,637 INFO Acquisition of product |iphone 14 pro max| initiated
+2023-08-11 11:22:02,637 INFO initialised fresh search
+2023-08-11 11:22:03,809 INFO Acquisition of product |iphone 14| initiated
+2023-08-11 11:22:03,809 INFO initialised fresh search
+2023-08-11 11:22:04,674 INFO Acquisition of product |iphone 14 pro| initiated
+2023-08-11 11:22:04,674 INFO initialised fresh search
+2023-08-11 11:22:05,367 INFO Acquisition of product |iphone 14| initiated
+2023-08-11 11:22:05,367 INFO initialised fresh search
+2023-08-11 11:22:45,402 INFO Quit search after adding 150 reviews
+2023-08-11 11:23:18,131 INFO Quit search after adding 326 reviews
+2023-08-11 11:23:21,190 INFO Quit search after adding 326 reviews
+2023-08-11 11:23:22,135 INFO Quit search after adding 326 reviews
+2023-08-11 11:23:24,421 INFO Analysed data from BestBuy
+2023-08-11 11:23:27,196 INFO Connected to Reddit
+2023-08-11 11:23:54,366 INFO Acquired data from Reddit
+2023-08-11 11:23:54,429 INFO Dropped all tables
+2023-08-11 11:23:54,930 ERROR (psycopg2.errors.UniqueViolation) could not create unique index "stgHistory_pkey"
+DETAIL:  Key ("PK_Md")=(2b5202be549f09a4a90e5a56f2d9e34e) is duplicated.
+
+[SQL: 
+            ALTER TABLE "ProductAnalysis"."stgHistory"
+            ADD PRIMARY KEY ("PK_Md"),
+            ADD CONSTRAINT unique_pk_md UNIQUE ("PK_Md")
+            ]
+(Background on this error at: https://sqlalche.me/e/14/gkpj)
+2023-08-11 11:23:54,930 WARNING restoring database to previous state
+2023-08-11 11:24:47,044 INFO Acquired Credentials
+2023-08-11 11:24:47,133 INFO Deleted all tables and reset History
+2023-08-11 11:24:47,248 INFO Dropped all tables
+2023-08-11 11:24:47,248 INFO Adding Entries
+2023-08-11 11:24:47,249 INFO Getting Entries
+2023-08-11 11:24:47,249 INFO Starting Operation with products: ['iphone 14 plus 256', 'iphone 14 256', 'iphone 14 pro 256']
+2023-08-11 11:24:48,846 INFO Connection initialized
+2023-08-11 11:24:48,846 INFO product provided
+2023-08-11 11:24:48,846 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 14 256&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 11:24:48,847 INFO Connection initialized
+2023-08-11 11:24:48,847 INFO Connection initialized
+2023-08-11 11:24:48,847 INFO product provided
+2023-08-11 11:24:48,848 INFO product provided
+2023-08-11 11:24:48,848 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 14 plus 256&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 11:24:48,848 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 14 pro 256&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 11:24:49,922 INFO Successfully redirected to US store
+2023-08-11 11:24:49,939 INFO Successfully redirected to US store
+2023-08-11 11:24:50,084 INFO Successfully redirected to US store
+2023-08-11 11:24:57,209 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-256gb-blue-at-t/6504804?variant=A&skuId=6504804&sort=MOST_RECENT&page=1
+2023-08-11 11:24:57,746 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-plus-256gb-midnight-at-t/6504815?variant=A&skuId=6504815&sort=MOST_RECENT&page=1
+2023-08-11 11:24:58,440 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-256gb-space-black-t-mobile/6487465?variant=A&skuId=6487465&sort=MOST_RECENT&page=1
+2023-08-11 11:25:01,325 INFO Acquisition of product |iphone 14 256| initiated
+2023-08-11 11:25:01,325 INFO initialised fresh search
+2023-08-11 11:25:01,714 INFO Acquisition of product |iphone 14 plus 256| initiated
+2023-08-11 11:25:01,714 INFO initialised fresh search
+2023-08-11 11:25:02,653 INFO Acquisition of product |iphone 14 pro 256| initiated
+2023-08-11 11:25:02,653 INFO initialised fresh search
+2023-08-11 11:25:09,510 INFO Quit search after adding 35 reviews
+2023-08-11 11:25:10,483 INFO Quit search after adding 24 reviews
+2023-08-11 11:25:29,570 INFO Quit search after adding 193 reviews
+2023-08-11 11:25:31,859 INFO Analysed data from BestBuy
+2023-08-11 11:25:33,972 INFO Connected to Reddit
+2023-08-11 11:25:43,783 INFO Acquired data from Reddit
+2023-08-11 11:25:43,851 INFO Dropped all tables
+2023-08-11 11:25:44,370 INFO Updated entire database
+2023-08-11 11:25:50,813 INFO Completed Operation
+2023-08-11 11:26:57,670 INFO Acquired Credentials
+2023-08-11 11:26:57,738 INFO Getting Entries
+2023-08-11 11:26:57,738 INFO Starting Operation with products: ['Apple iPhone 14 Pro 256GB Space Black (T-Mobile) MQ0N3LLA', 'Apple iPhone 14 Plus 256GB Midnight (AT&T) MQ3X3LLA', 'Apple iPhone 14 256GB Blue (AT&T) MPWM3LLA']
+2023-08-11 11:26:59,111 INFO Connection initialized
+2023-08-11 11:26:59,111 INFO url provided
+2023-08-11 11:26:59,116 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/apple-iphone-14-plus-256gb-midnight-at-t/6504815?variant=A&skuId=6504815&sort=MOST_RECENT&page=1| initiated
+2023-08-11 11:26:59,117 INFO initialised search in update mode
+2023-08-11 11:26:59,125 INFO Connection initialized
+2023-08-11 11:26:59,125 INFO url provided
+2023-08-11 11:26:59,131 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-256gb-space-black-t-mobile/6487465?variant=A&skuId=6487465&sort=MOST_RECENT&page=1| initiated
+2023-08-11 11:26:59,131 INFO initialised search in update mode
+2023-08-11 11:26:59,216 INFO Connection initialized
+2023-08-11 11:26:59,216 INFO url provided
+2023-08-11 11:26:59,220 INFO Acquisition of url |https://www.bestbuy.com/site/reviews/apple-iphone-14-256gb-blue-at-t/6504804?variant=A&skuId=6504804&sort=MOST_RECENT&page=1| initiated
+2023-08-11 11:26:59,220 INFO initialised search in update mode
+2023-08-11 11:27:07,181 INFO Quit search after adding 0 reviews
+2023-08-11 11:27:08,080 INFO Quit search after adding 0 reviews
+2023-08-11 11:27:08,652 INFO Quit search after adding 0 reviews
+2023-08-11 11:27:10,939 INFO Analysed data from BestBuy
+2023-08-11 11:27:12,790 INFO Connected to Reddit
+2023-08-11 11:27:22,338 INFO Acquired data from Reddit
+2023-08-11 11:27:22,805 INFO Updated entire database
+2023-08-11 11:27:29,202 INFO Completed Operation
+2023-08-11 11:29:38,985 INFO Acquired Credentials
+2023-08-11 11:29:39,054 INFO Deleted all tables and reset History
+2023-08-11 11:29:39,113 INFO Dropped all tables
+2023-08-11 11:29:39,114 INFO Adding Entries
+2023-08-11 11:29:39,114 INFO Getting Entries
+2023-08-11 11:29:39,115 INFO Starting Operation with products: ['rtx 4060', 'rtx 4070', 'rtx 4080', 'Apple iPhone 14 Pro 256GB Space Black (T-Mobile)']
+2023-08-11 11:29:41,042 INFO Connection initialized
+2023-08-11 11:29:41,043 INFO product provided
+2023-08-11 11:29:41,043 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=rtx 4080&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 11:29:41,149 INFO Connection initialized
+2023-08-11 11:29:41,149 INFO product provided
+2023-08-11 11:29:41,149 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=rtx 4070&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 11:29:41,219 INFO Connection initialized
+2023-08-11 11:29:41,219 INFO product provided
+2023-08-11 11:29:41,219 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=rtx 4060&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 11:29:41,228 INFO Connection initialized
+2023-08-11 11:29:41,228 INFO product provided
+2023-08-11 11:29:41,228 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple iPhone 14 Pro 256GB Space Black (T-Mobi&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 11:29:42,145 INFO Successfully redirected to US store
+2023-08-11 11:29:42,153 INFO Successfully redirected to US store
+2023-08-11 11:29:42,192 INFO Successfully redirected to US store
+2023-08-11 11:29:42,260 INFO Successfully redirected to US store
+2023-08-11 11:29:52,216 INFO Found product review link https://www.bestbuy.com/site/reviews/msi-nvidia-geforce-rtx-4060-ventus-2x-8g-oc-8gb-gddr6-pci-express-4-0-graphics-card-black/6548653?variant=A&skuId=6548653&sort=MOST_RECENT&page=1
+2023-08-11 11:29:52,228 INFO Found product review link https://www.bestbuy.com/site/reviews/asus-nvidia-geforce-rtx-4070-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black/6540001?variant=A&skuId=6540001&sort=MOST_RECENT&page=1
+2023-08-11 11:29:52,345 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-256gb-space-black-verizon/6487390?variant=A&skuId=6487390&sort=MOST_RECENT&page=1
+2023-08-11 11:29:53,139 INFO Found product review link https://www.bestbuy.com/site/reviews/gigabyte-nvidia-geforce-rtx-4080-gaming-oc-16gb-gddr6x-pci-express-4-0-graphics-card-black/6524517?variant=A&skuId=6524517&sort=MOST_RECENT&page=1
+2023-08-11 11:29:58,793 INFO Acquisition of product |Apple iPhone 14 Pro 256GB Space Black (T-Mobi| initiated
+2023-08-11 11:29:58,793 INFO initialised fresh search
+2023-08-11 11:29:59,543 INFO Acquisition of product |rtx 4080| initiated
+2023-08-11 11:29:59,543 INFO initialised fresh search
+2023-08-11 11:29:59,574 INFO Acquisition of product |rtx 4060| initiated
+2023-08-11 11:29:59,575 INFO initialised fresh search
+2023-08-11 11:29:59,578 INFO Acquisition of product |rtx 4070| initiated
+2023-08-11 11:29:59,578 INFO initialised fresh search
+2023-08-11 11:30:05,740 INFO Quit search after adding 3 reviews
+2023-08-11 11:30:09,631 INFO Quit search after adding 34 reviews
+2023-08-11 11:30:30,302 INFO Quit search after adding 154 reviews
+2023-08-11 11:30:45,866 INFO Quit search after adding 288 reviews
+2023-08-11 11:30:48,152 INFO Analysed data from BestBuy
+2023-08-11 11:30:50,794 ERROR Google Trends: Error while acquiring dataframe
+2023-08-11 11:30:50,944 INFO Connected to Reddit
+2023-08-11 11:32:26,638 INFO Acquired data from Reddit
+2023-08-11 11:32:26,700 INFO Dropped all tables
+2023-08-11 11:32:27,169 INFO Updated entire database
+2023-08-11 11:32:35,594 INFO Completed Operation
+2023-08-11 11:38:06,535 INFO Acquired Credentials
+2023-08-11 11:38:13,718 INFO Acquired Credentials
+2023-08-11 11:38:38,617 INFO Acquired Credentials
+2023-08-11 11:38:38,668 INFO Adding Entries
+2023-08-11 11:38:38,668 INFO Getting Entries
+2023-08-11 11:38:38,669 INFO Starting Operation with products: ['3090 nvidia']
+2023-08-11 11:38:39,899 INFO Connection initialized
+2023-08-11 11:38:39,899 INFO product provided
+2023-08-11 11:38:39,899 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=3090 nvidia&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 11:38:41,097 INFO Successfully redirected to US store
+2023-08-11 11:38:49,047 INFO Found product review link https://www.bestbuy.com/site/reviews/nvidia-geforce-rtx-4070-12gb-gddr6x-graphics-card-titanium-and-black/6539358?variant=A&skuId=6539358&sort=MOST_RECENT&page=1
+2023-08-11 11:38:52,628 INFO Acquisition of product |3090 nvidia| initiated
+2023-08-11 11:38:52,629 INFO initialised fresh search
+2023-08-11 11:39:36,519 INFO Quit search after adding 288 reviews
+2023-08-11 11:39:38,862 INFO Analysed data from BestBuy
+2023-08-11 11:39:41,445 ERROR Google Trends: Error while acquiring dataframe
+2023-08-11 11:39:41,715 INFO Connected to Reddit
+2023-08-11 11:41:27,406 INFO Acquired data from Reddit
+2023-08-11 11:41:27,975 INFO Updated entire database
+2023-08-11 11:41:39,279 INFO Completed Operation
+2023-08-11 12:17:28,179 INFO Acquired Credentials
+2023-08-11 12:17:35,121 INFO Acquired Credentials
+2023-08-11 12:18:17,483 INFO Acquired Credentials
+2023-08-11 12:18:17,563 INFO Deleted all tables and reset History
+2023-08-11 12:18:17,618 INFO Dropped all tables
+2023-08-11 12:18:17,618 INFO Adding Entries
+2023-08-11 12:18:17,618 INFO Getting Entries
+2023-08-11 12:18:17,619 INFO Starting Operation with products: ['playstation 5', 'playstation 4', 'xbox series S', 'xbox series X', 'nintendo switch oled']
+2023-08-11 12:18:19,677 INFO Connection initialized
+2023-08-11 12:18:19,677 INFO product provided
+2023-08-11 12:18:19,677 INFO Connection initialized
+2023-08-11 12:18:19,677 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=playstation 4&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 12:18:19,678 INFO product provided
+2023-08-11 12:18:19,679 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=xbox series S&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 12:18:19,708 INFO Connection initialized
+2023-08-11 12:18:19,708 INFO product provided
+2023-08-11 12:18:19,708 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=nintendo switch oled&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 12:18:19,768 INFO Connection initialized
+2023-08-11 12:18:19,768 INFO product provided
+2023-08-11 12:18:19,768 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=xbox series X&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 12:18:19,937 INFO Connection initialized
+2023-08-11 12:18:19,937 INFO product provided
+2023-08-11 12:18:19,937 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=playstation 5&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 12:18:20,971 INFO Successfully redirected to US store
+2023-08-11 12:18:20,987 INFO Successfully redirected to US store
+2023-08-11 12:18:21,064 INFO Successfully redirected to US store
+2023-08-11 12:18:21,107 INFO Successfully redirected to US store
+2023-08-11 12:18:21,287 INFO Successfully redirected to US store
+2023-08-11 12:18:28,223 INFO Found product review link https://www.bestbuy.com/site/reviews/nintendo-switch-oled-model-w-white-joy-con-white/6470923?variant=A&skuId=6470923&sort=MOST_RECENT&page=1
+2023-08-11 12:18:31,259 INFO Found product review link https://www.bestbuy.com/site/reviews/microsoft-xbox-series-s-512-gb-all-digital-console-disc-free-gaming-white/6430277?variant=A&skuId=6430277&sort=MOST_RECENT&page=1
+2023-08-11 12:18:32,402 INFO Acquisition of product |nintendo switch oled| initiated
+2023-08-11 12:18:32,402 INFO initialised fresh search
+2023-08-11 12:18:32,987 INFO Found product review link https://www.bestbuy.com/site/reviews/sony-playstation-5-console/6523167?variant=A&skuId=6523167&sort=MOST_RECENT&page=1
+2023-08-11 12:18:37,194 INFO Found product review link https://www.bestbuy.com/site/reviews/sony-playstation-4-1tb-console-black/5850905?variant=A&skuId=5850905&sort=MOST_RECENT&page=1
+2023-08-11 12:18:37,621 INFO Found product review link https://www.bestbuy.com/site/reviews/microsoft-xbox-series-x-1tb-console-black/6428324?variant=A&skuId=6428324&sort=MOST_RECENT&page=1
+2023-08-11 12:18:38,638 INFO Acquisition of product |xbox series S| initiated
+2023-08-11 12:18:38,638 INFO initialised fresh search
+2023-08-11 12:18:38,641 INFO Acquisition of product |playstation 5| initiated
+2023-08-11 12:18:38,641 INFO initialised fresh search
+2023-08-11 12:18:41,207 INFO Acquisition of product |playstation 4| initiated
+2023-08-11 12:18:41,208 INFO initialised fresh search
+2023-08-11 12:18:44,619 INFO Acquisition of product |xbox series X| initiated
+2023-08-11 12:18:44,620 INFO initialised fresh search
+2023-08-11 12:23:49,113 ERROR Thread playstation 4 failed!
+2023-08-11 12:23:49,113 ERROR Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=115.0.5790.171)
+
+2023-08-11 12:23:51,676 ERROR Thread xbox series S failed!
+2023-08-11 12:23:51,676 ERROR Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=115.0.5790.171)
+
+2023-08-11 12:23:52,765 ERROR Thread nintendo switch oled failed!
+2023-08-11 12:23:52,765 ERROR Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=115.0.5790.171)
+
+2023-08-11 12:23:53,876 ERROR Thread xbox series X failed!
+2023-08-11 12:23:53,877 ERROR Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=115.0.5790.171)
+
+2023-08-11 12:23:55,849 ERROR Thread playstation 5 failed!
+2023-08-11 12:23:55,849 ERROR Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=115.0.5790.171)
+
+2023-08-11 12:23:55,861 ERROR All objects passed were None
+2023-08-11 12:23:55,861 WARNING restoring database to previous state
+2023-08-11 12:25:36,001 INFO Acquired Credentials
+2023-08-11 12:25:36,079 INFO Deleted all tables and reset History
+2023-08-11 12:25:36,189 INFO Dropped all tables
+2023-08-11 12:25:36,189 INFO Adding Entries
+2023-08-11 12:25:36,189 INFO Getting Entries
+2023-08-11 12:25:36,190 INFO Starting Operation with products: ['iphone 14 pro max', 'iphone 14 pro', 'samsung s23 ultra', 'samsung s23 plus']
+2023-08-11 12:25:38,106 INFO Connection initialized
+2023-08-11 12:25:38,107 INFO Connection initialized
+2023-08-11 12:25:38,107 INFO product provided
+2023-08-11 12:25:38,107 INFO Connection initialized
+2023-08-11 12:25:38,107 INFO product provided
+2023-08-11 12:25:38,107 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 14 pro&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 12:25:38,107 INFO product provided
+2023-08-11 12:25:38,107 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=samsung s23 plus&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 12:25:38,108 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 14 pro max&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 12:25:38,248 INFO Connection initialized
+2023-08-11 12:25:38,248 INFO product provided
+2023-08-11 12:25:38,248 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=samsung s23 ultra&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 12:25:39,284 INFO Successfully redirected to US store
+2023-08-11 12:25:39,433 INFO Successfully redirected to US store
+2023-08-11 12:25:39,438 INFO Successfully redirected to US store
+2023-08-11 12:25:39,733 INFO Successfully redirected to US store
+2023-08-11 12:25:47,973 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-s23-ultra-256gb-unlocked-green/6529721?variant=A&skuId=6529721&sort=MOST_RECENT&page=1
+2023-08-11 12:25:48,571 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-256gb-deep-purple-at-t/6487263?variant=A&skuId=6487263&sort=MOST_RECENT&page=1
+2023-08-11 12:25:52,513 INFO Acquisition of product |samsung s23 ultra| initiated
+2023-08-11 12:25:52,513 INFO initialised fresh search
+2023-08-11 12:25:52,642 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-128gb-space-black-at-t/6487239?variant=A&skuId=6487239&sort=MOST_RECENT&page=1
+2023-08-11 12:25:53,336 INFO Acquisition of product |iphone 14 pro max| initiated
+2023-08-11 12:25:53,336 INFO initialised fresh search
+2023-08-11 12:25:53,478 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-s23-256gb-unlocked-phantom-black/6529715?variant=A&skuId=6529715&sort=MOST_RECENT&page=1
+2023-08-11 12:25:57,812 INFO Acquisition of product |iphone 14 pro| initiated
+2023-08-11 12:25:57,813 INFO initialised fresh search
+2023-08-11 12:25:59,913 INFO Acquisition of product |samsung s23 plus| initiated
+2023-08-11 12:25:59,913 INFO initialised fresh search
+2023-08-11 12:26:27,789 INFO Quit search after adding 148 reviews
+2023-08-11 12:26:40,206 INFO Quit search after adding 150 reviews
+2023-08-11 12:27:03,764 INFO Quit search after adding 326 reviews
+2023-08-11 12:27:45,392 INFO Quit search after adding 721 reviews
+2023-08-11 12:27:47,675 INFO Analysed data from BestBuy
+2023-08-11 12:27:51,314 INFO Connected to Reddit
+2023-08-11 12:28:16,637 INFO Acquired data from Reddit
+2023-08-11 12:28:16,710 INFO Dropped all tables
+2023-08-11 12:28:17,248 INFO Updated entire database
+2023-08-11 12:28:25,955 INFO Completed Operation
+2023-08-11 12:29:37,656 INFO Acquired Credentials
+2023-08-11 12:51:35,115 INFO Acquired Credentials
+2023-08-11 12:51:35,188 INFO Deleted all tables and reset History
+2023-08-11 12:51:35,249 INFO Dropped all tables
+2023-08-11 12:51:35,249 INFO Adding Entries
+2023-08-11 12:51:35,250 INFO Getting Entries
+2023-08-11 12:51:35,250 INFO Starting Operation with products: ['samsung s23 ultra']
+2023-08-11 12:51:36,619 INFO Connection initialized
+2023-08-11 12:51:36,619 INFO product provided
+2023-08-11 12:51:36,619 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=samsung s23 ultra&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 12:51:38,145 INFO Successfully redirected to US store
+2023-08-11 12:51:47,507 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-s23-ultra-256gb-unlocked-green/6529721?variant=A&skuId=6529721&sort=MOST_RECENT&page=1
+2023-08-11 12:51:52,882 INFO Acquisition of product |samsung s23 ultra| initiated
+2023-08-11 12:51:52,883 INFO initialised fresh search
+2023-08-11 12:53:18,392 INFO Quit search after adding 721 reviews
+2023-08-11 12:53:20,669 INFO Analysed data from BestBuy
+2023-08-11 12:53:21,813 INFO Connected to Reddit
+2023-08-11 12:53:43,255 INFO Acquired data from Reddit
+2023-08-11 12:53:43,320 INFO Dropped all tables
+2023-08-11 12:53:43,855 INFO Updated entire database
+2023-08-11 12:53:46,301 INFO Completed Operation
+2023-08-11 12:54:36,942 INFO Acquired Credentials
+2023-08-11 12:54:36,993 INFO Adding Entries
+2023-08-11 12:54:36,993 INFO Getting Entries
+2023-08-11 12:54:36,993 INFO Starting Operation with products: ['samsung s22 ultra']
+2023-08-11 12:54:38,234 INFO Connection initialized
+2023-08-11 12:54:38,235 INFO product provided
+2023-08-11 12:54:38,235 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=samsung s22 ultra&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 12:54:39,483 INFO Successfully redirected to US store
+2023-08-11 12:54:47,788 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-s22-ultra-128gb-phantom-black-t-mobile/6472841?variant=A&skuId=6472841&sort=MOST_RECENT&page=1
+2023-08-11 12:54:52,154 INFO Acquisition of product |samsung s22 ultra| initiated
+2023-08-11 12:54:52,154 INFO initialised fresh search
+2023-08-11 12:55:03,435 INFO Quit search after adding 65 reviews
+2023-08-11 12:55:05,806 INFO Analysed data from BestBuy
+2023-08-11 12:55:07,176 INFO Connected to Reddit
+2023-08-11 12:55:28,899 INFO Acquired data from Reddit
+2023-08-11 12:55:29,438 INFO Updated entire database
+2023-08-11 12:55:33,852 INFO Completed Operation
+2023-08-11 14:16:59,258 INFO Acquired Credentials
+2023-08-11 14:21:45,611 INFO Acquired Credentials
+2023-08-11 14:23:47,894 INFO Acquired Credentials
+2023-08-11 14:25:15,244 INFO Acquired Credentials
+2023-08-11 14:29:07,413 INFO Acquired Credentials
+2023-08-11 14:29:25,455 INFO Acquired Credentials
+2023-08-11 14:29:25,522 INFO Deleted all tables and reset History
+2023-08-11 14:29:25,538 INFO Dropped all tables
+2023-08-11 14:29:25,538 INFO Adding Entries
+2023-08-11 14:29:25,538 INFO Getting Entries
+2023-08-11 14:29:25,539 INFO Starting Operation with products: ['iphone 12 pro']
+2023-08-11 14:29:26,765 INFO Connection initialized
+2023-08-11 14:29:26,765 INFO product provided
+2023-08-11 14:29:26,765 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 12 pro&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 14:29:28,276 INFO Successfully redirected to US store
+2023-08-11 14:29:37,362 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-256gb-unlocked-graphite/6516535?variant=A&skuId=6516535&sort=MOST_RECENT&page=1
+2023-08-11 14:29:44,119 INFO Acquisition of product |iphone 12 pro| initiated
+2023-08-11 14:29:44,120 INFO initialised fresh search
+2023-08-11 14:29:51,083 INFO Quit search after adding 31 reviews
+2023-08-11 14:29:53,349 INFO Analysed data from BestBuy
+2023-08-11 14:29:55,218 INFO Connected to Reddit
+2023-08-11 14:30:19,815 INFO Acquired data from Reddit
+2023-08-11 14:30:19,879 INFO Dropped all tables
+2023-08-11 14:30:20,339 ERROR (psycopg2.errors.DuplicateTable) relation "unique_pk_md" already exists
+
+[SQL: 
+            ALTER TABLE "ProductAnalysis"."fctHistory"
+            ADD PRIMARY KEY ("PK_Md"),
+            ADD CONSTRAINT unique_pk_md UNIQUE ("PK_Md")
+            ]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+2023-08-11 14:30:20,339 WARNING restoring database to previous state
+2023-08-11 14:32:01,591 INFO Acquired Credentials
+2023-08-11 14:32:01,672 INFO no file to remove
+2023-08-11 14:32:01,672 INFO Deleted all tables and reset History
+2023-08-11 14:32:01,674 INFO Dropped all tables
+2023-08-11 14:32:01,674 INFO Adding Entries
+2023-08-11 14:32:01,674 INFO Getting Entries
+2023-08-11 14:32:01,675 INFO Starting Operation with products: ['iphone 12 pro']
+2023-08-11 14:32:02,934 INFO Connection initialized
+2023-08-11 14:32:02,934 INFO product provided
+2023-08-11 14:32:02,934 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 12 pro&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 14:32:05,008 INFO Successfully redirected to US store
+2023-08-11 14:32:15,759 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-12-pro-5g-256gb-unlocked-graphite/6516535?variant=A&skuId=6516535&sort=MOST_RECENT&page=1
+2023-08-11 14:32:24,071 INFO Acquisition of product |iphone 12 pro| initiated
+2023-08-11 14:32:24,071 INFO initialised fresh search
+2023-08-11 14:32:32,215 INFO Quit search after adding 31 reviews
+2023-08-11 14:32:34,457 INFO Analysed data from BestBuy
+2023-08-11 14:32:35,245 INFO Connected to Reddit
+2023-08-11 14:32:51,433 INFO Acquired data from Reddit
+2023-08-11 14:32:51,498 INFO Dropped all tables
+2023-08-11 14:32:51,996 INFO Updated entire database
+2023-08-11 14:32:52,168 INFO Completed Operation
+2023-08-11 14:36:53,783 INFO Acquired Credentials
+2023-08-11 14:36:54,804 INFO Acquired Credentials
+2023-08-11 14:36:54,865 INFO no file to remove
+2023-08-11 14:36:54,865 INFO Deleted all tables and reset History
+2023-08-11 14:36:54,893 INFO Dropped all tables
+2023-08-11 14:36:54,893 INFO Adding Entries
+2023-08-11 14:36:54,894 INFO Getting Entries
+2023-08-11 14:36:54,895 INFO Starting Operation with products: ['haste 2 mouse']
+2023-08-11 14:36:56,149 INFO Connection initialized
+2023-08-11 14:36:56,149 INFO product provided
+2023-08-11 14:36:56,149 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=haste 2 mouse&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 14:36:58,368 INFO Successfully redirected to US store
+2023-08-11 14:37:06,606 INFO Found product review link https://www.bestbuy.com/site/reviews/hyperx-pulsefire-haste-2-lightweight-wired-optical-gaming-mouse-with-rgb-lighting-black/6537572?variant=A&skuId=6537572&sort=MOST_RECENT&page=1
+2023-08-11 14:37:11,976 INFO Acquisition of product |haste 2 mouse| initiated
+2023-08-11 14:37:11,976 INFO initialised fresh search
+2023-08-11 14:37:16,261 INFO Quit search after adding 5 reviews
+2023-08-11 14:37:18,579 INFO Analysed data from BestBuy
+2023-08-11 14:37:19,527 INFO Connected to Reddit
+2023-08-11 14:37:26,045 INFO Acquired data from Reddit
+2023-08-11 14:37:26,107 INFO Dropped all tables
+2023-08-11 14:37:26,589 INFO Updated entire database
+2023-08-11 14:37:26,765 INFO Completed Operation
+2023-08-11 14:43:44,044 INFO Acquired Credentials
+2023-08-11 14:43:51,273 INFO Acquired Credentials
+2023-08-11 14:44:33,645 INFO Acquired Credentials
+2023-08-11 14:44:33,705 INFO no file to remove
+2023-08-11 14:44:33,705 INFO Deleted all tables and reset History
+2023-08-11 14:44:33,731 INFO Dropped all tables
+2023-08-11 14:44:33,731 INFO Adding Entries
+2023-08-11 14:44:33,731 INFO Getting Entries
+2023-08-11 14:44:33,732 INFO Starting Operation with products: ['haste 2 mouse']
+2023-08-11 14:44:34,991 INFO Connection initialized
+2023-08-11 14:44:34,991 INFO product provided
+2023-08-11 14:44:34,992 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=haste 2 mouse&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 14:44:36,631 INFO Successfully redirected to US store
+2023-08-11 14:44:46,042 INFO Found product review link https://www.bestbuy.com/site/reviews/hyperx-pulsefire-haste-2-lightweight-wired-optical-gaming-mouse-with-rgb-lighting-black/6537572?variant=A&skuId=6537572&sort=MOST_RECENT&page=1
+2023-08-11 14:44:51,984 INFO Acquisition of product |haste 2 mouse| initiated
+2023-08-11 14:44:51,984 INFO initialised fresh search
+2023-08-11 14:44:56,930 INFO Quit search after adding 5 reviews
+2023-08-11 14:44:59,148 INFO Analysed data from BestBuy
+2023-08-11 14:44:59,967 INFO Connected to Reddit
+2023-08-11 14:45:06,109 INFO Acquired data from Reddit
+2023-08-11 14:45:06,175 INFO Dropped all tables
+2023-08-11 14:45:06,646 INFO Updated entire database
+2023-08-11 14:45:09,027 INFO Completed Operation
+2023-08-11 14:52:28,406 INFO Acquired Credentials
+2023-08-11 14:52:28,577 INFO Deleted all tables and reset History
+2023-08-11 14:52:28,635 INFO Dropped all tables
+2023-08-11 14:52:28,635 INFO Adding Entries
+2023-08-11 14:52:28,635 INFO Getting Entries
+2023-08-11 14:52:28,636 INFO Starting Operation with products: ['iphone 12', 'iphone 11', 'iphone 13', 'iphone X', 'iphone 14', 'iphone xs']
+2023-08-11 14:52:30,824 INFO Connection initialized
+2023-08-11 14:52:30,825 INFO Connection initialized
+2023-08-11 14:52:30,826 INFO product provided
+2023-08-11 14:52:30,827 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 14&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 14:52:30,825 INFO product provided
+2023-08-11 14:52:30,828 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone X&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 14:52:30,853 INFO Connection initialized
+2023-08-11 14:52:30,853 INFO product provided
+2023-08-11 14:52:30,853 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 13&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 14:52:31,372 INFO Connection initialized
+2023-08-11 14:52:31,372 INFO product provided
+2023-08-11 14:52:31,372 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 11&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 14:52:31,449 INFO Connection initialized
+2023-08-11 14:52:31,449 INFO product provided
+2023-08-11 14:52:31,450 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 12&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 14:52:31,454 INFO Connection initialized
+2023-08-11 14:52:31,454 INFO product provided
+2023-08-11 14:52:31,454 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone xs&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 14:52:32,691 INFO Successfully redirected to US store
+2023-08-11 14:52:32,990 INFO Successfully redirected to US store
+2023-08-11 14:52:33,294 INFO Successfully redirected to US store
+2023-08-11 14:52:33,302 INFO Successfully redirected to US store
+2023-08-11 14:52:33,349 INFO Successfully redirected to US store
+2023-08-11 14:52:33,399 INFO Successfully redirected to US store
+2023-08-11 14:52:44,095 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-xs-64gb-unlocked-space-gray/6522700?variant=A&skuId=6522700&sort=MOST_RECENT&page=1
+2023-08-11 14:52:46,237 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-11-64gb-unlocked-black/6510048?variant=A&skuId=6510048&sort=MOST_RECENT&page=1
+2023-08-11 14:52:47,476 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-13-5g-128gb-unlocked-midnight/6417788?variant=A&skuId=6417788&sort=MOST_RECENT&page=1
+2023-08-11 14:52:47,859 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-xs-64gb-unlocked-space-gray/6522700?variant=A&skuId=6522700&sort=MOST_RECENT&page=1
+2023-08-11 14:52:49,291 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-12-5g-64gb-unlocked-black/6417831?variant=A&skuId=6417831&sort=MOST_RECENT&page=1
+2023-08-11 14:52:51,901 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-256gb-deep-purple-at-t/6487263?variant=A&skuId=6487263&sort=MOST_RECENT&page=1
+2023-08-11 14:52:52,993 INFO Acquisition of product |iphone xs| initiated
+2023-08-11 14:52:52,993 INFO initialised fresh search
+2023-08-11 14:52:55,140 INFO Acquisition of product |iphone 11| initiated
+2023-08-11 14:52:55,140 INFO initialised fresh search
+2023-08-11 14:52:55,758 INFO Acquisition of product |iphone 13| initiated
+2023-08-11 14:52:55,759 INFO initialised fresh search
+2023-08-11 14:52:56,039 INFO Acquisition of product |iphone X| initiated
+2023-08-11 14:52:56,039 INFO initialised fresh search
+2023-08-11 14:52:57,711 INFO Acquisition of product |iphone 12| initiated
+2023-08-11 14:52:57,711 INFO initialised fresh search
+2023-08-11 14:53:01,161 INFO Acquisition of product |iphone 14| initiated
+2023-08-11 14:53:01,161 INFO initialised fresh search
+2023-08-11 14:53:15,469 INFO Quit search after adding 63 reviews
+2023-08-11 14:53:33,391 INFO Quit search after adding 196 reviews
+2023-08-11 14:53:34,473 INFO Quit search after adding 196 reviews
+2023-08-11 14:53:46,911 INFO Quit search after adding 270 reviews
+2023-08-11 14:53:58,286 INFO Quit search after adding 332 reviews
+2023-08-11 14:54:25,516 INFO Quit search after adding 326 reviews
+2023-08-11 14:54:27,793 INFO Analysed data from BestBuy
+2023-08-11 14:54:32,423 INFO Connected to Reddit
+2023-08-11 14:55:00,583 INFO Acquired data from Reddit
+2023-08-11 14:55:00,653 INFO Dropped all tables
+2023-08-11 14:55:01,224 ERROR (psycopg2.errors.UniqueViolation) could not create unique index "fctHistory_pkey"
+DETAIL:  Key ("PK_Md")=(d942f9bc43a59ff68aa4575435307fe7) is duplicated.
+
+[SQL: 
+            ALTER TABLE "ProductAnalysis"."fctHistory"
+            ADD PRIMARY KEY ("PK_Md"),
+            ADD CONSTRAINT unique_pk_md UNIQUE ("PK_Md")
+            ]
+(Background on this error at: https://sqlalche.me/e/14/gkpj)
+2023-08-11 14:55:01,224 WARNING restoring database to previous state
+2023-08-11 14:57:44,785 INFO Acquired Credentials
+2023-08-11 14:57:44,860 INFO Deleted all tables and reset History
+2023-08-11 14:57:44,919 INFO Dropped all tables
+2023-08-11 14:57:44,919 INFO Adding Entries
+2023-08-11 14:57:44,920 INFO Getting Entries
+2023-08-11 14:57:44,920 INFO Starting Operation with products: ['iphone X', 'iphone Xs', 'iphone 11', 'iphone 12', 'iphone 13']
+2023-08-11 14:57:46,916 INFO Connection initialized
+2023-08-11 14:57:46,916 INFO product provided
+2023-08-11 14:57:46,916 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 11&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 14:57:47,086 INFO Connection initialized
+2023-08-11 14:57:47,086 INFO product provided
+2023-08-11 14:57:47,086 INFO Connection initialized
+2023-08-11 14:57:47,086 INFO Connection initialized
+2023-08-11 14:57:47,087 INFO Connection initialized
+2023-08-11 14:57:47,087 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 13&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 14:57:47,087 INFO product provided
+2023-08-11 14:57:47,087 INFO product provided
+2023-08-11 14:57:47,087 INFO product provided
+2023-08-11 14:57:47,088 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone Xs&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 14:57:47,088 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone X&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 14:57:47,088 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 12&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 14:57:48,111 INFO Successfully redirected to US store
+2023-08-11 14:57:48,153 INFO Successfully redirected to US store
+2023-08-11 14:57:48,161 INFO Successfully redirected to US store
+2023-08-11 14:57:48,256 INFO Successfully redirected to US store
+2023-08-11 14:57:48,398 INFO Successfully redirected to US store
+2023-08-11 14:58:01,271 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-xs-64gb-unlocked-space-gray/6522700?variant=A&skuId=6522700&sort=MOST_RECENT&page=1
+2023-08-11 14:58:02,106 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-xs-64gb-unlocked-space-gray/6522700?variant=A&skuId=6522700&sort=MOST_RECENT&page=1
+2023-08-11 14:58:02,595 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-12-5g-64gb-unlocked-black/6417831?variant=A&skuId=6417831&sort=MOST_RECENT&page=1
+2023-08-11 14:58:04,505 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-11-64gb-unlocked-black/6510048?variant=A&skuId=6510048&sort=MOST_RECENT&page=1
+2023-08-11 14:58:07,960 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-13-5g-128gb-unlocked-midnight/6417788?variant=A&skuId=6417788&sort=MOST_RECENT&page=1
+2023-08-11 14:58:07,965 INFO Acquisition of product |iphone X| initiated
+2023-08-11 14:58:07,965 INFO initialised fresh search
+2023-08-11 14:58:08,172 INFO Acquisition of product |iphone Xs| initiated
+2023-08-11 14:58:08,172 INFO initialised fresh search
+2023-08-11 14:58:08,276 INFO Acquisition of product |iphone 12| initiated
+2023-08-11 14:58:08,276 INFO initialised fresh search
+2023-08-11 14:58:09,666 INFO Acquisition of product |iphone 11| initiated
+2023-08-11 14:58:09,667 INFO initialised fresh search
+2023-08-11 14:58:13,582 INFO Acquisition of product |iphone 13| initiated
+2023-08-11 14:58:13,582 INFO initialised fresh search
+2023-08-11 14:58:14,365 ERROR Thread iphone Xs failed!
+2023-08-11 14:58:14,365 ERROR Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=115.0.5790.171)
+
+2023-08-11 14:58:23,542 INFO Quit search after adding 63 reviews
+2023-08-11 14:58:44,963 INFO Quit search after adding 196 reviews
+2023-08-11 14:58:53,975 INFO Quit search after adding 332 reviews
+2023-08-11 14:58:54,567 INFO Quit search after adding 270 reviews
+2023-08-11 14:58:56,866 INFO Analysed data from BestBuy
+2023-08-11 14:58:59,866 INFO Connected to Reddit
+2023-08-11 14:59:22,924 INFO Acquired data from Reddit
+2023-08-11 14:59:22,988 INFO Dropped all tables
+2023-08-11 14:59:23,755 INFO Updated entire database
+2023-08-11 14:59:32,531 INFO Completed Operation
+2023-08-11 15:00:39,123 INFO Acquired Credentials
+2023-08-11 15:00:39,175 INFO Adding Entries
+2023-08-11 15:00:39,176 INFO Getting Entries
+2023-08-11 15:00:39,176 INFO Starting Operation with products: ['iphone 14']
+2023-08-11 15:00:40,504 INFO Connection initialized
+2023-08-11 15:00:40,504 INFO product provided
+2023-08-11 15:00:40,504 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 14&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 15:00:42,414 INFO Successfully redirected to US store
+2023-08-11 15:00:51,212 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-256gb-deep-purple-at-t/6487263?variant=A&skuId=6487263&sort=MOST_RECENT&page=1
+2023-08-11 15:00:56,766 INFO Acquisition of product |iphone 14| initiated
+2023-08-11 15:00:56,766 INFO initialised fresh search
+2023-08-11 15:02:02,239 INFO Quit search after adding 326 reviews
+2023-08-11 15:02:04,618 INFO Analysed data from BestBuy
+2023-08-11 15:02:08,558 INFO Connected to Reddit
+2023-08-11 15:02:36,226 INFO Acquired data from Reddit
+2023-08-11 15:02:36,916 INFO Updated entire database
+2023-08-11 15:02:47,808 INFO Completed Operation
+2023-08-11 15:07:47,126 INFO Acquired Credentials
+2023-08-11 15:07:47,199 INFO Deleted all tables and reset History
+2023-08-11 15:07:47,259 INFO Dropped all tables
+2023-08-11 15:07:47,259 INFO Adding Entries
+2023-08-11 15:07:47,260 INFO Getting Entries
+2023-08-11 15:07:47,260 INFO Starting Operation with products: ['iphone 13']
+2023-08-11 15:07:48,460 INFO Connection initialized
+2023-08-11 15:07:48,460 INFO product provided
+2023-08-11 15:07:48,460 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 13&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 15:07:50,480 INFO Successfully redirected to US store
+2023-08-11 15:08:07,411 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-13-5g-128gb-unlocked-midnight/6417788?variant=A&skuId=6417788&sort=MOST_RECENT&page=1
+2023-08-11 15:08:15,237 INFO Acquisition of product |iphone 13| initiated
+2023-08-11 15:08:15,237 INFO initialised fresh search
+2023-08-11 15:08:58,352 INFO Quit search after adding 270 reviews
+2023-08-11 15:09:00,629 INFO Analysed data from BestBuy
+2023-08-11 15:09:01,678 INFO Connected to Reddit
+2023-08-11 15:09:25,390 INFO Acquired data from Reddit
+2023-08-11 15:09:25,453 INFO Dropped all tables
+2023-08-11 15:09:26,266 INFO Updated entire database
+2023-08-11 15:09:28,566 INFO Completed Operation
+2023-08-11 15:15:23,395 INFO Acquired Credentials
+2023-08-11 15:15:23,457 INFO Deleted all tables and reset History
+2023-08-11 15:15:23,517 INFO Dropped all tables
+2023-08-11 15:15:23,517 INFO Adding Entries
+2023-08-11 15:15:23,518 INFO Getting Entries
+2023-08-11 15:15:23,518 INFO Starting Operation with products: ['haste 2 mouse', 'iphone 14 plus']
+2023-08-11 15:15:24,768 INFO Connection initialized
+2023-08-11 15:15:24,768 INFO product provided
+2023-08-11 15:15:24,769 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 14 plus&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 15:15:24,782 INFO Connection initialized
+2023-08-11 15:15:24,782 INFO product provided
+2023-08-11 15:15:24,783 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=haste 2 mouse&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 15:15:26,592 INFO Successfully redirected to US store
+2023-08-11 15:15:26,609 INFO Successfully redirected to US store
+2023-08-11 15:15:35,606 INFO Found product review link https://www.bestbuy.com/site/reviews/hyperx-pulsefire-haste-2-lightweight-wired-optical-gaming-mouse-with-rgb-lighting-black/6537572?variant=A&skuId=6537572&sort=MOST_RECENT&page=1
+2023-08-11 15:15:45,231 INFO Acquisition of product |haste 2 mouse| initiated
+2023-08-11 15:15:45,231 INFO initialised fresh search
+2023-08-11 15:15:50,162 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-plus-128gb-midnight-verizon/6505124?variant=A&skuId=6505124&sort=MOST_RECENT&page=1
+2023-08-11 15:15:51,252 INFO Quit search after adding 5 reviews
+2023-08-11 15:16:01,248 INFO Acquisition of product |iphone 14 plus| initiated
+2023-08-11 15:16:01,248 INFO initialised fresh search
+2023-08-11 15:16:18,782 INFO Quit search after adding 96 reviews
+2023-08-11 15:16:21,101 INFO Analysed data from BestBuy
+2023-08-11 15:16:22,603 INFO Connected to Reddit
+2023-08-11 15:16:32,391 INFO Acquired data from Reddit
+2023-08-11 15:16:32,457 INFO Dropped all tables
+2023-08-11 15:16:32,954 INFO Updated entire database
+2023-08-11 15:16:37,210 INFO Completed Operation
+2023-08-11 15:29:24,292 INFO Acquired Credentials
+2023-08-11 15:29:24,359 INFO Deleted all tables and reset History
+2023-08-11 15:29:24,437 INFO Dropped all tables
+2023-08-11 15:29:24,437 INFO Adding Entries
+2023-08-11 15:29:24,438 INFO Getting Entries
+2023-08-11 15:29:24,439 INFO Starting Operation with products: ['iphone 11', 'iphone X', 'iphone 12', 'iphone 13', 'iphone 14']
+2023-08-11 15:29:26,520 INFO Connection initialized
+2023-08-11 15:29:26,520 INFO product provided
+2023-08-11 15:29:26,521 INFO Connection initialized
+2023-08-11 15:29:26,521 INFO Connection initialized
+2023-08-11 15:29:26,521 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 12&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 15:29:26,521 INFO product provided
+2023-08-11 15:29:26,521 INFO product provided
+2023-08-11 15:29:26,522 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 14&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 15:29:26,522 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone X&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 15:29:26,596 INFO Connection initialized
+2023-08-11 15:29:26,596 INFO product provided
+2023-08-11 15:29:26,596 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 13&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 15:29:26,825 INFO Connection initialized
+2023-08-11 15:29:26,826 INFO product provided
+2023-08-11 15:29:26,826 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 11&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 15:29:28,220 INFO Successfully redirected to US store
+2023-08-11 15:29:28,363 INFO Successfully redirected to US store
+2023-08-11 15:29:28,415 INFO Successfully redirected to US store
+2023-08-11 15:29:28,802 INFO Successfully redirected to US store
+2023-08-11 15:29:29,636 INFO Successfully redirected to US store
+2023-08-11 15:29:39,522 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-11-64gb-unlocked-black/6510048?variant=A&skuId=6510048&sort=MOST_RECENT&page=1
+2023-08-11 15:29:42,158 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-xs-64gb-unlocked-space-gray/6522700?variant=A&skuId=6522700&sort=MOST_RECENT&page=1
+2023-08-11 15:29:42,347 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-13-5g-128gb-unlocked-midnight/6417788?variant=A&skuId=6417788&sort=MOST_RECENT&page=1
+2023-08-11 15:29:43,845 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-256gb-deep-purple-at-t/6487263?variant=A&skuId=6487263&sort=MOST_RECENT&page=1
+2023-08-11 15:29:46,354 INFO Acquisition of product |iphone 11| initiated
+2023-08-11 15:29:46,355 INFO initialised fresh search
+2023-08-11 15:29:49,028 INFO Acquisition of product |iphone X| initiated
+2023-08-11 15:29:49,028 INFO initialised fresh search
+2023-08-11 15:29:49,871 INFO Acquisition of product |iphone 13| initiated
+2023-08-11 15:29:49,871 INFO initialised fresh search
+2023-08-11 15:29:50,803 INFO Acquisition of product |iphone 14| initiated
+2023-08-11 15:29:50,803 INFO initialised fresh search
+2023-08-11 15:29:54,873 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-12-5g-64gb-unlocked-black/6417831?variant=A&skuId=6417831&sort=MOST_RECENT&page=1
+2023-08-11 15:30:02,924 INFO Acquisition of product |iphone 12| initiated
+2023-08-11 15:30:02,924 INFO initialised fresh search
+2023-08-11 15:30:17,843 INFO Quit search after adding 63 reviews
+2023-08-11 15:30:28,616 INFO Quit search after adding 196 reviews
+2023-08-11 15:30:39,452 INFO Quit search after adding 270 reviews
+2023-08-11 15:30:46,571 INFO Quit search after adding 332 reviews
+2023-08-11 15:31:15,409 INFO Quit search after adding 326 reviews
+2023-08-11 15:31:17,733 INFO Analysed data from BestBuy
+2023-08-11 15:31:21,503 INFO Connected to Reddit
+2023-08-11 15:31:39,967 INFO Acquired data from Reddit
+2023-08-11 15:31:40,030 INFO Dropped all tables
+2023-08-11 15:31:40,574 INFO Updated entire database
+2023-08-11 15:31:51,500 INFO Completed Operation
+2023-08-11 15:32:16,817 INFO Acquired Credentials
+2023-08-11 15:33:08,362 INFO Acquired Credentials
+2023-08-11 15:33:37,927 INFO Acquired Credentials
+2023-08-11 15:33:38,004 INFO Deleted all tables and reset History
+2023-08-11 15:33:38,226 INFO Dropped all tables
+2023-08-11 15:33:38,226 INFO Adding Entries
+2023-08-11 15:33:38,227 INFO Getting Entries
+2023-08-11 15:33:38,227 INFO Starting Operation with products: ['iphone XS', 'iphone 11', 'iphone 12', 'iphone 13', 'iphone 14']
+2023-08-11 15:33:40,104 INFO Connection initialized
+2023-08-11 15:33:40,104 INFO product provided
+2023-08-11 15:33:40,104 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 14&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 15:33:40,107 INFO Connection initialized
+2023-08-11 15:33:40,107 INFO Connection initialized
+2023-08-11 15:33:40,107 INFO product provided
+2023-08-11 15:33:40,107 INFO product provided
+2023-08-11 15:33:40,107 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone XS&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 15:33:40,107 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 13&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 15:33:40,259 INFO Connection initialized
+2023-08-11 15:33:40,259 INFO product provided
+2023-08-11 15:33:40,259 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 12&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 15:33:40,272 INFO Connection initialized
+2023-08-11 15:33:40,272 INFO product provided
+2023-08-11 15:33:40,272 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 11&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 15:33:41,890 INFO Successfully redirected to US store
+2023-08-11 15:33:41,913 INFO Successfully redirected to US store
+2023-08-11 15:33:41,957 INFO Successfully redirected to US store
+2023-08-11 15:33:42,007 INFO Successfully redirected to US store
+2023-08-11 15:33:42,713 INFO Successfully redirected to US store
+2023-08-11 15:33:51,499 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-11-64gb-unlocked-black/6510048?variant=A&skuId=6510048&sort=MOST_RECENT&page=1
+2023-08-11 15:33:55,516 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-pre-owned-iphone-xs-64gb-unlocked-space-gray/6522700?variant=A&skuId=6522700&sort=MOST_RECENT&page=1
+2023-08-11 15:33:55,666 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-256gb-deep-purple-at-t/6487263?variant=A&skuId=6487263&sort=MOST_RECENT&page=1
+2023-08-11 15:33:57,959 INFO Acquisition of product |iphone 11| initiated
+2023-08-11 15:33:57,960 INFO initialised fresh search
+2023-08-11 15:33:58,119 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-12-5g-64gb-unlocked-black/6417831?variant=A&skuId=6417831&sort=MOST_RECENT&page=1
+2023-08-11 15:33:58,973 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-13-5g-128gb-unlocked-midnight/6417788?variant=A&skuId=6417788&sort=MOST_RECENT&page=1
+2023-08-11 15:34:01,840 INFO Acquisition of product |iphone 14| initiated
+2023-08-11 15:34:01,840 INFO initialised fresh search
+2023-08-11 15:34:02,345 INFO Acquisition of product |iphone XS| initiated
+2023-08-11 15:34:02,345 INFO initialised fresh search
+2023-08-11 15:34:06,479 INFO Acquisition of product |iphone 12| initiated
+2023-08-11 15:34:06,479 INFO initialised fresh search
+2023-08-11 15:34:06,732 INFO Acquisition of product |iphone 13| initiated
+2023-08-11 15:34:06,732 INFO initialised fresh search
+2023-08-11 15:34:21,981 INFO Quit search after adding 63 reviews
+2023-08-11 15:34:38,156 INFO Quit search after adding 196 reviews
+2023-08-11 15:34:54,929 INFO Quit search after adding 270 reviews
+2023-08-11 15:34:58,835 INFO Quit search after adding 332 reviews
+2023-08-11 15:35:12,633 INFO Quit search after adding 326 reviews
+2023-08-11 15:35:14,936 INFO Analysed data from BestBuy
+2023-08-11 15:35:18,325 INFO Connected to Reddit
+2023-08-11 15:35:38,852 INFO Acquired data from Reddit
+2023-08-11 15:35:38,931 INFO Dropped all tables
+2023-08-11 15:35:39,628 INFO Updated entire database
+2023-08-11 15:35:39,629 ERROR SentimentAnalysis.__init__() missing 1 required positional argument: 'key'
+2023-08-11 15:35:39,629 WARNING restoring database to previous state
+2023-08-11 15:36:27,478 INFO Acquired Credentials
+2023-08-11 15:36:40,181 INFO Acquired Credentials
+2023-08-11 15:36:40,267 INFO Deleted all tables and reset History
+2023-08-11 15:36:40,327 INFO Dropped all tables
+2023-08-11 15:36:40,327 INFO Adding Entries
+2023-08-11 15:36:40,328 INFO Getting Entries
+2023-08-11 15:36:40,328 INFO Starting Operation with products: ['iphone 12', 'iphone 13', 'iphone 14']
+2023-08-11 15:36:41,880 INFO Connection initialized
+2023-08-11 15:36:41,880 INFO product provided
+2023-08-11 15:36:41,880 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 13&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 15:36:41,883 INFO Connection initialized
+2023-08-11 15:36:41,883 INFO product provided
+2023-08-11 15:36:41,883 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 14&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 15:36:41,886 INFO Connection initialized
+2023-08-11 15:36:41,886 INFO product provided
+2023-08-11 15:36:41,886 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 12&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 15:36:43,589 INFO Successfully redirected to US store
+2023-08-11 15:36:43,594 INFO Successfully redirected to US store
+2023-08-11 15:36:43,738 INFO Successfully redirected to US store
+2023-08-11 15:36:55,061 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-13-5g-128gb-unlocked-midnight/6417788?variant=A&skuId=6417788&sort=MOST_RECENT&page=1
+2023-08-11 15:36:56,933 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-12-5g-64gb-unlocked-black/6417831?variant=A&skuId=6417831&sort=MOST_RECENT&page=1
+2023-08-11 15:37:00,976 INFO Acquisition of product |iphone 13| initiated
+2023-08-11 15:37:00,976 INFO initialised fresh search
+2023-08-11 15:37:03,571 INFO Acquisition of product |iphone 12| initiated
+2023-08-11 15:37:03,571 INFO initialised fresh search
+2023-08-11 15:37:08,439 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-256gb-deep-purple-at-t/6487263?variant=A&skuId=6487263&sort=MOST_RECENT&page=1
+2023-08-11 15:37:15,589 INFO Acquisition of product |iphone 14| initiated
+2023-08-11 15:37:15,589 INFO initialised fresh search
+2023-08-11 15:37:16,820 INFO Quit search after adding 63 reviews
+2023-08-11 15:37:45,180 INFO Quit search after adding 270 reviews
+2023-08-11 15:38:33,412 INFO Quit search after adding 326 reviews
+2023-08-11 15:38:35,723 INFO Analysed data from BestBuy
+2023-08-11 15:38:38,246 INFO Connected to Reddit
+2023-08-11 15:38:56,605 INFO Acquired data from Reddit
+2023-08-11 15:38:56,668 INFO Dropped all tables
+2023-08-11 15:38:57,174 INFO Updated entire database
+2023-08-11 15:45:29,234 INFO Acquired Credentials
+2023-08-11 15:45:36,491 INFO Acquired Credentials
+2023-08-11 15:45:48,262 INFO Acquired Credentials
+2023-08-11 15:45:55,359 INFO Acquired Credentials
+2023-08-11 15:46:12,792 INFO Acquired Credentials
+2023-08-11 15:46:12,856 INFO no file to remove
+2023-08-11 15:46:12,856 INFO Deleted all tables and reset History
+2023-08-11 15:46:12,884 INFO Dropped all tables
+2023-08-11 15:46:12,884 INFO Adding Entries
+2023-08-11 15:46:12,885 INFO Getting Entries
+2023-08-11 15:46:12,885 INFO Starting Operation with products: ['iphone 12', 'iphone 13', 'iphone 14']
+2023-08-11 15:46:14,457 INFO Connection initialized
+2023-08-11 15:46:14,458 INFO product provided
+2023-08-11 15:46:14,458 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 12&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 15:46:14,468 INFO Connection initialized
+2023-08-11 15:46:14,468 INFO product provided
+2023-08-11 15:46:14,468 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 14&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 15:46:14,468 INFO Connection initialized
+2023-08-11 15:46:14,469 INFO product provided
+2023-08-11 15:46:14,469 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 13&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-11 15:46:16,575 INFO Successfully redirected to US store
+2023-08-11 15:46:16,612 INFO Successfully redirected to US store
+2023-08-11 15:46:16,785 INFO Successfully redirected to US store
+2023-08-11 15:46:28,991 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-13-5g-128gb-unlocked-midnight/6417788?variant=A&skuId=6417788&sort=MOST_RECENT&page=1
+2023-08-11 15:46:30,755 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-12-5g-64gb-unlocked-black/6417831?variant=A&skuId=6417831&sort=MOST_RECENT&page=1
+2023-08-11 15:46:33,238 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-max-256gb-deep-purple-at-t/6487263?variant=A&skuId=6487263&sort=MOST_RECENT&page=1
+2023-08-11 15:46:37,100 INFO Acquisition of product |iphone 14| initiated
+2023-08-11 15:46:37,100 INFO initialised fresh search
+2023-08-11 15:46:37,810 INFO Acquisition of product |iphone 13| initiated
+2023-08-11 15:46:37,810 INFO initialised fresh search
+2023-08-11 15:46:38,431 INFO Acquisition of product |iphone 12| initiated
+2023-08-11 15:46:38,431 INFO initialised fresh search
+2023-08-11 15:46:54,505 INFO Quit search after adding 63 reviews
+2023-08-11 15:47:22,300 INFO Quit search after adding 270 reviews
+2023-08-11 15:47:44,196 INFO Quit search after adding 326 reviews
+2023-08-11 15:47:46,526 INFO Analysed data from BestBuy
+2023-08-11 15:47:48,691 INFO Connected to Reddit
+2023-08-11 15:47:58,815 INFO Acquired data from Reddit
+2023-08-11 15:47:58,879 INFO Dropped all tables
+2023-08-11 15:47:59,398 INFO Updated entire database
+2023-08-11 15:48:06,162 INFO Completed Operation
+2023-08-11 16:18:09,218 INFO Acquired Credentials

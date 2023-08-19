@@ -1,0 +1,327 @@
+2023-08-08 11:48:59,030 INFO Acquired Credentials
+2023-08-08 11:49:06,164 INFO Acquired Credentials
+2023-08-08 11:53:14,656 INFO Acquired Credentials
+2023-08-08 11:53:14,759 INFO Deleted all tables and reset History
+2023-08-08 11:53:15,019 INFO Dropped all tables
+2023-08-08 11:53:18,003 INFO Connection initialized
+2023-08-08 11:53:18,003 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 256GB (Unlocked) Blue&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 11:53:18,004 INFO Connection initialized
+2023-08-08 11:53:18,005 INFO Connection initialized
+2023-08-08 11:53:18,005 INFO Connection initialized
+2023-08-08 11:53:18,005 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=steelseries arctis pro headset&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 11:53:18,005 INFO Connection initialized
+2023-08-08 11:53:18,026 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=apple watch series 8&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 11:53:18,025 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=samsung 65" CU7000 TV&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 11:53:18,006 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=insignia retro 3.1 mini fridge&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 11:53:19,519 INFO Successfully redirected to US store
+2023-08-08 11:53:19,659 INFO Successfully redirected to US store
+2023-08-08 11:53:19,740 INFO Successfully redirected to US store
+2023-08-08 11:53:20,281 INFO Successfully redirected to US store
+2023-08-08 11:53:20,292 INFO Successfully redirected to US store
+2023-08-08 11:53:28,613 INFO Found product review link https://www.bestbuy.com/site/reviews/steelseries-arctis-nova-pro-wireless-xbox-multi-gaming-headset-active-noise-cancellation-premium-hi-fi-stealth-retractable-mic-black/6506344?variant=A&skuId=6506344&sort=MOST_RECENT&page=1
+2023-08-08 11:53:28,792 INFO Found product review link https://www.bestbuy.com/site/reviews/insignia-retro-3-1-cu-ft-mini-fridge-with-top-freezer-red/6410015?variant=A&skuId=6410015&sort=MOST_RECENT&page=1
+2023-08-08 11:53:29,183 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-65-class-cu7000-crystal-uhd-4k-uhd-smart-tizen-tv/6537363?variant=A&skuId=6537363&sort=MOST_RECENT&page=1
+2023-08-08 11:53:31,754 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-256gb-unlocked-blue/6512626?variant=A&skuId=6512626&sort=MOST_RECENT&page=1
+2023-08-08 11:53:33,236 INFO Acquisition of product |Insignia™ Retro 3.1 cu. ft. Mini Fridge with Top Freezer Red NS-CFR32RD1| initiated
+2023-08-08 11:53:33,236 INFO initialised fresh search
+2023-08-08 11:53:36,412 INFO Acquisition of product |SteelSeries Arctis Nova Pro Wireless Xbox Multi Gaming Headset Active Noise Cancellation, Premium Hi-Fi & Stealth Retractable Mic Black 61521| initiated
+2023-08-08 11:53:36,412 INFO initialised fresh search
+2023-08-08 11:53:37,504 INFO Acquisition of product |Samsung Galaxy Z Flip4 256GB (Unlocked) Blue SM-F721ULBEXAA| initiated
+2023-08-08 11:53:37,505 INFO initialised fresh search
+2023-08-08 11:53:40,002 INFO Acquisition of product |Samsung 65” Class CU7000 Crystal UHD 4K UHD Smart Tizen TV UN65CU7000FXZA| initiated
+2023-08-08 11:53:40,002 INFO initialised fresh search
+2023-08-08 11:53:47,274 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-watch-series-8-gps-45mm-aluminum-case-with-midnight-sport-band-m-l-midnight/6340256?variant=A&skuId=6340256&sort=MOST_RECENT&page=1
+2023-08-08 11:53:53,654 INFO Acquisition of product |Apple Watch Series 8 (GPS) 45mm Aluminum Case with Midnight Sport Band ML Midnight MNUL3LLA| initiated
+2023-08-08 11:53:53,654 INFO initialised fresh search
+2023-08-08 11:53:57,571 INFO Quit search after adding 92 reviews
+2023-08-08 11:53:59,932 INFO Updated History.csv
+2023-08-08 11:53:59,932 INFO Success!
+2023-08-08 11:55:15,663 INFO Quit search after adding 546 reviews
+2023-08-08 11:55:18,042 INFO Updated History.csv
+2023-08-08 11:55:18,043 INFO Success!
+2023-08-08 11:55:22,618 INFO Quit search after adding 655 reviews
+2023-08-08 11:55:24,931 INFO Updated History.csv
+2023-08-08 11:55:24,931 INFO Success!
+2023-08-08 11:58:23,362 INFO Quit search after adding 1769 reviews
+2023-08-08 11:58:26,070 INFO Updated History.csv
+2023-08-08 11:58:26,070 INFO Success!
+2023-08-08 12:02:35,549 INFO Quit search after adding 3649 reviews
+2023-08-08 12:02:38,056 INFO Updated History.csv
+2023-08-08 12:02:38,056 INFO Success!
+2023-08-08 12:02:38,073 INFO Analysed data from BestBuy
+2023-08-08 12:02:40,621 ERROR Google Trends: Error while acquiring dataframe
+2023-08-08 12:02:41,188 INFO Connected to Reddit
+2023-08-08 12:02:52,406 INFO Acquired data from Reddit
+2023-08-08 12:02:52,470 INFO Dropped all tables
+2023-08-08 12:02:53,194 INFO Updated entire database
+2023-08-08 12:03:10,705 INFO Completed Operation
+2023-08-08 15:53:00,386 INFO Acquired Credentials
+2023-08-08 15:53:07,960 INFO Acquired Credentials
+2023-08-08 15:53:49,207 INFO Acquired Credentials
+2023-08-08 15:53:52,077 INFO Connection initialized
+2023-08-08 15:53:52,077 INFO Connection initialized
+2023-08-08 15:53:52,078 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Insignia™ Retro 3.1 cu. ft. Mini Fridge with &_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 15:53:52,078 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=SteelSeries Arctis Nova Pro Wireless Xbox Mul&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 15:53:52,118 INFO Connection initialized
+2023-08-08 15:53:52,118 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung 65” Class CU7000 Crystal UHD 4K UHD S&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 15:53:52,118 INFO Connection initialized
+2023-08-08 15:53:52,119 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Apple Watch Series 8 (GPS) 45mm Aluminum Case&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 15:53:52,287 INFO Connection initialized
+2023-08-08 15:53:52,287 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 256GB (Unlocked) Blue &_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 15:53:53,527 INFO Successfully redirected to US store
+2023-08-08 15:53:53,627 INFO Successfully redirected to US store
+2023-08-08 15:53:53,754 INFO Successfully redirected to US store
+2023-08-08 15:53:54,010 INFO Successfully redirected to US store
+2023-08-08 15:53:54,015 INFO Successfully redirected to US store
+2023-08-08 15:54:02,971 INFO Found product review link https://www.bestbuy.com/site/reviews/steelseries-arctis-nova-pro-wireless-xbox-multi-gaming-headset-active-noise-cancellation-premium-hi-fi-stealth-retractable-mic-black/6506344?variant=A&skuId=6506344&sort=MOST_RECENT&page=1
+2023-08-08 15:54:03,225 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-watch-series-8-gps-45mm-aluminum-case-with-white-sport-band-m-l-silver/6340265?variant=A&skuId=6340265&sort=MOST_RECENT&page=1
+2023-08-08 15:54:04,106 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-256gb-unlocked-blue/6512626?variant=A&skuId=6512626&sort=MOST_RECENT&page=1
+2023-08-08 15:54:04,196 INFO Found product review link https://www.bestbuy.com/site/reviews/insignia-retro-3-1-cu-ft-mini-fridge-with-top-freezer-mint/6410013?variant=A&skuId=6410013&sort=MOST_RECENT&page=1
+2023-08-08 15:54:05,523 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-65-class-cu7000-crystal-uhd-4k-uhd-smart-tizen-tv/6537363?variant=A&skuId=6537363&sort=MOST_RECENT&page=1
+2023-08-08 15:54:09,704 INFO Acquisition of product |Apple Watch Series 8 (GPS) 45mm Aluminum Case with White Sport Band ML Silver MP6Q3LLA| initiated
+2023-08-08 15:54:09,704 INFO initialised fresh search
+2023-08-08 15:54:10,577 INFO Acquisition of product |SteelSeries Arctis Nova Pro Wireless Xbox Multi Gaming Headset Active Noise Cancellation, Premium Hi-Fi & Stealth Retractable Mic Black 61521| initiated
+2023-08-08 15:54:10,605 INFO initialised search in update mode
+2023-08-08 15:54:10,606 INFO Acquisition of product |Insignia™ Retro 3.1 cu. ft. Mini Fridge with Top Freezer Mint NS-CFR32MT1| initiated
+2023-08-08 15:54:10,606 INFO initialised fresh search
+2023-08-08 15:54:13,044 INFO Acquisition of product |Samsung Galaxy Z Flip4 256GB (Unlocked) Blue SM-F721ULBEXAA| initiated
+2023-08-08 15:54:13,068 INFO initialised search in update mode
+2023-08-08 15:54:13,873 INFO Quit search after adding 0 reviews
+2023-08-08 15:54:14,159 INFO Acquisition of product |Samsung 65” Class CU7000 Crystal UHD 4K UHD Smart Tizen TV UN65CU7000FXZA| initiated
+2023-08-08 15:54:14,179 INFO initialised search in update mode
+2023-08-08 15:54:16,194 INFO Quit search after adding 0 reviews
+2023-08-08 15:54:16,213 INFO Updated History.csv
+2023-08-08 15:54:16,214 INFO Success!
+2023-08-08 15:54:17,175 INFO Quit search after adding 0 reviews
+2023-08-08 15:54:18,489 INFO Updated History.csv
+2023-08-08 15:54:18,489 INFO Success!
+2023-08-08 15:54:19,522 INFO Updated History.csv
+2023-08-08 15:54:19,522 INFO Success!
+2023-08-08 15:54:39,269 INFO Analysed data from BestBuy
+2023-08-08 15:54:40,755 ERROR Google Trends: Error while acquiring dataframe
+2023-08-08 15:54:41,189 INFO Connected to Reddit
+2023-08-08 15:54:43,735 INFO Acquired data from Reddit
+2023-08-08 15:54:44,587 INFO Updated entire database
+2023-08-08 15:55:01,986 INFO Completed Operation
+2023-08-08 15:56:09,717 INFO Acquired Credentials
+2023-08-08 15:56:09,790 INFO Deleted all tables and reset History
+2023-08-08 15:56:09,904 INFO Dropped all tables
+2023-08-08 15:56:12,036 INFO Connection initialized
+2023-08-08 15:56:12,036 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung 65” Class CU7000 Crystal UHD 4K UHD S&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 15:56:12,146 INFO Connection initialized
+2023-08-08 15:56:12,146 INFO Connection initialized
+2023-08-08 15:56:12,146 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Insignia™ Retro 3.1 cu. ft. Mini Fridge with &_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 15:56:12,146 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 256GB (Unlocked) Blue&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 15:56:12,148 INFO Connection initialized
+2023-08-08 15:56:12,148 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=samsung fridge&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 15:56:12,149 INFO Connection initialized
+2023-08-08 15:56:12,149 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=SteelSeries Arctis Nova Pro Wireless Xbox Mul&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 15:56:13,169 INFO Successfully redirected to US store
+2023-08-08 15:56:13,177 INFO Successfully redirected to US store
+2023-08-08 15:56:13,217 INFO Successfully redirected to US store
+2023-08-08 15:56:13,230 INFO Successfully redirected to US store
+2023-08-08 15:56:13,246 INFO Successfully redirected to US store
+2023-08-08 15:56:21,082 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-256gb-unlocked-blue/6512626?variant=A&skuId=6512626&sort=MOST_RECENT&page=1
+2023-08-08 15:56:21,664 INFO Found product review link https://www.bestbuy.com/site/reviews/insignia-retro-3-1-cu-ft-mini-fridge-with-top-freezer-mint/6410013?variant=A&skuId=6410013&sort=MOST_RECENT&page=1
+2023-08-08 15:56:21,731 INFO Found product review link https://www.bestbuy.com/site/reviews/steelseries-arctis-nova-pro-wireless-xbox-multi-gaming-headset-active-noise-cancellation-premium-hi-fi-stealth-retractable-mic-black/6506344?variant=A&skuId=6506344&sort=MOST_RECENT&page=1
+2023-08-08 15:56:22,725 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-65-class-cu7000-crystal-uhd-4k-uhd-smart-tizen-tv/6537363?variant=A&skuId=6537363&sort=MOST_RECENT&page=1
+2023-08-08 15:56:23,671 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-26-7-cu-ft-side-by-side-refrigerator-with-21-5-touch-screen-family-hub-stainless-steel/6397590?variant=A&skuId=6397590&sort=MOST_RECENT&page=1
+2023-08-08 15:56:26,252 INFO Acquisition of product |Samsung Galaxy Z Flip4 256GB (Unlocked) Blue SM-F721ULBEXAA| initiated
+2023-08-08 15:56:26,253 INFO initialised fresh search
+2023-08-08 15:56:27,460 INFO Acquisition of product |Samsung 65” Class CU7000 Crystal UHD 4K UHD Smart Tizen TV UN65CU7000FXZA| initiated
+2023-08-08 15:56:27,460 INFO initialised fresh search
+2023-08-08 15:56:27,908 INFO Acquisition of product |Insignia™ Retro 3.1 cu. ft. Mini Fridge with Top Freezer Mint NS-CFR32MT1| initiated
+2023-08-08 15:56:27,908 INFO initialised fresh search
+2023-08-08 15:56:28,111 INFO Acquisition of product |SteelSeries Arctis Nova Pro Wireless Xbox Multi Gaming Headset Active Noise Cancellation, Premium Hi-Fi & Stealth Retractable Mic Black 61521| initiated
+2023-08-08 15:56:28,111 INFO initialised fresh search
+2023-08-08 15:56:31,192 INFO Acquisition of product |Samsung 26.7 Cu. Ft. Side-by-Side Refrigerator with 21.5" Touch-Screen Family Hub Stainless Steel RS27T5561SRAA| initiated
+2023-08-08 15:56:31,192 INFO initialised fresh search
+2023-08-08 15:56:44,137 INFO Quit search after adding 92 reviews
+2023-08-08 15:56:46,490 INFO Updated History.csv
+2023-08-08 15:56:46,490 INFO Success!
+2023-08-08 15:57:54,743 INFO Quit search after adding 546 reviews
+2023-08-08 15:57:57,038 INFO Updated History.csv
+2023-08-08 15:57:57,038 INFO Success!
+2023-08-08 15:58:04,988 INFO Quit search after adding 655 reviews
+2023-08-08 15:58:07,289 INFO Updated History.csv
+2023-08-08 15:58:07,290 INFO Success!
+2023-08-08 15:58:31,490 INFO Quit search after adding 681 reviews
+2023-08-08 15:58:33,874 INFO Updated History.csv
+2023-08-08 15:58:33,874 INFO Success!
+2023-08-08 15:59:19,869 INFO Analysed data from BestBuy
+2023-08-08 15:59:22,045 ERROR Google Trends: Error while acquiring dataframe
+2023-08-08 15:59:22,236 INFO Connected to Reddit
+2023-08-08 15:59:25,454 INFO Acquired data from Reddit
+2023-08-08 15:59:25,520 INFO Dropped all tables
+2023-08-08 15:59:28,337 INFO Updated entire database
+2023-08-08 15:59:32,900 INFO Completed Operation
+2023-08-08 16:00:00,083 INFO Acquired Credentials
+2023-08-08 16:00:00,150 INFO Deleted all tables and reset History
+2023-08-08 16:00:00,299 INFO Dropped all tables
+2023-08-08 16:00:00,299 ERROR No objects to concatenate
+2023-08-08 16:00:00,299 WARNING restoring database to previous state
+2023-08-08 16:00:12,899 INFO Acquired Credentials
+2023-08-08 16:00:12,960 INFO Deleted all tables and reset History
+2023-08-08 16:00:13,079 INFO Dropped all tables
+2023-08-08 16:00:13,079 ERROR No objects to concatenate
+2023-08-08 16:00:13,079 WARNING restoring database to previous state
+2023-08-08 16:00:17,867 INFO Acquired Credentials
+2023-08-08 16:00:17,931 INFO Deleted all tables and reset History
+2023-08-08 16:00:18,046 INFO Dropped all tables
+2023-08-08 16:00:18,046 ERROR No objects to concatenate
+2023-08-08 16:00:18,046 WARNING restoring database to previous state
+2023-08-08 16:00:22,871 INFO Acquired Credentials
+2023-08-08 16:00:22,936 INFO Deleted all tables and reset History
+2023-08-08 16:00:23,056 INFO Dropped all tables
+2023-08-08 16:00:23,056 ERROR No objects to concatenate
+2023-08-08 16:00:23,056 WARNING restoring database to previous state
+2023-08-08 16:00:27,942 INFO Acquired Credentials
+2023-08-08 16:00:28,009 INFO Deleted all tables and reset History
+2023-08-08 16:00:28,124 INFO Dropped all tables
+2023-08-08 16:00:28,125 ERROR No objects to concatenate
+2023-08-08 16:00:28,125 WARNING restoring database to previous state
+2023-08-08 16:00:49,298 INFO Acquired Credentials
+2023-08-08 16:00:56,349 INFO Acquired Credentials
+2023-08-08 16:01:02,559 INFO Acquired Credentials
+2023-08-08 16:01:02,636 INFO Deleted all tables and reset History
+2023-08-08 16:01:02,693 INFO Dropped all tables
+2023-08-08 16:01:02,694 ERROR No objects to concatenate
+2023-08-08 16:01:02,694 WARNING restoring database to previous state
+2023-08-08 16:01:35,015 INFO Acquired Credentials
+2023-08-08 16:01:35,080 INFO Deleted all tables and reset History
+2023-08-08 16:01:35,202 INFO Dropped all tables
+2023-08-08 16:01:36,415 INFO Connection initialized
+2023-08-08 16:01:36,415 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=Samsung Galaxy Z Flip4 256GB (Unlocked) Blue&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 16:01:37,559 INFO Successfully redirected to US store
+2023-08-08 16:01:45,782 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-galaxy-z-flip4-256gb-unlocked-blue/6512626?variant=A&skuId=6512626&sort=MOST_RECENT&page=1
+2023-08-08 16:01:50,806 INFO Acquisition of product |Samsung Galaxy Z Flip4 256GB (Unlocked) Blue SM-F721ULBEXAA| initiated
+2023-08-08 16:01:50,806 INFO initialised fresh search
+2023-08-08 16:02:05,558 INFO Quit search after adding 92 reviews
+2023-08-08 16:02:07,829 INFO Updated History.csv
+2023-08-08 16:02:07,829 INFO Success!
+2023-08-08 16:02:07,833 INFO Analysed data from BestBuy
+2023-08-08 16:02:08,922 ERROR Google Trends: Error while acquiring dataframe
+2023-08-08 16:02:08,952 INFO Connected to Reddit
+2023-08-08 16:02:10,458 INFO Acquired data from Reddit
+2023-08-08 16:02:10,533 INFO Dropped all tables
+2023-08-08 16:02:10,931 INFO Updated entire database
+2023-08-08 16:02:13,108 INFO Completed Operation
+2023-08-08 16:04:03,377 INFO Acquired Credentials
+2023-08-08 16:04:04,668 INFO Connection initialized
+2023-08-08 16:04:04,668 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=samsung fridge&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 16:04:05,648 INFO Successfully redirected to US store
+2023-08-08 16:04:14,043 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-26-7-cu-ft-side-by-side-refrigerator-with-21-5-touch-screen-family-hub-stainless-steel/6397590?variant=A&skuId=6397590&sort=MOST_RECENT&page=1
+2023-08-08 16:04:19,885 INFO Acquisition of product |Samsung 26.7 Cu. Ft. Side-by-Side Refrigerator with 21.5" Touch-Screen Family Hub Stainless Steel RS27T5561SRAA| initiated
+2023-08-08 16:04:19,885 INFO initialised fresh search
+2023-08-08 16:05:57,209 INFO Quit search after adding 681 reviews
+2023-08-08 16:05:59,538 INFO Updated History.csv
+2023-08-08 16:05:59,538 INFO Success!
+2023-08-08 16:05:59,607 INFO Analysed data from BestBuy
+2023-08-08 16:06:00,449 INFO Connected to Reddit
+2023-08-08 16:06:03,349 INFO Acquired data from Reddit
+2023-08-08 16:06:03,350 ERROR All objects passed were None
+2023-08-08 16:06:03,350 WARNING restoring database to previous state
+2023-08-08 16:11:35,745 INFO Acquired Credentials
+2023-08-08 16:11:42,866 INFO Acquired Credentials
+2023-08-08 16:12:02,608 INFO Acquired Credentials
+2023-08-08 16:12:03,920 INFO Connection initialized
+2023-08-08 16:12:03,920 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=samsung fridge&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 16:12:05,054 INFO Successfully redirected to US store
+2023-08-08 16:12:12,690 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-26-7-cu-ft-side-by-side-refrigerator-with-21-5-touch-screen-family-hub-stainless-steel/6397590?variant=A&skuId=6397590&sort=MOST_RECENT&page=1
+2023-08-08 16:12:17,797 INFO Acquisition of product |Samsung 26.7 Cu. Ft. Side-by-Side Refrigerator with 21.5" Touch-Screen Family Hub Stainless Steel RS27T5561SRAA| initiated
+2023-08-08 16:12:17,797 INFO initialised fresh search
+2023-08-08 16:13:45,797 INFO Quit search after adding 681 reviews
+2023-08-08 16:13:48,063 INFO Updated History.csv
+2023-08-08 16:13:48,063 INFO Success!
+2023-08-08 16:13:48,133 INFO Analysed data from BestBuy
+2023-08-08 16:13:49,535 INFO Connected to Reddit
+2023-08-08 16:13:52,431 INFO Acquired data from Reddit
+2023-08-08 16:13:53,088 INFO Updated entire database
+2023-08-08 16:13:58,123 INFO Completed Operation
+2023-08-08 16:14:10,475 INFO Acquired Credentials
+2023-08-08 16:14:11,842 INFO Connection initialized
+2023-08-08 16:14:11,842 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=samsung gas stove&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 16:14:11,856 INFO Connection initialized
+2023-08-08 16:14:11,856 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=HP - ENVY 6455e&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 16:14:13,258 INFO Successfully redirected to US store
+2023-08-08 16:14:13,469 INFO Successfully redirected to US store
+2023-08-08 16:14:22,100 INFO Found product review link https://www.bestbuy.com/site/reviews/hp-envy-6455e-wireless-all-in-one-inkjet-printer-with-3-months-of-instant-ink-included-with-hp-white/6454287?variant=A&skuId=6454287&sort=MOST_RECENT&page=1
+2023-08-08 16:14:23,022 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-6-0-cu-ft-freestanding-gas-range-with-18k-btu-dual-power-burner-wifi-self-clean-stainless-steel/6447913?variant=A&skuId=6447913&sort=MOST_RECENT&page=1
+2023-08-08 16:14:29,807 INFO Acquisition of product |HP ENVY 6455e Wireless All-In-One Inkjet Printer with 3 months of Instant Ink Included with HP+ White ENVY 6455e| initiated
+2023-08-08 16:14:29,808 INFO initialised fresh search
+2023-08-08 16:14:30,035 INFO Acquisition of product |Samsung 6.0 cu. ft. Freestanding Gas Range with 18K BTU Dual Power Burner, WiFi & Self Clean Stainless Steel NX60A6311SSAA| initiated
+2023-08-08 16:14:30,035 INFO initialised fresh search
+2023-08-08 16:15:35,775 INFO Quit search after adding 423 reviews
+2023-08-08 16:15:38,056 INFO Updated History.csv
+2023-08-08 16:15:38,057 INFO Success!
+2023-08-08 16:23:10,323 INFO Quit search after adding 3559 reviews
+2023-08-08 16:23:12,745 INFO Updated History.csv
+2023-08-08 16:23:12,745 INFO Success!
+2023-08-08 16:23:12,827 INFO Analysed data from BestBuy
+2023-08-08 16:23:14,627 INFO Connected to Reddit
+2023-08-08 16:23:26,518 INFO Acquired data from Reddit
+2023-08-08 16:23:27,162 INFO Updated entire database
+2023-08-08 16:23:37,382 INFO Completed Operation
+2023-08-08 16:43:03,802 INFO Acquired Credentials
+2023-08-08 16:43:03,875 INFO Deleted all tables and reset History
+2023-08-08 16:43:03,942 INFO Dropped all tables
+2023-08-08 16:43:06,448 INFO Connection initialized
+2023-08-08 16:43:06,448 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=xbox series X&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 16:43:06,449 INFO Connection initialized
+2023-08-08 16:43:06,449 INFO Connection initialized
+2023-08-08 16:43:06,450 INFO Connection initialized
+2023-08-08 16:43:06,450 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=nintendo switch OLED&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 16:43:06,450 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=iphone 14 pro&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 16:43:06,450 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=samsung mini fridge&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 16:43:06,479 INFO Connection initialized
+2023-08-08 16:43:06,480 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=playstation 5&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 16:43:06,483 INFO Connection initialized
+2023-08-08 16:43:06,483 INFO searching url https://www.bestbuy.com/site/searchpage.jsp?st=lg washing mashine&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys
+2023-08-08 16:43:07,710 INFO Successfully redirected to US store
+2023-08-08 16:43:07,884 INFO Successfully redirected to US store
+2023-08-08 16:43:08,038 INFO Successfully redirected to US store
+2023-08-08 16:43:08,165 INFO Successfully redirected to US store
+2023-08-08 16:43:08,192 INFO Successfully redirected to US store
+2023-08-08 16:43:08,201 INFO Successfully redirected to US store
+2023-08-08 16:43:19,878 INFO Found product review link https://www.bestbuy.com/site/reviews/nintendo-switch-oled-console-the-legend-of-zelda-tears-of-the-kingdom-edition/6540265?variant=A&skuId=6540265&sort=MOST_RECENT&page=1
+2023-08-08 16:43:20,220 INFO Found product review link https://www.bestbuy.com/site/reviews/lg-4-5-cu-ft-high-efficiency-stackable-smart-front-load-washer-with-steam-and-built-in-intelligence-white/6419621?variant=A&skuId=6419621&sort=MOST_RECENT&page=1
+2023-08-08 16:43:21,015 INFO Found product review link https://www.bestbuy.com/site/reviews/samsung-bespoke-counter-depth-side-by-side-refrigerator-with-beverage-center-stainless-steel/6529229?variant=A&skuId=6529229&sort=MOST_RECENT&page=1
+2023-08-08 16:43:21,179 INFO Found product review link https://www.bestbuy.com/site/reviews/microsoft-xbox-series-x-1tb-console-diablo-iv-bundle-black/6537717?variant=A&skuId=6537717&sort=MOST_RECENT&page=1
+2023-08-08 16:43:24,809 INFO Acquisition of product |Nintendo Switch OLED Console The Legend of Zelda: Tears of the Kingdom Edition HEGSKDAAA| initiated
+2023-08-08 16:43:24,809 INFO initialised fresh search
+2023-08-08 16:43:25,029 INFO Acquisition of product |LG 4.5 Cu. Ft. High-Efficiency Stackable Smart Front Load Washer with Steam and Built-In Intelligence White WM4000HWA| initiated
+2023-08-08 16:43:25,029 INFO initialised fresh search
+2023-08-08 16:43:26,381 INFO Acquisition of product |Microsoft Xbox Series X 1TB Console Diablo IV Bundle Black RRT-00027| initiated
+2023-08-08 16:43:26,381 INFO initialised fresh search
+2023-08-08 16:43:28,553 INFO Found product review link https://www.bestbuy.com/site/reviews/sony-playstation-5-console/6523167?variant=A&skuId=6523167&sort=MOST_RECENT&page=1
+2023-08-08 16:43:31,139 INFO Found product review link https://www.bestbuy.com/site/reviews/apple-iphone-14-pro-128gb-space-black-at-t/6487239?variant=A&skuId=6487239&sort=MOST_RECENT&page=1
+2023-08-08 16:43:32,317 INFO Acquisition of product |Samsung Bespoke Counter Depth Side-by-Side Refrigerator with Beverage Center Stainless Steel RS23CB7600QLAA| initiated
+2023-08-08 16:43:32,317 INFO initialised fresh search
+2023-08-08 16:43:36,462 INFO Acquisition of product |Sony PlayStation 5 Console 1000031652| initiated
+2023-08-08 16:43:36,462 INFO initialised fresh search
+2023-08-08 16:43:39,224 INFO Acquisition of product |Apple iPhone 14 Pro 128GB Space Black (AT&T) MPXT3LLA| initiated
+2023-08-08 16:43:39,224 INFO initialised fresh search
+2023-08-08 16:43:44,323 INFO Quit search after adding 40 reviews
+2023-08-08 16:43:46,688 INFO Updated History.csv
+2023-08-08 16:43:46,688 INFO Success!
+2023-08-08 16:44:18,883 INFO Quit search after adding 299 reviews
+2023-08-08 16:44:21,184 INFO Updated History.csv
+2023-08-08 16:44:21,184 INFO Success!
+2023-08-08 16:44:31,987 INFO Quit search after adding 270 reviews
+2023-08-08 16:44:34,345 INFO Updated History.csv
+2023-08-08 16:44:34,345 INFO Success!
+2023-08-08 16:47:54,002 INFO Quit search after adding 1610 reviews
+2023-08-08 16:47:56,372 INFO Updated History.csv
+2023-08-08 16:47:56,372 INFO Success!
+2023-08-08 16:56:51,731 INFO Quit search after adding 4577 reviews
+2023-08-08 16:56:54,306 INFO Updated History.csv
+2023-08-08 16:56:54,306 INFO Success!
+2023-08-08 17:01:19,796 INFO Quit search after adding 6274 reviews
+2023-08-08 17:01:22,246 INFO Updated History.csv
+2023-08-08 17:01:22,246 INFO Success!
+2023-08-08 17:01:22,274 INFO Analysed data from BestBuy
+2023-08-08 17:01:27,308 INFO Connected to Reddit
+2023-08-08 17:02:00,922 INFO Acquired data from Reddit
+2023-08-08 17:02:00,987 INFO Dropped all tables
+2023-08-08 17:02:01,919 INFO Updated entire database
+2023-08-08 17:02:03,653 INFO Completed Operation

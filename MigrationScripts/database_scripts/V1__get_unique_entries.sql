@@ -1,0 +1,1 @@
+SELECT "PK_Md" from "ProductAnalysis"."fctHistory"
